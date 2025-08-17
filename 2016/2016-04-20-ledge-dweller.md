@@ -1,0 +1,42 @@
+---
+published: true
+title: "Ledge-dweller"
+id: "6592"
+slug: "ledge-dweller"
+author: rv
+date: 2016-04-20 10:09
+categories: Photography,Spirit of Japan 3
+---
+Today was pretty much the opposite of yesterday. Yesterday got worse as the day went on, but today got better as it neared sunset. Then again, it started out pretty bad.
+
+Sleeping in a tent seems to have reset my jetlag somewhat. I slept at 8PM because it was getting really cold and there wasn't really anything else to do, but somehow I managed to keep on sleeping until 6:30 ish. My tent was very damp on the inside, as it usually is. It's not a very good tent, but it is a very light and small tent. I'd left my phone out in the tent rather than stuffing it into a bag, and it felt quite moist in the morning. It seemed fine after using it to check out the route for the day.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0245PS.jpg" rel="attachment wp-att-6593"><img class="aligncenter size-medium wp-image-6593" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0245PS-400x283.jpg" alt="IMG_0245PS" width="400" height="283" /></a>
+
+So I set off, turned into the scenic route road after 2 kilometers, cycled along a bit and then checked my phone to see which way to go. My phone was dead. It kept restarting almost immediately after booting up. This meant a disaster for me because the phone is where all my offline maps are stored. Japan's road signs are pretty damn good but I'd have to stick to only major roads if I didn't have maps. I need maps. I somehow managed to open the maps app before it restarted again, only to find the maps app asking me if I would like to download any offline maps, since it had no maps available. FFFFUUUUUUUUUUU
+
+I took out the SD card on a hunch, since my phone's had problems with sd cards twice before in the past, and indeed the phone booted up normally this time. Not with maps though, because they were stored on the SD card. Well, shit. The scenic route I had planned wasn't going to take me anywhere near internet for a long time, so I decided to give the route a go just based on the map outline and my placemarks, which had somehow been preserved. That didn't go so well. I took a wrong turn not long after, but it took several kilometers for the wrongness to show up on the zoomed-out map on my phone. At that point I did know which way had been the right way, but I wasn't planning on doing a several-kilometer-long detour every time that happens. So I turned back to the main road. 10 kilometers lost. With serious climbs too. Shikattanai.
+
+Back on the main road I turned on the GoPro and some music and started cycling. It was pretty tough, but also satisfying to make good progress. As I went along I kept my eye out for conbinis, which I hadn't seen since yesterday's lunch. Almost a record for Japan standards. The 7-11s usually have free wifi, but for some reason the 7-11 that was my very first conbini spot after a day, did not. Oh well, at least I had a chance to stock up on supplies.
+
+Free wifi really isn't as easy as Japan pretends it to be. No matter where you are, somehow even in the middle of nowhere, there's always this '.FREE_Wi-Fi_PASSPORT' network. Unfortunately it doesn't work for shit. You're supposed to call a phone number on your phone while using Softbank as your phone provider, and then they'll give you free internet for 2 weeks. Sadly, no matter how many variations of the number I try, none of them connect. I am not impressed, Softbank. The 7-11 wifi is way better. It's even free to use longer than a limited time right now because of the Kyushu earthquake. Very well done, 7-11.
+
+Fortunately for me the second 7-11 I passed did have working wifi, and I used the opportunity to re-download the map of my area and book a hotel for later in the day. Very pleasing! That moment really did seem like the first thing that went right ever since I chose not to go back to the first campsite I found yesterday.
+
+With navigation restored I decided to take another scenic route to get to Hagi. This time the GoPro stopped working though. It had plenty of battery and storage space, it just decided to stop working and just showed '1' on the display. I've had a look at the footage I made so far and it looks amazing. Great quality, and somehow it seems faster on video than when I was actually cycling it. But the GoPro hero's controls are by far the worst and most unreliable I have ever come across on a device. The thing only has two buttons, and I only need to use one: the record button. Press it once, it records. Don't do anything else and nothing can go wrong. Except it does go wrong <em>all the fucking time</em>. It's a shit interface and I get frustrated every time I use it. It never does what you expect it to do, and what you expect it to do is just really really simple.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0300.jpg" rel="attachment wp-att-6594"><img class="aligncenter size-medium wp-image-6594" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0300-400x300.jpg" alt="IMG_0300" width="400" height="300" /></a>
+
+The scenic route to Hagi was indeed extremely scenic, and took me to some serious mountain roads. It was a lot more ups and downs than I expected, but the scenery easily made up for it. Perfect weather, perfect roads. I had a great day. To make things even better, as soon as I was done rolling down the mountain road that finally led into Hagi I drove straight into a Sukiya. The perfect lunch!
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0352.jpg" rel="attachment wp-att-6596"><img class="aligncenter size-medium wp-image-6596" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0352-400x300.jpg" alt="IMG_0352" width="400" height="300" /></a>
+
+It turns out that Hagi is a castle town and a world heritage site. I did not know that prior to coming here. Ignorance is full of pleasant surprises! Loads of houses in Hagi look castle-like, and the castle-like district is very accessible by bicyce, so I had a pleasant cycle through all the little streets. There was a lovely beach as well where a bunch of people were walking around. The only thing I could think of was to finally sit down and relax. The places other people go to move, I go to rest.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0357.jpg" rel="attachment wp-att-6595"><img class="aligncenter size-medium wp-image-6595" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0357-400x300.jpg" alt="IMG_0357" width="400" height="300" /></a>
+
+As I cycled on to my hotel I realized I could see it from afar, which is not good. The climb to get up to it was easily the steepest I've cycled on this trip, and I was exhausted and sweating when I reached the ultra-posh reception. The hotel staff treated me kindly and provided a safe place inside to put my bike. It's quite a contrast with the shitty camp site from yesterday, and I don't regret it one bit. The view from the room is fantastic and I had lovely dip in the onsen just now, also with a great view. It was a good ending to the day. Things are back on track again now. The setbacks weren't fun, but when it's over it does help me learn to accept bad outcomes. And even then, bad is better than boring.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0388.jpg" rel="attachment wp-att-6597"><img class="aligncenter size-medium wp-image-6597" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_0388-400x300.jpg" alt="IMG_0388" width="400" height="300" /></a>
+
+I'm not quite sure if I've thought of a purpose for this trip; something to keep my brain busy while I cycle and post-cycle relax. For the first big trip it was easy: figure out what to do with my life and whether to go back to Holland or stay in Japan. For the second trip I'm not sure if I had one during the trip, but in retrspect it's quite clear to me that the second trip was about testing my physical limits. I was very fit back then, and I did that trip way too efficiently. I will try to allow for more distractions during this trip. That's not quite a goal though. For now, I've settled on this as a goal: lately my beliefs about myself seem to be getting a bit detached from reality. It's best if I update those. I am not as fit as I thought I was. I am fatter than I thought I was. I'm probably dumber than I think I am. I'll think of some more while I cycle.

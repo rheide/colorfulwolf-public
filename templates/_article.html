@@ -1,0 +1,76 @@
+<div class="content_container  post_standard">
+<div class="content" role="main">
+
+<div class="post type-post status-publish format-standard hentry">
+    <h2 class="entry-title">
+    <a href="{{ article.url }}" title="Permalink to {{ article.title }}" rel="bookmark">{{ article.title }}</a>
+    </h2>
+
+    <div class="entry-meta">
+        <span class="meta-prep meta-prep-author">Posted on</span>
+        <a href="{{ article.url }}" title="{{ article.formatted_time }}" rel="bookmark">
+            <span class="entry-date">{{ article.formatted_date }}</span>
+        </a>
+         by 
+        <span class="author vcard">
+            {{ article.author }}
+        </span>
+    </div>
+
+    <div class="entry-content">
+        {{ article.formatted_content|safe }}
+    </div>
+
+    <div class="entry-utility">
+        {% if article.categories %}
+        <span class="cat-links">
+            <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+            {% for cat in article.categories %}
+                {% if loop.index > 1 %}
+                , 
+                {% endif %}
+                <a href="{{ BASE_URL }}/category/{{ cat.slug }}/" rel="category tag">{{ cat.name }}</a>
+            {% endfor %}
+        </span>
+        {% endif %}
+
+        {% if article.categories and article.tags %} | {% endif %}
+
+        {% if article.tags %}
+            <span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span>
+            {% for tag in article.tags %}
+                {% if loop.index > 1 %}
+                , 
+                {% endif %}
+                <a href="{{ BASE_URL }}/tag/{{ tag.slug }}/" rel="tag">{{ tag.name }}</a>
+            {% endfor %}
+        {% endif %}
+    </div>
+    {% if is_article_page and COMMENT_SUBMIT_URL %}
+    <div class="comments content">
+        <div id="entry-comments"></div>
+        <form class="comment-form" id="comment-form" name="comment-form" action="{{ COMMENT_SUBMIT_URL }}" method="POST">
+            <h4>Submit comment</h4>
+            <input type="hidden" name="article_slug" value="{{ article.slug }}"/>
+            <input type="hidden" name="article_date" value="{{ article.date.date().isoformat() }}"/>
+            <label for="comment-form-name">Name: </label>
+            <br/>
+            <input id="comment-form-name" type="text" name="name" value="" required/>
+            <br/>
+            <label for="comment-form-email">Email (optional): </label>
+            <br/><input id="comment-form-email" type="email" name="email" value="" />
+            <br/>
+            <label for="comment-form-email">Comment: </label>
+            <br/>
+            <textarea name="comment" required></textarea>
+            <div id="comment-form-captcha" ></div>
+            <p>After approval your comment will be visible publicly. Your email will never be visible publicly.</p>
+            <div class="form-error" id="comment-form-error" style="display: none"></div>
+            <input type="submit" value="Submit"/>
+        </form>
+    </div>
+    {% endif %}
+</div>
+
+</div>
+</div>

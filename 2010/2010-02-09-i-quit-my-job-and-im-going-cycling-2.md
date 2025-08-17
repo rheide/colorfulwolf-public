@@ -1,0 +1,30 @@
+---
+published: true
+title: "I quit my job and I&#039;m going cycling!"
+id: "2044"
+slug: "i-quit-my-job-and-im-going-cycling-2"
+author: rv
+date: 2010-02-09 11:26
+categories: Cycling,Daily Life,Japan,Spirit of Japan,Thoughts,Travel
+tags: crazy
+---
+Wow. Where to start. I wrote a very long post last Sunday that I was intending to post today, but after looking at it again I feel that it somehow doesn't accurately portray the things that I am feeling right now. I'm not sure that any kind of blogpost written by me could convey what I'm feeling right now, but I'll try. To business first: I've decided to quit my job at the end of March. In the beginning of April I will begin a cycling trip of which I don't know where or when it will end. I will leave my old life behind and go searching for something new.
+
+There. I feel better now that I've finally said it. Of course this isn't a spur-of-the-moment decision: I've spent a lot of time thinking about this, starting as far back as in <a href="/blog/2009/12/07/yoron-2/" target="_blank">December</a>. It may seem like a crazy decision to leave behind a safe and (fairly) happy life for something uncertain, but if you could see the world from my point of view you would completely understand. I've looked at my decision and my future options from the positive side and from the negative side, and after trying out a lot of different ideas in my head I've always come to the same conclusion: I don't know what I want to do with my life, but I'm certain that I don't want to waste my time doing things that I already did before. I've been here for four years, and no matter what, I must leave here. This is an absolute certainty for me.
+
+The where-to-go part is less certain, though. Finding another job is one option, which I've considered many times before, and in fact acted upon many times as well. Unfortunately, my few attempts at applying for a job that genuinely interested me did not meet with success. So here I am, with a contract that's about to expire, no new job yet, and, let's be fair, not a lot of friends here. My self-chosen lifestyle is not easy, and it's been getting increasingly boring as friend after friend went back to their own country. Making local friends is.... possible, but difficult. Difficult enough for me to consider another option: admitting defeat and going back to Holland.
+
+You can tell from my phrasing that I'm not too fond of this option. At first when I realized that my contract would soon be ending I gave myself a deadline: find a job in Japan before your contract ends, or go back to Holland. Plain and simple. But it just doesn't feel right, and I've come up with all kinds of (good and bad) reasons for not doing this. Holland is the easy choice. Going back would mean that I will absolutely have no problem in speaking the language, understanding the culture, integrating into society, and I would probably not have a very difficult time finding a job where I would be respected and have an opportunity to advance my career. Note that I am not grudging my current job, because I never looked for a career in my current job. I've always just wanted to enjoy the unique experience here. Now that the experience is becoming less 'unique', I seek something else, but I'm not sure if what I am seeking is a career opportunity or another unique experience.
+
+I decided not to decide. Rather than search desperately for a job in Tokyo so I can stay in Japan, or go back to Holland not knowing if that's really what I want, I will cycle. I will start from here, Atsugi, Kanagawa. I'll go past Mount Fuji, Cross the Mie peninsula, visit Kyoto, go to Hiroshima, enter Kyushu and then cycle all the way to the southernmost tip of Kyushu. I'm not sure if I will have made up my mind by then, but if not I will simply continue. Okinawa, Chichijima, Hahajima, Hokkaido, Guam, Australia, New Zealand. All of these names have entered my head while I was fantasizing about the trip I am about to take, but everything still seems so far away. I can't seriously write here that I will go to any of those places. No, for now, it's Kyushu that will become my goal.
+
+I'm keeping my options open. I've made my plans with two major options in mind, though I may find some interesting alternatives along the way. Who knows, perhaps becoming a fisherman in Hokkaido is what I was meant to be. Of my main options, this is number one: cycle until X, go back to Tokyo, fly to France, cycle back to Holland. Option two: cycle until X, go back to Tokyo, get a job. Possible alternatives include going to a different country or studying in Japan instead of getting a job. Money is an issue though, as I basically won't have any income this year starting from April. I hope that the Donate button makes a little bit more sense to you now :)
+
+That's my plan. It may sound like a lot, but it isn't really. It's not like my mind is made up and my steel will has decided that this is the way that things must be. It's just that the alternative is worse. The one thing that I have never had any doubts about is that my life would be worse if I stayed here, in the same situation, for another year. It would just be a waste of time. Besides, if I changed my mind now, I would regret it for the rest of my life. How can I let such a great opportunity for adventure just pass me by? The answer is: I can't. I have to go. It's now or never.
+
+<div class="caption">
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2010/02/axt2005.jpg"><img class="size-full wp-image-2046" title="Axt2005_SML" src="https://s3.amazonaws.com/cfwblog/uploads/2010/02/axt2005_sml1.jpg" alt="" width="900" height="468" /></a>
+<div class="caption-text">2005 photo. It looks the same but it feels different</div>
+</div>
+
+I'll have a lot more to tell you guys about my plan, my preparations, the route, and tons of other things. For now, I'm just very happy that I can share my 'secret plan' with the rest of the world. It's my little act of rebellion against a boring life. I'm young, crazy and way less fit than I should be. Let's do it! :D

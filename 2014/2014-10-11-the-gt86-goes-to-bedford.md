@@ -1,0 +1,27 @@
+---
+published: true
+title: "The GT86 goes to Bedford"
+id: "6255"
+slug: "the-gt86-goes-to-bedford"
+author: rv
+date: 2014-10-11 19:05
+categories: Cars
+tags: gt86
+---
+(skip if you don't like cars!)
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2014/10/PEN57763PS.jpg"><img class="aligncenter size-medium wp-image-6256" src="https://s3.amazonaws.com/cfwblog/uploads/2014/10/PEN57763PS-400x202.jpg" alt="PEN57763PS" width="400" height="202" /></a>
+
+My second track day. The morning started out foggy, moist and meh, but the clouds soon disappeared and made way for a somewhat blue sky. For once in my life I had been hoping that the day would be full of rain, since that would greatly decrease the wear on the tires and brakes, but it was not to be. I met up with an old friend and his RX7 and soon we were off doing our first laps at Bedford Autodrome, SEN circuit.
+
+Since the track was still wet, it proved quite an interesting start. Unfortunately I had pressed the wrong button in my car, and instead of disabling all the driving aids I just managed to set it into sport mode, meaning odd correctional behaviour at the slightest twitch of the rear. Very confusing to me because I actually thought I had turned everything off, so the car's handling didn't make much sense to me. But eventually I figured out I was pushing the wrong button and managed to sort it out. By then the track had dried up and I managed to get into my groove.
+
+Since I was driving with my friend's much more powerful RX7, he proved a great benchmark to pit myself against. I managed to keep up with him quite well in the morning by braking late and driving right on the limit, but my buddy soon found out that one of his air intake hoses was slightly loose and was wasting precious air. He then proceeded to get into his own groove and blasted me away. The lack of power of the GT86 is absolutely noticeable during track days, especially when trying to overtake cars that are weaker in theory, but are in practice just fast enough to make it near-impossible to overtake on a straight, which, according to track day rules, is the only place you're allowed to overtake. In some cases I managed to get a good enough corner exit to speed past a car before it picks up speed, which usually makes people realize that I'm faster and they should let me pass, but on other times there's some annoying driver who never looks in his rear-view mirror and I'm stuck behind him for 2 whole laps. Oddly enough I didn't see a single blue flag for the entire day, so I assume that the officials don't mind a bit more aggressive overtaking.
+
+In the afternoon my friend and I did a passenger session in each other's cars, which was very enlightening. It's quite amazing how different the RX7 handles compared to the GT86. It rolled a lot more, but at the same time felt more grippy and secure, and there's no comparing the 86's naturally aspirated engine to the twin-turbo powerhouse of the RX7. While my friend was sitting next to me I had a lucky streak and managed to overtake a pesky car in glorious fashion on the back straight purely by coming out of the corner better than him. Then a few laps later I managed to do my first power(ish) slide! I'm getting better at this driving thing :D.
+
+The fun didn't last too long, though, once again due to the brakes. The brakes started needing a bit more pumping not long after the day began, but this issue didn't get much worse over the course of the day and was quite manageable. During the afternoon I started experiencing a lot of jittering and shuddering while braking hard, which was the same thing I experienced near the end of the previous track day. The problem gradually got worse over time and although it didn't affect the braking power too much, it did seem like an obvious issue with some part of the brake system. I suspect it's the discs, but don't know enough about brake mechanics to be sure. I pushed the brakes a bit more but didn't manage to cause them to fail horribly, so I assume they're not a total write-off just yet. That said, I really need to get some proper track day brakes installed because this is just no fun.
+
+The tires were surprisingly fine. The brakes heated up a lot, which heated up the tires a lot, which expanded the air inside them, which decreased the grippyness, but it was all quite manageable. I let a bit of air out once and the pressures did not increase significantly during the rest of the day, although the tires did start losing grip near the end. It was very noticeable in some corners where I just couldn't help but squealingly drift outwards towards the side even though I was doing the same speed, gear and line I was doing earlier in the day.
+
+Cars really aren't a cheap hobby. A track day will cost you at least 100GBP+ just to book it, and then you'll spend at least 2 full tanks of gas to get there and back, and to rev your engine on the track. In my case it seems that I don't have to worry about replacing the tires just yet, but brake pads are going to be a recurring purchase, it would seem. Oh well, I can't say I mind. Driving on track days is really good fun and an absolute must if you're into cars. My next one probably won't be any time soon. Many months will pass until the weather and my car are suitable again. I can't wait.

@@ -1,0 +1,27 @@
+---
+published: true
+title: "I still can&#039;t believe it"
+id: "2206"
+slug: "i-still-cant-believe-it"
+author: rv
+date: 2010-03-19 19:14
+categories: Daily Life,Japan,Thoughts
+tags: ak,job,unbelievable
+---
+I really did quit my job today. It's 3:47AM right now and I just came back from an awesome drinking party with two Japanese friends. I'm still 85-90% drunk, but I feel like I want to record this feeling right now, cause it won't be the same tomorrow. Here goes...
+
+The day started off peaceful enough, with me cleaning my hard drives, preparing the final things for the tool transfer. Then lunch, then a meeting, and suddenly I experienced the last hours ever in the company that I've grown to love over the past four years. Cleaning my desk, talking to everyone in the company, sending the farewell mail, it all seems like a rush, and looking back on it it all seems like it happened in a flash. So many things happened in those couple of hours, my mind is currently (still 85% drunk) incapable of recollecting everything. For some reason I remember the period afterwards really well though: cycling from the company towards the station seems like it took forever, and I distinctly remember saying 'WTF' at least five times during the ride. As I type this I am looking out my room's window towards the building I used to work at, and I still can't get used to the feeling that I'll never be going back there. Unbelievable.
+
+Saying my goodbyes to everyone in the company just felt surreal, and even writing the farewell e-mail seemed like it wasn't really happening, and I was just going to show up again next Monday and continue working as usual. But that's not true. This is really it. This is the end of my life here. From now on I will not go back to that building, and I will seek meaning in my life elsewhere. I have no idea what that means yet, but as I was leaving the company for the final time I was incredibly sad. It's a sadness I never felt before, because I never cared for something so strongly as I care for this company. High school, university, I never really felt very 'connected' to those environments. But I feel a very strong bond with this company and its people, and I think this bond will stay strong forever. I'm just that kind of person.
+
+I feel bad for writing the final farewell e-mail only in English, but I had no time left. I also didn't finish my to-do-list exactly the way I wanted to, but I guess that can't be helped. My friends and I managed to leave the company at around the same time, and we had a great dinner together afterwards. Most of the people went home to catch the last train, but my local friends and I stayed behind and drank like there was no tomorrow. Which, in my case, was fairly accurate.
+
+I'm not sure how one would define 'drunk', but I'm fairly sure I tested the boundaries of drunk today. While cycling to the station I realized slightly what I'd done, and from then on I just stopped caring about everything, and figured that tonight of all nights would be a great night to get as drunk as possible. Tonight I had the best of friends accompanying me, so I felt ready to just let go and get drunk as hell, but I rather failed on that point...
+
+After about 5-7 strange high-alcohol drinks (I remember some shochuu's..) I was still quite in control of myself, so my local friends and I went to a different place and continued drinking. We were three, and me and one other wanted to get rather drunk, so we ordered a drink called 'Spyritus', which apparently contained 96% alcohol, according to the waitress. I'm not sure about that, but it did evaporate on my upper lip before it reached my mouth.. Interesting feeling. After that some interesting beers helped in keeping me drunk, but didn't really push me over my limit. One of my friends was asleep on the bench, and the other one had decided not to drink too much, so that's where it ended tonight. I guess I'm quite strong in keeping my liquor.
+
+I've been trying to avoid this feeling ever since my last hours in the company today. I still can't believe that I quit my job. I still can't believe that I'll never go back to that office, and I'll never again work on the software that I created during my time there. In my current 80% drunk state it still feels unreal, and I can fall asleep in peace, but I think I'll be in for quite a shock tomorrow. Pretty much all of the world I knew suddenly disappeared. I  know I chose this path myself, but actually experiencing it is a whole lot different from planning it three months in advance.
+
+I'm not sure how I'll feel about this tomorrow, but I am sure about this: I am really going to miss my work, and the people at Asahi Kasei. They've been my life for the past four years, and I only really realized how much I'll miss them until after the last party finished. A very large part of me is regretting quitting the company right now, and I wish I could have stayed longer. I know from a logical point of view that the decision I've made makes sense, but right now my feelings are just too strong, and all I feel is sadness for leaving and regret for not staying longer.
+
+This is to all the people who work or have worked at AK: thank you all so much for making the past four years a great experience! Despite my constant complaing those four years have been the best years of my life, and I have become a completely different person thanks to my experiences here in Japan. The real adventure starts from here!

@@ -1,0 +1,16 @@
+---
+published: true
+title: "How to live"
+id: "607"
+slug: "how-to-live"
+author: rv
+date: 2008-08-01 13:10
+categories: Thoughts
+---
+Many people that the way to live a happy life is to always set a higher goal for yourself. Think of something you want to achieve, strive for it, and once you have it, set a higher goal for yourself. It doesn't have to be big, it can be as little as doing 6 instead of 5 push-ups a day, as long as it makes you happy and you can see yourself improving. Humanity strives for this feeling that makes them feel good about themselves. The feeling that makes them think that they are better now than they were yesterday. Is it because they feel that there is no point to live if they were worse today than they were yesterday? Is that what life is all about? Being better every day at something? I'd like to think it's not.
+
+Is it innate to human beings to feel that they need to improve themselves, or is it just a fad that's going over the world right now? Evolution is pushing humans in a direction that requires them to continually improve themselves, but our current situation is very far away from regular evolution. Mankind does not evolve because everyone tries very very hard, it's because nature or science creates a better, smarter, stronger person, who happens to die 9 times out of 10, but in 1 situation manages to have children who are also better, smarter or stronger. That is evolution, but mankind's obsession with gaining skill points has nothing to do with it. Great achievements are made by outliers. People peaking at the edge of the probability curve. It doesn't matter if the curve is narrow or wide, the peak end moves according to evolution, not effort. So why bother?
+
+Can you imagine how it feels if you wake up one morning and you don't have a goal? If you already have everything you want? What is there to live for? Many people ask themselves this question. The people who usually don't ask themselves this question are truly happy. But then, the people who feel the most 'at peace' with the world are probably religious people who believe that their god is the most important thing in the world, and they cannot attain anything more in this earthly life because earthly life itself is unimportant compared to the afterlife. Well, that's one way of looking at it. I know many religious people don't think this way, but this is the dead end I reach when I think about religion. It's an annoying problem for me; I believe that my goal should not be to continually improve myself and to just be happy with who I am right now, but the only people I know who are truly happy with themselves are religious, a path I could never follow. There must be another way, a path even higher than religion, a path higher than god, if you will. A path to becoming god, perhaps?
+
+I don't know what this path is. I know I can never truly reconcile myself with either one of the lifestyles that I described here. I am convinced that there is something higher. Something more worthy to live for. I guess in this way I am deeply religious myself.

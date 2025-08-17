@@ -1,0 +1,10 @@
+---
+published: true
+title: "Het currymonster"
+id: "144"
+slug: "het-currymonster"
+author: rv
+date: 2006-10-13 14:14
+categories: Uncategorized
+---
+Eén goede raad van mij: doe nooit een wedstrijdje 'wie kan de meest pittige curry eten' met een stelletje aziaten, want dat verlies je als aardappelnederlander.. Ik heb er al eerder over gesproken: hier in Atsugi is een restaurantje waar ze Japanse curry serveren in tien verschillende pittigheidsgraden. En dat varieert niet van niet pittig tot een beetje pittig, dat varieert van pittig tot aan pepperspray pittig. Au. De laatste keer ben ik daar geweest met Yu Huan, en toen heb ik niveau 6 van 10 geprobeerd. Elk niveau is twee keer zo pittig als de vorige trouwens, volgens de schaal van het restaurant dan. Eigenlijk proef ik weinig verschil tussen niveau 4 en 6.<br /><br />Amyko, het nieuwe Chinese meisje, is nogal currygek. Ik ben eerder met haar en een paar anderen geweest, en toen hebben we niveau 5 geprobeerd, wat voor mij nog ok is, maar ik was nogal bang voor haar, omdat ze mij niet het type leek dat erg veel pittigheid aankon. Daar was ik behoorlijk mis in :O Dus gisteren zijn we weer heengegaan om niveau 8 te proberen. Dat wil zeggen: June, een koreaan, Amyko, een Chinees, Kamil, nog een Chinees, Anothai, uit Thailand, en een amerikaan en een canadees, maar die maakten, net zoals ik, bij voorbaat al geen kans voor de titel 'pittige kampioen van Atsugi'... De aziaten en ik bestelden niveau 8... :'( June was klaar in 5 minuten, zonder water te drinken. Amyko was aardig goed, en was ook snel klaar. Kamil was wat minder, maar nog steeds beter dan ik... Toen ik eindelijk klaar was, had ik serieus last van mijn maag :'( Dat is de laatste keer dat ik aziaten uitdaag voor een wedstrijdje pittig eten... Tot overmaat van ramp wil Amyko de volgende keer niveau 10 proberen :X

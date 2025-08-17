@@ -1,0 +1,38 @@
+---
+published: true
+title: "Day one. Again."
+id: "6580"
+slug: "day-one-again"
+author: rv
+date: 2016-04-18 13:53
+categories: Spirit of Japan 3
+---
+I'm as jetlagged as I was last time. I couldn't sleep much last night because the people in the room next to me were vigorously agreeing with each other until late at night and then jetlagged kicked in and woke up at 4:44AM. I tried to force myself to go back to sleep but it only resulted in getting a headache. Oh well. Despite that I don't feel too tired right now.
+
+I have done this day many times.  Arrive at airport and build bicycle. I'm getting better at it every time, though I can't say I'm proud of the fact that every precaution I now take when packing the bike comes from that exact thing having gone wrong for me in the past. But this time the derailleur is padded and cardboarded, the bike is the right way up in the bike bag, the rear fender is placed in a way so that it won't break or fall apart, front and rear forks have a spacer inserted to prevent bendage, and so on..
+
+This time the bike came out near-perfect, with almost no issues at all. The handlebar tape really has seen better days, and I should get some new tape along the way. The right gear lever is kind of falling out a bit more than last time, but I taped it up before I went on the trip and it seems to be ok. Lastly, sadly, all the black bolts that I bought ages ago (from Pro-Bolt in case you're interested) are worn out. They all turned brittle and crappy, and the heads are becoming impossible to screw in. I will not be buying those again. One of them broke off in my frame and is now preventing the rear rack from being properly attached. Another one I had to throw away because the bike tool just kept slipping in its head. Beh.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9363PS.jpg" rel="attachment wp-att-6581"><img class="aligncenter size-medium wp-image-6581" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9363PS-400x300.jpg" alt="IMG_9363PS" width="400" height="300" /></a>
+
+Today's ride was classic Japan. Lots of populated areas and busy streets, with scenic points all along the way: the occasional temple, forested hill, viewpoint, nice coastal road etc. Most of the roads had a dedicated zone for cyclists, and in many cases there was simply another road next to the main road that was no longer in use for cars. It made for a very pleasant ride. I didn't go too far today because I didn't want to tire myself out, but I feel a lot better than I did during last October's trip. I'm definitely fitter, physically. I was probably at my best physical fitness during the Hokkaido trip, and best mental fitness during the first solo trip from Tokyo to Kyushu. Last October was definitely the worst in both physical and mental aspects. I'm glad I have a chance to retry. I haven't quite reached the level of my previous bests, but I'm not too far off. Being on the bike feels good.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9375.jpg" rel="attachment wp-att-6582"><img class="aligncenter size-medium wp-image-6582" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9375-400x300.jpg" alt="IMG_9375" width="400" height="300" /></a>
+
+After arriving in Shimonoseki, back on Honshu, I considered cycling on to either a camp site or simply northwards, but I decided to not push my luck and booked the cheapest hotel I could find in the area. There's something really fun about seeking out cheap hotels - there's always something quirky about them. Weird neighbours, strange locations, brilliant unexpected views. I don't think I've had a negative experience in randomly picking a hotel at the last minute so far. The same goes for youth hostels: any Japan Youth Hostel is like a new attraction to explore and discover.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9412.jpg" rel="attachment wp-att-6583"><img class="aligncenter size-medium wp-image-6583" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9412-400x300.jpg" alt="IMG_9412" width="400" height="300" /></a>
+
+Since I had time to spare I treated myself to a fami-res lunch and then went off by ferry to see <a href="https://en.wikipedia.org/wiki/Ganry%C5%AB-jima" target="_blank">Ganryujima</a>, site of a famous battle between two swordsmen, one of whom is <a href="https://en.wikipedia.org/wiki/Miyamoto_Musashi#Duel_with_Sasaki_Kojir.C5.8D" target="_blank">Miyamoto Musashi</a>,  who I have known of for a while through the <a href="https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D" target="_blank">Dokkodo</a>, which inspired me a lot throughout the years. The island turned out to be rather empty, but the infotexts that were there were mostly also in English. The location of the island is quite impressive, with a great view of Kyushu, Honshu and the bridge in-between. There was hardly anyone on the island, except a bunch of workers who were cutting the grass with a lot of noise, and a group of Chinese tourists who were constantly on the phone and talking to each other, also with a lot of noise. It didn't feel as zen as I'd hoped it would be, so I soon hopped on a ferry back.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9738.jpg" rel="attachment wp-att-6584"><img class="aligncenter size-medium wp-image-6584" src="https://s3.amazonaws.com/cfwblog/uploads/2016/04/IMG_9738-400x267.jpg" alt="IMG_9738" width="400" height="267" /></a>
+
+While waiting for the ferry I struck up a conversation with a Japanese man who was also on the same ferry in and already heading out again, just like me. I asked him if he enjoyed his visit, and he said "well, there's not much here really", which pretty much sums it up. Turns out he was a local fro Kitakyushu who has been living here all his life but has never visited the island until today. I wonder why. But I didn't pry. Interesting guy.
+
+Two thoughts to wrap it up: I forgot to take out yens at the airport and the Haneda domestic terminal didn't have money exchange, so today I did what I usually do and went to the post office to take out money from my foreign bank account. Somehow this did not work, even though it has worked in the past. Clearly I'm out of touch because I tried again later at a 7-11 and it went through flawlessly. It used to be the opposite when I was living in Japan. 7-11 is a lifesaver in so many ways, not in the last of which its free wifi, which is brilliant.
+
+That leads me to the second thought, which is that the <a href="https://booking.com" target="_blank">booking.com</a> app is great. Booking a hotel on the fly and seeing a map of hotels in the area is incredibly useful. Before booking.com I used to just mark hotels on the map and cycle to each them to see if they had space, or very occasionally call ahead if I could find a telephone number. Quite a few of Japan's hotels are on booking.com now, which saves me a lot of hassle in most places. There's still a lot of rural places or middle-of-nowhere places that don't have hotels on booking.com, but in those cases it is just very easy to visit every single hotel in the area on foot in just a few minutes. In every other case, booking.com has saved me time.
+
+Tomorrow I'm heading north, with no fixed destination. I marked a bunch of camp sites on my map and I'm mildly hoping it'll be middle-of-nowhere enough to find a random unmarked place to camp at, but we'll see. It's supposed to be sunny tomorrow. Might be a great day :)
+
+Japanese conbinis should be on the world heritage list because they are an amazing accomplishment of modern society.

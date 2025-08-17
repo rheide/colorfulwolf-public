@@ -1,0 +1,10 @@
+---
+published: true
+title: "Waaaaaaaarudo kappu!"
+id: "123"
+slug: "waaaaaaaarudo-kappu"
+author: rv
+date: 2006-06-12 10:32
+categories: Uncategorized
+---
+Vandaag is de eerste wedstrijd van Japan op het WK, en ik heb eigenlijk niet echt het idee dat ze er veel zin in hebben hier. Ik hoorde vandaag wel wat van de jongere Japanners praten over het WK, maar het leeft toch niet zo bij de Japanners als bij de buitenlanders. Gelukkig spendeer ik 90 procent van mijn tijd hier met buitenlanders :D De kans is trouwens vrij groot dat het land van 1 van de stagiares de wereldbeker wint, aangezien we hier Franse,Italiaanse,Spaanse,Nederlandse, Duitse, Portugese, Engelse en weetikveelwatnogmeervoor stagaires hebben. Het enige dat ik ontbreekt is een Braziliaanse..<br /><br />Eigenlijk valt de WK-beleving bij mij ook nog wel mee. Vrijdag heb ik de openingswedstrijd gezien om 1 uur 's nachts in het youth heim, samen met een paar collega's. Verder heb ik een paar wedstrijden live gezien via een internetstream van Nederland 2. Argentinie tegen Ivoorkust was om 4 uur 's nachts hier :O daar heb ik speciaal mijn wekker voor gezet, en ik heb hem nog gekeken ook. Daardoor werd ik er weer aan herinnerd hoe verneukt de tijdzone hier is in Japan: om 4 uur 's morgens is het al bijna helemaal licht, en om 7 uur 's avonds is het al donker.. Ze kunnen gewoon drie uur langer licht hebben als ze de tijd wat vooruit zetten, maar dat willen ze blijkbaar niet. Rare mensen.<br /><br />Natuurlijk heb ik Nederland-Servie gezien. In mijn kamer weliswaar, want ik had geen zin om ergens heen te gaan zondagavond. Zoveel zin had ik er niet eens in, dus ik was wel verbaasd van mezelf toen ik opeens hardop zat te juichen tijdens het doelpunt :D Ik denk dat Nederland het vrij lastig krijgt tegen Ivoorkust en Argentinie, maar misschien lukt het ze wel :) Ik wacht met spanning af op volgende week vrijdag, wanneer Nederland tegen Ivoorkust speelt om 1 uur 's nachts Japanse tijd. Dat gaan we wel even zien natuurlijk :)

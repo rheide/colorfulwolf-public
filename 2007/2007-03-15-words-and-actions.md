@@ -1,0 +1,10 @@
+---
+published: true
+title: "Words and actions"
+id: "196"
+slug: "words-and-actions"
+author: rv
+date: 2007-03-15 11:41
+categories: Uncategorized
+---
+I was working late today, as I am doing often recently, since I don't have much else to do. Recently I'm talking with the company about the possibility of staying longer. I went for a Ramen with Alvaro after work, and we talked about future prospects, and getting what you want. These two things, together with whatever has been going in my private life always lead me to ponder the same thoughts: actions are not the same as words.<br /><br />A person will say one thing and maybe do the completely opposite thing. Somehow the words always sound really nice, but the actions are the complete opposite. Unfortunately for me this has happened twice to me recently, in the negative way. Once for something that's kind of important to my life, and once for something that's the most important in my life. Can't say I'm really happy with the outcome of either at the moment. But right now it's better for me to accept things the way they are.<br /><br />Actions speak louder than words. This is true in so many cases. Actions change things, for worse and for good. Words are just words. Important, but ultimately actions will make the difference. If you want to be successful, you need to take action. If you want to make more money, you need to take action. If you want a happy life, you need to take action. Actually, I am not this kind of person. I will be happy with less, and where I am now, instead of looking for something better. I am relaxed about my life, and easily satisfied, with the exception of one or two things.<br /><br />Being in control of your life is important, and choosing what you do with your life. People always have a choice. You choose your life. This is the base of my lifestyle, and the way I can be happy with my life. Even though less nice things happen to you, you can choose to accept them and be happy with them, or you can choose to be miserable in the hopes that things will get better, or make things better yourself. I choose.

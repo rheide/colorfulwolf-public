@@ -1,0 +1,20 @@
+---
+published: true
+title: "As days go by"
+id: "6261"
+slug: "as-days-go-by"
+author: rv
+date: 2014-10-30 15:58
+categories: Daily Life,Tech,Thoughts
+---
+I haven't blogged in a while. Despite having switched from enjoying-life-mode back into grind-and-earn-money mode, I've managed to maintain a remarkable sense of self-actualization over the past few weeks. I think the reason for that is partly because I try to work less long days, as I mentioned in the previous post. I get time to recover and clear my mind at the end of the day, rather than never fully clearing it and piling up new workloads the next day without having fully processed the previous day.
+
+Working less hours is part of the reason, but also a consequence of something else. My goals in life have become startlingly clear to me after I found out exactly how much money I need to buy a house in this bloody country. It'll take years and years of savings to fully pay off a nice house. Even if I found  a better paying job, the difference it would make will never be as significant as I want it to be. And even with a better paying job you're bound by obligations and forced to work for the better part of the year. Given that fact, I'd say I've got a pretty damn good job right now, and I see no reason to change it for something marginally better.
+
+Financial independence is the final goal. It's not even worth thinking about what I'll do after I achieve it, because the possibilities will be endless. In the past I tried several times to 'do a startup', sometimes alone, sometimes with friends. But what I've come to realize is that the startup life is not something that I want for myself. I'm usually quite introverted, and although I learned that I can muster up the extroversion needed to function capably in a startup role, it's not something I enjoy doing or would feel comfortable with doing for a long period of time.
+
+This is the point where people tell me "but to gain something you will have to step out of your comfort zone". Well, yes and no. Stepping too far out of your comfort zone is simply not sustainable and will wear you down. For me, I think I function at my best while 95% within my comfort zone, using the remaining 5% to explore new territories. I need to find things out for myself. Advice from others only helps at the most superficial level, any concrete advice will be noted only for reference while I make my own mistakes, from within that very comfortable 95% plan.
+
+Realizing that I am more reluctant to leave my comfort zone than I previously though, I began to list my options. The list is limited, of course, compared to before, but the remaining options are those that I feel much more enthusiastic about than anything else. And because the options are 95% within my comfort zone, I get to expand my knowledge while actually enjoying it rather than feeling stressed out.
+
+I don't believe that any advance in knowledge in the field of programming is going to help me to make progress as a human being. While it's true that I'm getting better at coding, especially within a project atmosphere, most of the things that I learned, that I value highly, are as a result of interactions with people. Focusing deeply on a topic will teach you two things: in-depth knowledge of the topic, and how to focus deeply. I think I've learned enough on how to focus deeply on something to apply it to things other than programming. Don't get me wrong, I still love to code. But I find that a lot of my peers see coding as the final goal, whereas whatever the thing is that they're coding is just a happy side effect. I want to use programming as a means to an end, whatever end that could be, even if it has nothing to do with coding or dev-ops or anything technical. I believe that if I can use programming in this way, I can become better as a person.

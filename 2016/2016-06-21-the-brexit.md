@@ -1,0 +1,14 @@
+---
+published: true
+title: "The Brexit"
+id: "6750"
+slug: "the-brexit"
+author: rv
+date: 2016-06-21 23:18
+categories: Daily Life,Thoughts
+---
+I swore to myself I wouldn't let this crap get into my head, but I am bombarded my brexit-ness in my daily life so I might as well write a bit about it. Is it a good idea? I have no fucking clue. I'm not allowed to vote, despite being a EU citizen who has lived in the UK for over five years already. I never bothered to do the required research about whether or not the UK leaving the EU is a good idea. My gut instinct says it's a bad idea, but I have not poured across the countless articles and documents describing what the effects of leaving versus staying would be. But I am really annoyed at how politicians and media are turning something that <em>could</em> be a purely rational decision based on empirical data and facts into one of bullshit propaganda and dumbing-down of the issue to appeal to the mass public. It utterly disgusts me how this turned out. A politician got stabbed because of her position on the brexit, other politicians are using it for their own personal gain and the more ignorant among the population are using it as an excuse to spew some generic anti-foreigner hate. Regardless of the final outcome, I already am not happy about how this turned out.
+
+Seriously though, do people really see the world as a whole being a better place if the UK and the EU go their separate ways? Even if the UK gets stronger in the short term, I believe if you look at it in a timespan of 10-20 years, the UK won't be stronger from leaving. I have no hard arguments for this, it's all probabilities based on reading stuff on the internet and talking to people who know more about it than me. It might be the best game-theoretical decision to maximize your own benefits right now, and then later, as soon as you get more benefit from rejoining, get back in. But the whole would suffer from that, and the end result could be better for everyone involved if the UK stays in. In the long term.
+
+Also, why the hell are votes not weighted? There should be a general political knowledge test to see how much a voter understands about politics in general, and then another specific one about whichever problem or party or thing being voted on. People who have more knowledge about the issues should be better able to predict what would be the best course of action, and they should get votes that weigh heavier than those of people who know nothing and just vote whatever their family or friends are voting. I seriously don't get why this is not a thing yet. Would love to hear counterarguments to this.

@@ -1,0 +1,25 @@
+---
+published: true
+title: "The irony of procrastination"
+id: "3704"
+slug: "the-irony-of-procrastination"
+author: rv
+date: 2011-02-07 19:44
+categories: Tech,Thoughts
+tags: procrastination,programming
+---
+Programming is not fun. The perfect piece of software is also the most boring piece of software. Even the most exciting project consists of 90% boring code and only 10% exciting code, and that's an optimistic estimate. So what do I do when I am faced with a boring task? I procrastinate.
+
+When I procrastinate I know that I'm doing something wrong. I feel guilty for it, so I punish myself by doing other tasks that I don't like to do, or by watching a movie, but not the movie I really wanted to watch. In other words, I am an expert at wasting time. I do realize this, and lately I've been developing even more elaborate excuses in philosophical directions. "I don't want to work on this because I don't believe it will make money.", "I don't want to work on this because I can think of something better. (but I haven't), "I don't want to work on this because life is meaningless and we're all going to die". My reality distortion field could use some improvement.
+
+A project I'm working on right now involves building an online shopping system (well, sort of) consisting of a mobile website and an administrator area. It's not the most exciting project to begin with, but even then there are parts of the project that I like to work on more than others. For instance, dealing with user registration and authentication is an incredibly boring thing to do, and has little to no relation at all to the business logic. It's something I just want to get over with as quickly as possible, yet I can't. Code like this requires time and attention to detail. It has to be properly tested and properly thought out, otherwise obvious bugs will appear. I am frustrated that I cannot program this part of the project any more quicker. Despite all the programmer optimizations like a brilliant library with pre-made components, dual screens, superfast IDE hotkeys, a development server that redeploys automatically whenever you save a file, fact is that there is still a minimum amount of time that must be spent to get a task like this done properly.
+
+And that's where the reverse-logic comes in. The task is boring. The time required is more than expected. Why not stop working and surf the net for a while? And then watch a movie? And then go downstairs and walk around a bit? And then it's time for dinner. And then you've completely forgotten about the task until you come back to your PC and your IDE is still there, staring back at you.
+
+Even if you're only making progress very slowly, progress is progress. Even if you fail, you will have learned something. Another project I'm working on involves text detection. I spent about a week learning the basics, reading and misunderstanding papers. I spent another week teaching myself how to do a specific machine learning technique. The results were horrible. None of my training methods worked. Even though I failed at this particular way of doing it, I learned a lot about the theory and the tools involved.
+
+Doing anything is better than doing nothing. Or more specifically, if you want to accomplish task A then doing a very tiny bit of work on task A is better than doing a lot of work on task B. I honestly don't have the patience to work on the same task for a very long amount of time, which is why I chose to work on multiple projects at once. I do tend to prioritize whichever project is at a more 'fun' state, but I rarely if ever let a project lie dormant for longer than two days. I'm quite happy with the way I'm developing now, except for one thing: procrastination. I need to build up some developer stamina so I can keep coding for longer periods of time without losing interest.
+
+Lastly, going off on a tangent for a bit, one of the things that helps keep me motivated is pride in ownership. It's the thing I hated the most about extreme/pair programming: the code produced is extremely generic, and after you're done with it it's no longer your responsibility. That does not motivate me at all. Much like the rest of my generation I don't believe in a blame culture, but that doesn't mean you can just remove ownership on all code and still have as much motivation. Note that I'm not saying anything about quality of the code. If the developer is sufficiently skilled there should(!) be no difference. But at least with an ownership culture you will something very concrete to be proud of.
+
+So, to summarize, my main techniques of fighting procrastination are to do multiple projects at once and to take pride in ownership. The main point though, is to simply spend time on your project, even if your progress is slow. Staring at your IDE for an hour and writing only 10 lines of code is better than watching a movie and writing nothing. Doing this is not easy, especially in the beginning. You have to build it up slowly and strike the right balance.

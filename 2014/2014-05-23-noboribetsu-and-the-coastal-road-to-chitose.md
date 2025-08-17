@@ -1,0 +1,26 @@
+---
+published: true
+title: "Noboribetsu and the coastal road to Chitose"
+id: "6120"
+slug: "noboribetsu-and-the-coastal-road-to-chitose"
+author: rv
+date: 2014-05-23 12:25
+categories: Spirit of Japan 2
+---
+Right, now that I've destroyed by traveler's credibility by writing a post about how pre-booking business hotels takes the spirit out of traveling: I pre-booked a business hotel today! Yesterday I planned to do about 80 kilometers, and booked a hotel for that distance. Then after booking it I realized that <a href="http://www.japan-guide.com/e/e6751.html" target="_blank">Noboribetsu</a>, the famous onsen town, lies on the way, and I wanted to see the valley of hell. There's a tourist road that does exactly that and also goes past the crater lake Kuttara. It was at least a 20 km detour though, but I decided to wake up early and do it anyway. I guess a pre-booked hotel does give you the peace of mind you need to be okay with arriving at your destination late.
+
+Noboribetsu was slightly less than 20 kilometers from Muroran so I arrived there quite early. I cycled up a little and then found a conbini that would take most of my luggage. Since the trip around the valley of hell and crater lake is circular, I could leave the luggage there and make the hard climbs a little easier. Lesson learned: the medium climbs become a lot easier, the hard climbs are only a little bit easier. Still, I could feel the difference easily.
+
+The valley of hell was, in typical Japanese tourist spot fashion, full of Chinese people, shouting loudly at each other. How stereotypical. Fortunately I arrived early so there weren't too many tourists yet. It really is quite an incredible sight to see, the valley of hell. Or rather: to smell. It was a very pungent smell of sulfur, yet quite clearly not that of fart. It just smelled strongly like onsen, really. It was amazing to see the water actually bubble up and boil at certain places.
+
+The crater lake turned out to be rather uninteresting. There was absolutely nothing there except for one odd mountain hut right at the edge of the lake, which seemed semi-abandoned. I quickly cycled on, and up an expected hill, and went back to the conbini to fetch my luggage and have breakfast.
+
+It was already around 11 by then and I had hardly made any progress towards Chitose, my day's destination. The main road was utterly boring. There was really nothing vaguely interesting at the road sides or even in the distance, and the road was as straight as you can imagine a road in Japan to be. It was completely flat, two lanes in each direction and a wide area on the side that was perfect for cycling. The wind was pushing me in the right direction, and with every passing truck I received a fresh draft of wind and a few kph's extra, so I decided to push myself a little to make up for my little detour.I managed to do a cruising speed of 35-37kph near-continuously for over an hour, so after taking into account traffic lights and that time the stupid truck passed me so closely my hat blew away, I ended up with an average speed of over 30kph. I'm quite proud of myself ^_^. That's another personal achievement unlocked during this trip.
+
+I tried to do some actual truck drafting by sticking with a big truck after it left the traffic light, but despite my best efforts I just couldn't keep up with the acceleration, even with creative gear use and standing on the pedals. Oh well, 35kph is fast enough.
+
+The road started to become less desolate over time, and eventually I rolled into Tomakomai, spotted a Sukiya and had lunch. After lunch I was kind of fed with the road, so I zigzagged around a little at lower speed, but always ended up coming back to the main road. I tried cycling on the sidewalk, I really tried. But it's just impossible. The bumps are horrendous. I can cycle at a relaxed pace between 15-20kph, but I have to go down to &lt;10kph every time there's a side street or elevated bit or bump or something else that makes you slow down. It's just really frustrating and a lot easier to pop back onto the main road and do 25kph constantly instead. Cycle paths are a thing Japan really doesn't get right at all. They could really use some help from the Netherlands.
+
+Despite the tough last couple of days, I felt completely comfortable in the saddle today. Sure, there's minor annoyances, such as back ache and minor butthurt every time I hit a bump, but it's all easily tolerable. Today I realized that none of these pains are going to prevent me from cycling, and neither will my muscles or my stamina. I'm fit enough to be on the bike as much as I want to be, and that's a really powerful feeling. A sense of freedom and at the same time a sense of coming home.
+
+I guess things are going a bit too easy lately. The weather's good, the accommodation is pre-booked, the roads are flat and the wind is in the right direction. I found a kaiten sushi place fairly easily tonight and my conbini total was exactly 777 yen. Food is affordable, accommodation is affordable even in the semi-worst case, and I am loving Japan as a country to travel in. I'm back in proper civilization now that I'm in the area around Sapporo and heading to Asahikawa, I might as well take advantage of it while I still can. The route is clear. Wakkanai is near. Have no fear!

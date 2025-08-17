@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% for year, articles in content_items %}
+<div class="content_container  post_standard">
+<div class="content" role="main">
+<div class="post type-post status-publish format-standard hentry">
+	<h2 class="entry-title">{{ year }}</h2>
+
+	<div class="entry-meta"></div>
+
+	<div class="entry-content">
+		{% for article in articles %}
+			{{ article.date.strftime('%m-%d') }}&nbsp;<a href="{{ article.url }}">{{ article.title }}</a><br>
+		{% endfor %}
+	</div>
+</div>
+</div>
+</div>
+{% endfor %}
+
+{% endblock %}

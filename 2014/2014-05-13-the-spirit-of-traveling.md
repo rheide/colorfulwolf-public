@@ -1,0 +1,22 @@
+---
+published: true
+title: "The spirit of traveling"
+id: "6080"
+slug: "the-spirit-of-traveling"
+author: rv
+date: 2014-05-13 06:49
+categories: Spirit of Japan 2,Thoughts
+---
+Whenever you're going on a long trip there are going to be good days and bad days, good places to stay and bad places to stay. The sum of all of these days always ends up being something positive; something you cannot possibly have regretted doing. No matter if a day turns out to be bad or if your hotel is overpriced or if you've had nothing but mishaps: tomorrow is going to be all different. Everything will change again.
+
+Traveling is a state of mind. It's the feeling of "I have nothing better to do, so I might as well do it", or rather even "This is what I'm supposed to be doing right now", without having to worry about what else you could or should be doing with your time. It means that you don't get annoyed at long ferry waits because that's simply the way it is. It means that it's ok if your hostel has a millipede in your room because that's simply the way it is. You don't feel outraged or angry and you don't want to get compensated. You simply deal with it and accept things, without even consciously thinking those thoughts. Things are the way they are. If only we could always be in this state of mind, but the full-time job and the ownership/rentalship of property forces a different mindset upon us. We are the most free when we have the least amount of things to worry about it. If everything you need is what you are carrying with you then there is no need to worry about anything. Perfect control. Perfect serenity.
+
+One does not need much to achieve the traveling mindset. Movement is vital: you must stay in each place only one night, and each next place must take you further away from your origin. Mode of transportation does not actually matter much; backpacking, cycling, train, bus, anything goes. As long as there is slow progress towards a distant goal, and a continuous change in the world around you every day. Continuity is important. Taking a plane and flying to random places in the world wouldn't feel right. It has to be continuous. And you have to stick to your own rules.
+
+My rules are: don't take any transport other than cycling if you could go somewhere by cycling instead. That pretty much rules out all modes of transportation except ferries. You could consider ferries to be cheating, but I believe they provide an adequate sense of continuity to one's journey. Airplanes are bad because you have to bag your bike, destroying continuity. Buses are bad because they go by roads you could have cycled instead. Ferries.. ferries are the moment of peace between the long distances.
+
+I've been slightly out of the right mindset at times. When you're out of it, doing mundane things during your travel (such as checking in to a less-than-average hotel or having a chain restaurant meal) may make you feel as if you're not making the most of your time/trip. But if you're in the right spirit then it's exactly these moments that make your travel, travel.
+
+I am worried that I will lose this feeling: the serenity of traveling. I'm turning 30 soon after this trip. My body is strong, but getting older. My life is changing according to my age. I have a life I desire which requires me to have a house and a car, which requires me to have a full-time job, which requires me to not do spontaneous trips that last well over a month. It's a feeling I can't shake during this trip. I keep thinking: "This is so wonderful, but it might be the last time I experience this". It's a tad bit overdramatic. I've thought the same thing before; that whatever trip at the time would be my last trip. But there's always a next one. Circumstances might change over time; I might cycle a bit less each day, or I might spend more time in hotels instead of camping. But in the end, as long as there is continuity, as long as there is a continuous day-to-day change while moving towards your goal, then the spirit of traveling will be with you.
+
+I am fascinated by the fact that my mind is unable to think these thoughts when I'm at home. I need to be traveling to unlock a part of my brain that I wish was unlocked all the time. That is perhaps also the best reason to recommend people to travel. You might unlock a part of yourself that you never knew about, or at the very least meet a long lost friend :)

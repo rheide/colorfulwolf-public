@@ -1,0 +1,10 @@
+---
+published: true
+title: "Now you&#039;re thinking with portals ^_^"
+id: "358"
+slug: "now-youre-thinking-with-portals-_"
+author: rv
+date: 2007-10-19 15:30
+categories: Uncategorized
+---
+The end credits are brilliant!<br /><br />This was Triumph.<br />I am making a note here. Huge success.<br />It is hard to overstate my satisfaction.<br />Aperture science.<br />We do what we must, because, we can.<br />For the good of all of us,<br />except the ones who are dead.<br />But there is no sense crying over every mistake,<br />you just keep on trying until you run out all cake.<br />And then science gets done and you make a neat gun,<br />for the people who are still alive.<br />I am not even angry,<br />I am being so sincere right now.<br />Even though you broke my heart and killed me.<br />And tore me to pieces.<br />And threw every piece into a fire.<br />As they burned it hurt because,<br />i was so happy for you.<br />Now these points of data make a beautiful line,<br />and we are out of beta we are releasing on time.<br />So I am glad I got burned.<br />Think of all the things we learned,<br />for the people who are still alive.<br />Go ahead and leave me.<br />I think I prefer to stay inside.<br />Maybe you will find someone else to help you.<br />Maybe Black mesa.<br />That was a joke. HAHA. Fat chance.<br />Anyway this cake is great, it is so delicious and moist.<br />Look at me I am still talking when there is science to do.<br />When I look out there, it makes me glad I am not you.<br />I've experiments to run, there is research to be done.<br />on the people who are still alive.<br />And believe me I am still alive.<br />I am doing science and I am still alive.<br />I feel fantastic and I am still alive.<br />While you're dying I will be still alive.<br />And when you're dead I will be still alive.<br />Still alive.<br />Still alive.<br /><br /><a href="http://youtube.com/watch?v=GWzmL05OlYA">Portal</a>

@@ -1,0 +1,22 @@
+---
+published: true
+title: "To appreciate beauty"
+id: "3753"
+slug: "to-appreciate-beauty"
+author: rv
+date: 2011-02-18 20:47
+categories: Thoughts
+---
+I'm not sure how to write about this, but here goes. I was thinking about what truly motivates me, and I realized that there are not a lot of things that do. Most importantly, I am having trouble finding the true motivation required to start a company. I still don't have the dedication to work on something until I drop dead from exhaustion. I know I could do that if I truly believed in my goal. So I reason that, because I don't have the dedication, I must not truly believe in my goal. Here's why.
+
+Why do people start a company? Some people are genuinely entrepreneurial. They enjoy doing company-y things, and they have fun doing it. They enjoy making money, and finding out new ways of making more money. I really don't. Of course I won't be unhappy if I make a lot of money, but I can't see it as a goal. If anything, it's a nasty workaround that is required to reach a different goal. When I was working as a salaryman it was quite easy to motivate myself. I was doing something that people I knew depended on. By doing my job I could make their lives better. There wasn't any major need to justify the things I did because it was part of the company culture, and everybody depended on things continuing in the way they were. I'm not saying that's good, because it isn't, but it is easy to stay motivated like that. You're given missions, and you accomplish them. Easy as mud pie.
+
+But when you're the one giving out the orders, you have to think a lot more about the 'why' of things. Entrepreneurs do that with a clear goal. They think "I genuinely want to make this company a success, and I enjoy working for this cause". I can pretend to think in this way, but no matter how hard I try, I cannot reproduce the genuine feelings. Because to me, that's not really what it's about.
+
+So what is it about? For the longest time I did not know the answer to that question, and was not close to reaching it at all. But now I think that I found the one thing that truly motivates me. As the title says, it is to seek out and appreciate the beautiful things in the world. It's a beautiful thing to say exactly because the word 'beautiful' is beautifully subjective and beautifully vague. That sentence probably means something slightly different to everyone who reads it. To me, I have an inner sense of things that I think are beautiful, and all of my best moments in my life are associated with that word. A beautiful piece of source code, a beautiful landscape at a beautiful time of day, seeing a very happy person walk down the street. Even finding a set of beautifully elaborate connections between various internet memes and animes is something I consider to be beautiful.
+
+In purely biological terms, this means that I want to live a life where I can link as many concepts as possible to the concept of 'beauty' in my brain. I then want to proceed to trigger these brain cells as much as possible over the course of my life. This requires me to experience a lot of things, because beauty fades over time, and also because you need a strong contrast with less beautiful things so that you can better appreciate the beauty.
+
+After I finished writing the above, I realized that there's quite a strong connection between the word beauty and the word happy. Interestingly enough we can only use the term 'happy' for people, yet we can ascribe the concept of beauty to inanimate objects, even though beauty is entirely subjective and created only by the mind of the person experiencing it. My concept of beauty is perhaps also linked to the concept of 'Quality' referred to in the book <a href="https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance" target="_blank">Zen and the Art of Motorcycle Maintenance</a>. That's a book I highly recommend by the way.
+
+To round it off, I am fairly certain that finding and appreciating [whatever my mind interprets as] beauty is what I live for. There is nothing else in the world that could motivate me more, and everything I do is more or less connected to the idea of finding and experiencing beauty. It's yet another part of myself that I managed to define just a little bit more clearly.

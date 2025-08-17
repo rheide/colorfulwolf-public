@@ -1,0 +1,16 @@
+---
+published: true
+title: "Fit and Fat"
+id: "6363"
+slug: "fit-and-fat"
+author: rv
+date: 2015-04-29 16:46
+categories: Daily Life,Thoughts
+---
+I am both fit and fat, although I am only a little fit, and quite a bit more fat. I suspect that, given the amount of exercise and the amount of food I take in, I can blame my body for that, and not my effort. It's something I never said in public before because I didn't want to seem like a dick full of excuses. I'm not near-100% sure of it either because I haven't compared my data points to those of others. But after the past few months of gathering evidence I'm increasingly confident that it's not something I have control over. I tried fasting a few days a week; I tried doubling my regular exercise regime; I had an active diving holiday, yet absolutely <em>none of those things</em> changed my weight. It did not go up and it did not go down. I find that suspicious.
+
+There's still plenty of reasons for doubting my conclusions. For one, the fasting experiment did end up with me eating more on days that I didn't fast. Despite that I still think it was a significant enough body shock for it to have <em>some</em> effect on my weight, but no. Perhaps the holiday wasn't as active as I thought, and there were a few days where I didn't do much but ate a lot, so let's dismiss the holiday from our evidence as well. That leaves the exercise. Sadly, I can also think of reasons why this did not affect my weight: if I built up the same amount of muscle as the fat that I lost, perhaps my weight has somehow miraculously stayed exactly the same? Either that, or the amount I'm exercising is so incredibly tiny that it's negligible compared to all my other activities. I don't think that's the case.
+
+So why can't I lose weight? First of all, that statement is not true. I have proven that I can lose weight quite easily. All I have to do is go on a cycle trip for a few months. If I put my mind to the task and focus solely on an activity that happens to make me lose weight, then I can do it. But if I have to do it tangentially, while doing other (arguably more, arguably less) important things, such as making money and finding a house, it becomes easier to lose motivation. Plus, when you're doing exercise for the sake of exercise (as opposed to doing it for the sake of a cycling trip) you are inevitably comparing your performance to yourself and to others. I can tell you it's no goddamn fun at all if measuring yourself against yourself shows no progress, and measuring yourself against others only means that they're in shape and you're not. But at least I get the natural high of elevated heart rate and post-exercise mental clarity that I need to write a blog post like this one.
+
+No conclusion. I could spend a period of time focusing on nothing else but exercise, but I really, seriously, honestly, have way better things to do with my time than that. Because I do exercise regularly I feel that my weight is not a problem, since I can still do anything I want (physically) when I'm on holiday and during daily life. But that's an assumption I should get verified by professional evidence. And even if the evidence points to it not being a problem, I would still prefer to lose weight. Perhaps it's time to get scientific about this.

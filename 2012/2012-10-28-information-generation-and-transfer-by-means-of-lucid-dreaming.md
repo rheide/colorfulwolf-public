@@ -1,0 +1,22 @@
+---
+published: true
+title: "Information generation and transfer by means of lucid dreaming"
+id: "5232"
+slug: "information-generation-and-transfer-by-means-of-lucid-dreaming"
+author: rv
+date: 2012-10-28 11:21
+categories: Thoughts
+---
+Wouldn't that be a cool title for a paper?
+
+Last night, probably around 5AM, I had a very interesting dream. I vaguely remember what it was about. I saw from near the ground a massive tree in a field of grass, directly behind it a massive thunder cloud, and behind that the sun, some rays shining though, looking unbelievably impressive. There were five people under the muddy, watery soil under the tree, all laying down as if they were sleeping. They had dug little holes in the mud to put the backs of their heads into, and I could see the water coming up to about their ears, but not covering their faces. I could hear the thunder approaching. I don't quite remember how this bit continued, but the really interesting bit happened right after that: I gained lucidity.
+
+I was probably gradually waking up, and I started to realize, in the dream, that I was dreaming. I was slowly gaining lucidity without waking up. I was able to think of cool things to do in my semi-lucid state, and for some reason I decided to look up some topic on a wiki site. Reading through the page I remember thinking how impressed I was that, even though it was a dream, the sentences stayed the same even if I moved my eyes away somewhere else and returned to the same paragraph later.
+
+Then I thought about how I could transfer the information I just read to the real world. My first instinct was to grab my mobile phone and Google the sentence I just read to see if a real page exists on the internet. It took me a while to realize that I was still inside my dream and the mobile phone was not real. My next action was to find my laptop, but eventually I also realized that was not real, and the only way I could transfer information was to memorize it inside my head so I would remember it when I woke up. I went back to the dream-page I read and tried to memorize the last paragraph I read, and the title. Then I managed to disbelieve my dream-world enough to actually wake up.
+
+When I woke up I remembered the lucid part of the dream in great detail, but it was fading really quickly. I grabbed my phone, which was lying next to me, and immediately typed a note with all the things I remembered about the paragraph. Unfortunately I already forgot the title, and of the paragraph I could only remember some words that eventually made this semi-nonsensical sentence: "<em>the aid the bread the decision of dead ainess braid</em>".
+
+I don't think it makes much sense to analyze the sentence. Some words sounds similar and may have no meaning (bread - dead, aid - braid). <a href="https://en.wikipedia.org/wiki/Braid_(video_game)" target="_blank">Braid</a> is also the name of a game someone recently recommended to me, so even though the context makes no sense, I can see the probably entry point. The only word that confuses me is 'ainess', as I've never heard this word before in my (conscious) life. Googling gives a link to a Japanese auto auction site that I have definitely never visited before. Taking 'Ainess Braid' as a name, I get some obscure 1870s <a href="http://trove.nla.gov.au/ndp/del/article/28593960" target="_blank">newspaper article</a> from Australia that just happens to have the name Ainess, but the word 'braid' was in a different context. Alas, I have debunked the theory that my subconscious is keeping an active connection to the internet.
+
+Still, I remember reading entire pages of information, sentences that seemed to make sense in my lucid state. I'm pretty sure they were not entirely gibberish. Wouldn't it be great if we could transfer this information out and store it somewhere. Mankind is still at least decades away from generating random dream-like story patterns automatically via machines, let alone letting people experience in the same sensory-deprived way that we do dreams. Just reading the <a href="https://en.wikipedia.org/wiki/Dream" target="_blank">wiki page</a> about dreams and all its hypotheses makes you realize how much we don't know yet. I wonder if there are techniques for  better memorization inside dreams.

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc>{{ BASE_URL }}</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	{% for page_number in range(2, MAX_PAGE_COUNT + 1) %}
+	<url>
+		<loc>{{ BASE_URL }}/page/{{ page_number }}/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	{% endfor %}
+
+	{% for cat in categories %}
+	<url>
+		<loc>{{ cat.slug }}</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+		{% for page_number in range(2, MAX_PAGE_COUNT + 1) %}
+	<url>
+		<loc>{{ cat.slug }}page/{{ page_number }}/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+		{% endfor %}
+	{% endfor %}
+
+	{% for month in archive_months %}
+	<url>
+		<loc>{{ month.slug }}</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	{% endfor %}
+
+{% for year, articles in content_items %}
+{% for article in articles %}
+	<url>
+		<loc>{{ article.url }}</loc>
+		<lastmod>{{ article.date.isoformat() }}</lastmod>
+	</url>
+{% endfor %}
+{% endfor %}
+</urlset>

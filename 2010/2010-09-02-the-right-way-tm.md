@@ -1,0 +1,18 @@
+---
+published: true
+title: "The right way (tm)"
+id: "3301"
+slug: "the-right-way-tm"
+author: rv
+date: 2010-09-02 17:43
+categories: Tech
+---
+Recently I've decided to pick a development project that I started on last year but never finished, or even came close to finishing for that matter. It's basically a web application with a database back-end which could be written in any language of my choosing, using any combination of frameworks that I like. To get a quick prototype I stuck to technologies that I was familiar with, which means a MySQL database accessed via Hibernate running a Glassfish+JSP front-end.
+
+Now that I've got the initial prototype up and running on my local PC I am naturally looking for ways to do things better. As far as the database is concerned, I'm very unhappy about managing database connections and transactions myself in what becomes a fair amount of boilerplate code. On the View part of the app I haven't made any choices at all yet, so I have a lot to read up on. As my experience is mostly in designing the back-end, I found I was neglecting the front-end a lot, thinking that all the UI stuff will sort itself out later. It won't.
+
+To make my life easier on the database side I decided to take a look at Spring. Spring should be able to help me to inject the database connection wherever I need it, and it contains nifty things (like annotations) to specify transactions in a cleaner way as well. That's the theory. In practice though, I spent one afternoon learning the basics of Spring, one evening getting an example application to run, and another afternoon to realize that Spring is so hopelessly complex that I should never even have considered it for a small-scale project like mine. Even now I'm still quite confused about what Spring is even supposed to do, as the docs repeatedly tell me I can use it for anything I like, or integrate it with third-party libraries. As for integrating it with Hibernate, I only found unclean methods that were based on an older version of Spring. Concluding that Spring wasn't worth the effort for me, I left it far behind. I'm not sure yet if I will look for an alternative, I might just stick with my own boilerplate code until the codebase grows too large.
+
+I'm not very good at web page design. Creating small-scale sites is no problem at all, and I know my way around CSS and HTML fine. Even Javascript and AJAX is no problem, but I've never actually used all these technologies on a large-scale project. Even though that's not relevant for my personal project, I'd like to learn some new things while I'm at it, so I browsed the net for some better way of doing the model-view-controller approach. It turns out there are a lot of better ways. A whole lot. So many in fact that I have no idea what to choose. Widgets, Facelets, Portlets, etc. etc.
+
+I wanted to give the Google Web Toolkit a try after finding out that it was working together with Spring Roo. I already had the Spring IDE installed on my PC, so I thought it would be a piece of cake to experiment with it a bit. My enthusiasm was cut short by not being able to create a new project in the IDE because it kept crashing on me after clicking the Finish button. Normally this would not bother me much, but I had already spent an afternoon trying to get a very simple Spring tutorial to work and was thoroughly fed up with everything Spring-related. Mismatching versions of IDE, application server, documentation and examples left me in despair. No more Spring for me. Instead I'll focus on actually getting my project done.

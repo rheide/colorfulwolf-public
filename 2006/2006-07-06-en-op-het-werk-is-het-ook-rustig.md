@@ -1,0 +1,10 @@
+---
+published: true
+title: "En op het werk is het ook rustig"
+id: "128"
+slug: "en-op-het-werk-is-het-ook-rustig"
+author: rv
+date: 2006-07-06 11:22
+categories: Uncategorized
+---
+Klein updateje: ik heb net drie kwartiertjes Yoga gedaan met 1 van de Duitsers hiero, en mijn lichaam doet echt aan alle kanten pijn nu :O Ik heb er wel een heleboel van geleerd, en misschien dat ik maar wat Yoga moet doen, tenminste op voorbereiding op het klimmen van Mt. Fuji, wat ik misschien van plan ben. Dat wil zeggen: er gaan over een paar weken een heleboel mensen die ik ken naar Fuji om eventjes naar zuurstof te happen op 3 kilometer hoogte, en ik zit erover te denken om met hen mee te gaan. Maar dan moet ik wel eerst wat trainen ben ik bang :x<br /><br />Klein updateje van zoektermen waarmee mensen op mijn blog terechtkomen (het moest echt weer even, want deze zijn echt f*kking belachelijk...):(dit typen mensen dus echt in op Google.com en dan denken ze dat mijn weblog relevante informatie heeft :O)<br /><br />- boot gayparade amsterdam huren (WTF!!!!)<br />- google earth-tour de frans (nee achterlijke bosmongool, zo spel je dat toch echt niet... dit linkte overigens naar een artikel op mijn blog over Frans Bauer en Google Earth..)<br />- sollicitatiebrieven kopen (??? niet van mijn blog iig)<br />- chinese scheldwoorden (ja, sinds vorige post alweer een paar keer voorgekomen..)<br />- pizzadeeg maken<br />- normale plaatjes van manga (letterlijk ja...)<br />- vage getekende plaatjes (as opposed to 'normale plaatjes' I guess..)<br />- de missie you lucky bastard! (geen flauw idee wat dat is of wat mensen die dit zoeken in godsnaam op blog doen :O)<br /><br />Het kan zijn dat ik hem al eerder gepost heb, maar toch voor de zekerheid nog een keer de <a href="http://www.eu-gsm.nl/zuidafrikaanswoordenboek.html">vertalingen van zuid-afrikaans naar nederlands</a>. Hilarisch (en helaas niet echt, maar dat maakt niet uit :D )

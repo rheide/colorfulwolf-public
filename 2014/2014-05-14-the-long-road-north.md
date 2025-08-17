@@ -1,0 +1,26 @@
+---
+published: true
+title: "The long road North"
+id: "6083"
+slug: "the-long-road-north"
+author: rv
+date: 2014-05-14 10:41
+categories: Spirit of Japan 2
+---
+Today began my long way North along the Japanese coast. This is the way to Hokkaido. All I have to do is keep the sea on my left and cycle onwards. Niigata was a pretty massive city and it took some time to clear the suburbs, but after that I was able to follow the seaside road all the way North. And when I say 'all the way' I really do mean all the way. I cycled 160km today. Another new personal record. I don't think I've ever had a day of cycling where the roads were so incredibly flat, except for the Netherlands of course.
+
+Still, according to my Garmin, which I'm taking less and less seriously these days, I've climbed a total of 500m today. There were some very small hills and bridges, but nothing that could hurt me after three days of mountain stages. I am having problems with my gears though: out of the 8 rear ones, I can only select about 5 of them. Not too hurtful yet, but if I lose another one I will have to fix it (or get it fixed). On the front side, I have to be really careful to select the lowest gear, otherwise the chain falls off. Not brilliant, but I hardly need the lowest front gear anyway.
+
+The roads were so flat that I managed to do 80km before lunchtime. The area just outside of Niigata city was quite interesting and offered a quaint fisherman's town on a dead-end road that I had to turn back from, and some nice cycleable forest paths, which are quite a rare thing in Japan. After that it was onto the seaside road. Things do get a bit monotonous after a while, although the nature of the road is such that there's always a new bay or inlet right around the corner. That said, most of those inlets consisted of a few fisherman's houses and no shops. I must have gone at least 40km without seeing a single conbini. It's just sea, road and vertical cliff.
+
+I always have this experience in Japan where I wish for something and suddenly it appears. Today was no different: I wished for a place to eat and lo and behold, despite being in the middle of nowhere a roadside cafe appears: the Salt &amp; Cafe. As I was parking my bicycle an old man walked out to meet me and gave me a big packet of salt. Then he showed me inside his salt factory where he separates the salt from the seawater. After that I was allowed to pass through to the restaurant area and have lunch.
+
+After lunch I continued cycling at a pleasant pace, either in highest gear or the one after that, but there's two gears missing between highest and second-highest so I'm not actually sure which one I'm selecting. Either way, cruising between 27 and 30kph on a flat road hardly costs any energy. As soon as the road starts going only slightly uphill though, that's when the luggage makes itself known, and I slow down pretty severely. Today's uphills were almost all short enough for me to race up them in high gear before running out of power.
+
+Right around the 140km I decided that it was kind of enough for the day. As it so happened the road turned inward a bit towards a new area of civilization that I'd just unlocked. I passed by some cheesy resort hotels that seemed either too unaffordable or too icky. Eventually I decided to end it there and activated the Google, which told me that there happened to me a camp site only 4 kilometers away. Lucky! I was nearly there too when I failed to see a big bump in the road, and cycled right through it :(. My rear tire was pretty flat, but not completely flat, so I decided to chance it and go all the way to the camp site. Which happens to be right next to an airport.
+
+The next bad news was that the nearest place to get food was the conbini I had passed 4km's earlier, where I first found out about the camp site. I had skipped it thinking there'd be another one closer to the campsite, but alas. I had to go back, and my tire looked rather useless. I pumped it up and the air seemed to stay in, so I left it on, packed a spare tire and some tools and headed for the conbini. The good news is: the tire was fine. The bad news is: I had forgotten my wallet.. So I had to climb back up the goddamn hill to the campsite to get my wallet, then back down again to the conbini, then going back on that same road to get back to the campsite. Ugh. That was another extra 10 kilometers on the odometer..
+
+Finally done! I had dinner and then a shower. The shower wasn't free though: you have to insert a 100 yen coin for 3 minutes of water. I was expecting a shitty cold camping shower but it was of amazing quality with a really powerful beam, and the temperature was adjustable so it was perfect. What's even better is that people left a bunch of 100 yen coins in the coin slot, so in the end I used up 200 yen for the shower and got 400 yen back. Woohoo! A rather cheap stay tonight considering that the campsite only costs 400 yen per night.
+
+It's completely dark now, and my body hurts all over. Time to get in the tent and get some rest. Still got a few days to go to reach the top of Japan.

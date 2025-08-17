@@ -1,0 +1,24 @@
+---
+published: true
+title: "Shit umbrellas"
+id: "4826"
+slug: "shit-umbrellas"
+author: rv
+date: 2012-04-14 23:24
+categories: Tech,Thoughts
+---
+I read <a href="http://bitquabit.com/post/coding-is-priority-number-five/" target="_blank">this article</a> the other day about shit umbrellas. A programmer, or in more general terms: an IT worker, can be deemed a shit umbrella if he is involved in all the tiny important bits related to releasing a product, such as talking to customers about minor decisions, fixing those pesky bugs that nobody else has noticed yet, making sure that the infrastructure is in place and easy to understand, etc. etc, but not actually involved in making tons of commits and writing loads of good code.
+
+I found a lot of things in the article that applied to me. To be fair, my manager is in fact taking most of the shit and doing a great job of shielding me from everything external, but when it comes to internal tasks I find that the description fits me quite well. I do have my periods of great uninterrupted coding, but at certain times, especially just before launching a new product or a major feature, I find myself doing all the tiny things that are required to guarantee that other people can work well (maintaining branches, changelogs, checking code quality, testing/QA, wiki-writing).
+
+The author of the original article shows a strong desire to do actual coding instead, without having to worry about the surroundings. Focus on one task, and do it well. But no matter how well you do that task, there will still have to be a person with greater knowledge about the project to make sure that the task is done well. If there is no such person then individual tasks get completed but the project as a whole has no vision. I like being the guy who makes sure that everyone knows what we're trying to accomplish, what our priorities are and how each individual feature attributes to the whole project. Sure, you can keep your head down, only look at the information given to you in the ticket and code away, but if you don't understand why you're doing what you're doing then you'll end up producing the wrong thing. Context is important, and it's the team lead's job to provide context to the developers.
+
+It's not always easy. There's all kinds of different programmers, and it's sometimes hard for a "big-picture" dev to see eye to eye with a "just-give-me-the-ticket" dev. I've made plenty of mistakes related to this in the past. One such mistake is giving extremely detailed descriptions of what to do in the ticket description to a big-picture dev. Big-picture devs don't need that, they just need to know what's needed and why, and they'll figure out what to do for themselves. Vice versa, you can't have a "just-give-me-the-ticket" dev work on a ticket that doesn't include the required information, or they'll mess it up.
+
+There was such a guy on my team in my current job. He preferred to just look at the information given in the ticket and then be left alone to work on it. We did not provide him with enough context to be able to finish the tickets successfully, which led to frustrations on both sides. In the end we didn't part on good terms, but hopefully we're both a little bit wiser. I consider it my greatest professional failure to have spotted this too late, and I wish I had dealt with the situation better. That said, I do believe that it is each developer's responsibility to ask for more context if things are unclear. (In my example, I ended up clashing with this developer because I believed he needed more context whereas he thought he could figure out the big picture by himself. He was wrong.)
+
+Consider a startup. You do NOT want a "just-give-me-the-ticket" guy as a founder, ever. From a guidance point of view these are exactly the kind of people who cannot be left alone without specific instructions. For startups you absolutely need someone who sees the big picture and who can move towards the goal without specifically being told what to do. Imagine someone with basic knowledge about coding but with a clear understanding of the big picture and the goals of the startup (and its founders). Compare that to someone who is brilliant at coding but needs to be given very specific problems to get good results. I think you get my point.
+
+The original author proposes the point of view that a shit umbrella is someone who takes care of the fallout while 'real coders' do the work. As a professional shit umbrella I'd like to propose the opposite view: 'just-give-me-the-ticket'-developers are interchangeable cogs inside a machine whose operator is the team lead. They are the ones doing the least important tasks because those tasks are the easiest to contain in a ticket. For doing real work you need to get the big picture, and in my opinion that is the most important quality a programmer can have.
+
+Grok the project.

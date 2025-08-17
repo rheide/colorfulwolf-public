@@ -1,0 +1,48 @@
+---
+published: true
+title: "The climb to Lake Kizaki"
+id: "6658"
+slug: "the-climb-to-lake-kizaki"
+author: rv
+date: 2016-05-05 07:49
+categories: Spirit of Japan 3
+---
+It's been quite a day. Everything went exactly as planned, I guess, since the suffering and the long uphill road with all the tunnels was part of the plan. Yesterday was a day where I could almost get away with zero effort and still get to where I wanted to go, but today I had to go all out. You can't half-ass a hill. Sometimes I plan out a route the evening before, and I tell myself 'I should be able to do at least this speed on this incline'. But the next day, after an hour of climbing, I'm just doing whatever my body is capable of. So tired.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1919.jpg" rel="attachment wp-att-6660"><img class="aligncenter size-medium wp-image-6660" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1919-400x300.jpg" alt="IMG_1919" width="400" height="300" /></a>
+
+I started out early and left Itoigawa to turn onto the long road leading to Matsumoto around 7:30AM. I had expected to have to climb immediately but the road went through a nice valley for about 10 kilometers before the steepness began. And the tunnels. I knew they were coming because I had scouted out the route, but tunnels are just never ever fun. They're cold, dangerous and noisy. I had my blinkenlights on all the time, and later switched to a coat, because despite the uphill effort I still got cold. My early start paid off though. Until 9AM I hardly saw any cars, and the first tunnels were actually quiet and easy to cycle. Also, I saw wild monkeys near a tunnel entrance! Much nice.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1933.jpg" rel="attachment wp-att-6659"><img class="aligncenter size-medium wp-image-6659" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1933-400x275.jpg" alt="IMG_1933" width="400" height="275" /></a>
+
+That changed as I approached Hakuba. There were several really long mildly-uphill tunnels that were pretty tiring, and by that time traffic was in full swing. It still wasn't too busy thanks to golden week and probably because not many people start from Itoigawa to get to Matsumoto, but there was a fairly constant stream cars going past me now. One tunnel was 2 kilometers long, and when it was over you could already see the start of the next tunnel. Yesterday I had fun slacking off in the wind, taking side roads, enjoying the fact that there was no traffic, but today I really had to push for it. There's only one road that goes to Matsumoto. If I want to go there that's my only choice. (Well, that, or the /other/ road to Matsumoto that's even longer and more difficult.)
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1965.jpg" rel="attachment wp-att-6661"><img class="aligncenter size-medium wp-image-6661" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1965-400x300.jpg" alt="IMG_1965" width="400" height="300" /></a>
+
+When the tunnel stage ended I was getting closer to Hakuba, and the climb got less steep. That's when the wind got its revenge on me for yesterday. It wasn't quite as strong as yesterday, but much more unpredictable. I don't know what's going on in Hakuba, but it felt as if winds from several directions were all merging and causing chaos right where I was cycling. It was still uphill, so I wasn't going too fast to begin with, but with every sudden gust of wind I slowed down to a crawl. One of them nearly blew me off my bike when I was standing still to take a photo. The view of the mountains west of Hakuba was impressive, with rain clouds just hanging against them, unmoving. Some raindrops came my way but not many. I was heading towards the blue blue sky.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1982.jpg" rel="attachment wp-att-6662"><img class="aligncenter size-medium wp-image-6662" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_1982-400x300.jpg" alt="IMG_1982" width="400" height="300" /></a>
+
+The climbing never really got difficult again after Hakuba, but the winds didn't let up until much later. My goal today was to reach Lake Kizaki, mainly because it's near in the middle between Itoigawa and Matsumoto, but also because of yet another mini anime pilgrimmage. Lake Kizaki is apparently the inspiration for an anime called Onegai Twins, an anime that I watched a long long time ago and wouldn't really recommend to anyone, but hey, why not right? Kasumi disappointed, Lake Kizaki did not. It's beautiful. And rural, and not too busy.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_2036.jpg" rel="attachment wp-att-6663"><img class="aligncenter size-medium wp-image-6663" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_2036-400x300.jpg" alt="IMG_2036" width="400" height="300" /></a>
+
+I went to the campsite I had planned to go, half expecting to be disappointed because it might be full, annoyingly crowded or expensive. It was none of those things! It only cost me 1300 yen to stay the night, and they let me camp anywhere I liked, so I chose a spot right next to the lake with a beautiful view. As I'm writing this the one noisy group of people has disappeared and only a few people with smaller tents remain. I still have not ever seen anyone else with an orange tent. After I set my tent up I went for a cycle around the lake without luggage, taking a bunch of photos along the way. It felt great to not have to hurry and not have to push all the luggage around, but at the same time my legs did feel a bit tired from the morning climb.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_2140.jpg" rel="attachment wp-att-6664"><img class="aligncenter size-medium wp-image-6664" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_2140-400x300.jpg" alt="IMG_2140" width="400" height="300" /></a>
+
+After cycling around the lake I went back to the camp site and asked for a chair. They have chairs! I spent most of my time here sitting in the chair or walking around nearby, listening to music and taking photos. It feels really peaceful here. Every half hour or so a one or two-car train passes by the lake, passing by all the local train stations. There's exactly one boat on the lake, with two old men in it, fishing. One guy lay sleeping at the tip of the pier for hours, while some kids were playing with their fishnets on the pier next to it. It's all so wholesome.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_0010.jpg" rel="attachment wp-att-6665"><img class="aligncenter size-medium wp-image-6665" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_0010-400x267.jpg" alt="IMG_0010" width="400" height="267" /></a>
+
+In all truth, I am freezing my bloody ass off right now. I'm wearing 4 layers and I'm still cold. It's kinda hard to self-reflect and be all philosphical and shit if you're freezing cold. Oh well. I'm very happy with the down sleeping bag I bought a few years ago. It's amazingly warm. With my old sleeping bag I used to worry that I'd be too cold, but with the new one I know that that's just not possible. While I sit outside on this chair though, I freeze..
+
+I'm really glad I came here and camped. I don't camp often, but when I do... it is kind of epic. I had a similar experience during the Hokkaido cycling trip, where I also didn't camp too often, and had some bad camping moments too, but right near the end I had a perfect camping day. That's what this feels like too. When camping is good, it's amazing. It's good to mix up the business hotels with other things once in a while. In moderation.
+
+I remember reading an article about how one half of your brain is awake when you're sleeping in a new place. There's no way that that's the case when you're frequenting various Japanese business hotels. They're literally all the same. It's really all just one room in a parallel dimension that changes slightly every time you open the door.
+
+Whenever I'm at a place like this I can't help but wonder how it is best appreciated. Is it by the travelers, seeking a place to sleep while they're going from A to B? Or is it for the people having social events? Or tourists, who go here by car, look around and then go home again? I also wondered, while looking at the awesome scenery, if I would be happier if I owned everything I could see, and then immediately thought 'no'. Owning is probably the opposite of freedom. Some ownership is required to not die and have a certain standard of life, but beyond that I think it only weighs you down. Buying things is fun. Owning things isn't. Coming back to who best appreciates a place like this camp site, maybe the people who own the least appreciate it the most? Something I will think about.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_0003.jpg" rel="attachment wp-att-6666"><img class="aligncenter size-medium wp-image-6666" src="https://s3.amazonaws.com/cfwblog/uploads/2016/05/IMG_0003-400x267.jpg" alt="IMG_0003" width="400" height="267" /></a>
+
+Matsumoto isn't too far now, and shouldn't be as tough of a climb as today was. I'm not entirely confident in this, but it seems that Matsumoto to Kofu may be a fair bit downhill. So the next climb that will be tougher than today will likely be the one that takes me to the Fuji five lakes area. Let's not think too much about that yet.

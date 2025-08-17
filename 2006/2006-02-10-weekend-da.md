@@ -1,0 +1,10 @@
+---
+published: true
+title: "Weekend da!"
+id: "87"
+slug: "weekend-da"
+author: rv
+date: 2006-02-10 09:37
+categories: Uncategorized
+---
+Ik kom net terug van de keuring van mijn kamer :O Vandaag gingen ze controleren of ik mijn kamer wel goed schoongemaakt. Daar was ik niet echt blij mee, want ik had helemaal geen zin in schoonmaken en de kamer zag er op het eerste gezicht redelijk schoon uit, maar hij was eigenlijk behoorlijk vies achter de schermen :O Want ik had gisteren niet zo'n zin om me heel erg uit te sloven, dus het enige wat ik echt goed heb schoongemaakt was de badkamer. Wat een k*twerk. Vandaag mocht ik dus van mijn werk naar mijn kamer fietsen en weer terug (met een keiharde tegenwind), waarna twee vrouwen langs kwamen om de kamer te keuren. Ik hoefde me geen zorgen te maken, want het enige wat ik hoorde was 'kirei,kirei' (schoon, schoon), 'sugoku kirei' (erg schoon), 'tottemo kirei' (heel erg schoon). Mijn moeder kan trots op mij zijn :D<br /><br />Naja, vanavond vertrekken we met zijn twintigen naar een of andere berg in de buurt van Nagano. Mijn nieuwe kamer is echt een gigantisch zootje, dus ik hoop dat ik al mijn zooi bij elkaar kan rapen voordat we weggaan. Ik heb er wel zin in, maar ik had toch liever dat we het niet in hetzelfde weekend gepland hadden als mijn verhuizing :( Ik heb trouwens voor het eerst op mijn nieuwe bed geslapen: jammie! Dat ligt echt een stuk beter dan mijn oude bed, die een keiharde metalen balk had op heuphoogte. Mijn nieuwe bed is bijna net zo zacht als dat in Nederland. Bijna :) En ik heb een heel fijn dekbedje gekocht dat stinkduur was: 13000 yen! :O. Dat is bijna 100 euro :( en dat was de op 1 na goedkoopste. Bah bah bah. Ik heb geen zin meer om geld uit te geven nu.<br /><br />Zei ik gisteren dat ik het niet meer zo druk had op het werk? Dat is al weer veranderd dus. Er is weer een heleboel werk bijgekomen en ik zit wel weer volgepland voor volgende week. Hopelijk heb ik snel weer internet thuis want dan kan ik daar weer nutteloze dingen schrijven voor mijn blog :)

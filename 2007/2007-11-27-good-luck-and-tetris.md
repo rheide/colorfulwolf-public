@@ -1,0 +1,10 @@
+---
+published: true
+title: "Good luck and Tetris"
+id: "382"
+slug: "good-luck-and-tetris"
+author: rv
+date: 2007-11-27 13:57
+categories: Uncategorized
+---
+Have you ever played tetris? You must have? Do you know the feeling when bad bricks keep on piling up and you can't make a line, and just before your screen's full exactly the right bricks come out and you clear out the entire screen? This is what my life feels like right now. People are being so nice to me for no reason! I especially have to thank Shieri and Alvaro who have been spoiling me recently lately with a lot things ^_^.<br /><br />My holiday is planned! I'm going back to Holland for Christmas, and I will spend some days traveling around Europe with Kamil before going back to Japan. It's a crazy and busy trip and I'm sure I will enjoy it a lot. It's an expensive time too, and I need to spend a lot of money on traveling and stuff. It feels good though.<br /><br />In fact, I decided to order a new lens for myself yesterday. After taking pictures of the monkeys last weekend I really found that I reached the limits of my zoom lens, so I ordered a new Canon 70-300mm IS lens. It should be quite good ^_^<br /><br />It seems that whenever I feel like my luck changes for the better someone else's luck changes for the worst. Is there a fixed amount of luckmatter (luckions?) in the universe? If one person gets it, it goes away from someone else, perhaps. And if there is, would you feel bad if you took much luckmatter for yourself? I wonder.<br /><br />I haven't really looked through the monkey pictures closely yet. I've deleted the blurry ones, but I haven't really selected the good ones yet. Guess I'll try to make time tonight, but it's already 23:30 and I have a lot of work to do tomorrow :'( Work really does limit my creativity. I was gonna get started on Google's Android too, but my job is taking all of my processing power where programming is concerned...

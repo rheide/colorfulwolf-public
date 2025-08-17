@@ -1,0 +1,26 @@
+---
+published: true
+title: "You can let your guard down in Japan"
+id: "5089"
+slug: "you-can-let-your-guard-down-in-japan"
+author: rv
+date: 2012-08-29 16:54
+categories: Japan
+---
+Today I met a friend, way later than I was originally supposed to. As such, it ended in a beer place in Meguro, and I had a rather good taste of beer that I actually liked and could actually distinguish from other beers. I also had the best yakiniku ever before coming to the beer place, but that as an aside. In the beer place my party met an interesting Irish gentleman who appears to be running an acne cream company in Japan. We ended up talking about good and bad things about Japan, as foreigners do when they're here or have been here in the past. There's the usual complaining about other countries, then the complaining about weird things in Japanese society, but if there's one thing I could take away from the conversation, it's this: <strong>you can let your guard down in Japan.</strong>
+
+It's not the first time this thought has popped in my mind. I've talked about this with a lot of my friends who used to live here and have also had the experience of living in another country, and they tend to agree. But hearing it from a complete stranger feels slightly different. Satisfying, I might add. I haven't been delusional at all, this is actually a thing!
+
+Think about it. What if you didn't have to worry about your bag when you have to go to the toilet in a restaurant? What if you don't have to worry about getting wasted on the streets because no one will steal your wallet? What if you don't have to be mindful of sleeping in the train because no one will ever try to steal your shit? Last one: what if you don't have to worry about walking down the streets because no one will ever approach you and ask you for money in an infuriating way?
+
+The answer to all those questions is: then you go out, you live carefree and you end up with a happy nightlife city like Tokyo. Sure, there's seedy neighbourhoods, but even those are only dangerous if you happen to offend the local crime lord (which is a hard thing to do by accident).
+
+But to which population groups does this apply? What do you have to be to qualify for the privilege of letting your guard down? Well, native Japanese seem to disqualify immediately. Japanese people have been raised in this culture so have no basis for comparison. They think Kabikucho in Shinjuku is the worst place they can imagine, yet to any foreigner it will seem amazingly tame (at least it did to me, and I'm a countryside farmboy). I've thought a lot about this, and I was going to write down a detailed version here of how your race and gender help decide whether you can let your guard down or not. But that's not the point. The point is what the consequences are.
+
+In London, if you leave your bag out of sight, it gets stolen. It's that simple. Same goes for your bicycle: it better be locked damn well if you're planning on leaving it in a public place. If you let your guard down and forget to look after your things, you will immediately be punished for it. Not so in Japan. You've got a safety margin. Here's an example. I often left my bicycle at the train station in Japan when I went out late at night. Sometimes I wouldn't return for several days. I always locked my bike, but sometimes I would leave my raincoat in the basket if I didn't think I would need it. I know, it's a weird thing to do, but I was testing Japan, to see if someone would steal it or not. Someone did, eventually, but that was only after leaving my bike there over the entire weekend. But on the occasions that I left it for one night and came back the next morning, nobody ever tried to take things from my basket.
+
+There's a similar safety margin with beggars. I've never been approached by one in Japan until yesterday, but even then I feel confident that I can say anything to a begger without having to worry that he'll want to get physical or draw a knife on me. I used a beggar in this example, but I could have used any other person. My point is: if you don't have to worry about these kind of situations happening you'll walk down the street differently, and you'll feel more free. Perhaps that's just my risk-averse nature speaking, but it seriously affects me. You would never even imagine strolling through central London late at night to take photos; it just doesn't even occur to you because society has pummelled you into believing that you shouldn't go out late at night, especially not with expensive equipment. In Tokyo it's something that just springs to mind naturally. I'll spark the controversial thought here that  London is like a wilderness full of lions, tigers and other deadly predators, whereas Tokyo is filled with deer, sheep and koalas.
+
+----
+
+I filed this under rant because I don't think this is particularly thought-provoking or objective. It's just my subjective thoughts about Tokyo. And it's a rant because I really felt like I had to get this off my chest. All the time I keep feeling this way but fail to articulate it the way I want to, and the thought gets lost in my brain somewhere. The Irishman finally gave me the kick to write down this imperfect version so I can at least read it back and try to write a better version at some later point in time.

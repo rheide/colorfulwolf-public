@@ -1,0 +1,24 @@
+---
+published: true
+title: "On transparency and blogging"
+id: "5837"
+slug: "on-transparency-and-blogging"
+author: rv
+date: 2013-10-04 17:04
+categories: Thoughts
+---
+This blog has been with me for almost a decade. I started it when I first moved to Japan and have been updating it ever since. Sure, there's the occasional lapse, but as far as I can recall not a month has gone by that I didn't post something.
+
+Sometimes I forget how public a presence this blog really is for me. I tend to write about anything and everything, which is all open to the interpretation of whoever reads it. Let's think about the groups of people viewing this blog. First, there's the people I already know in real life. This blog is perfect for them because it augments their experience of me. So far so good. Next, there's the other extreme: people who don't know me in real life. People from this group may read something random on here and vary their reaction from extreme offense to following me on Twitter and leaving positive comments. This is good too. People who are offended leave, people who like what I write stick around.
+
+But then there's the third group: the transition group. These are the people don't know me in real life yet are planning to know me in the future. Or, to be blunt: potential employers. This is just about the only case in which this blog can have a negative effect on me. In terms of potential personal relationships in real life, the only purpose this blog could possibly serve is weeding out potential people I might not get along with. I should mention that his never happened before in the past, and if anything there's a very small set of people on the internet who only know me from this blog who look favorably upon me. Then again, if people I could not get along with well would never contact me because they've seen this blog, I would never know about it, because they've seen this blog.
+
+But business contacts, that's a problem. It's very easy to misconstrue a remark or post that I made, and I have to admit that I wrote some pretty stupid posts in the past, most always in the heat of the moment, omitting valuable context. And unlike personal contacts, businesses are unlikely to give you the benefit of the doubt and ask you to explain why you wrote something. I was recently in a position where this exact thing happened. A potential employer called me out on some posts that I wrote and asked me about it. I am very lucky in this way because this empoyer actually had the decency and the balls to call me out on it, and I was able to give them context and explain that I'm not a totally evil person. (hopefully!)
+
+That's the risk of having a blog when you're looking for a job, but what if you already have a job? As you climb up the ranks you'll end up becoming a more prominent figure in the world of whatever it is you're doing, and people are bound to find your blog when they're searching for information about you. Eventually, anything you write can and will be used against you? Even I'm not cynical enough to believe that. But the reality is that what you write may in the future affect other people, not because you write about them but merely because of your position in society. Personally, I don't believe this will ever become a problem for me. In the same way that this blog might weed out people on the personal side, it'll also weed out people on the professional side. Any employer is free to read my <a href="/blog/2013/07/29/the-canon-powershot-a2400is-is-utter-crap/" target="_blank">criticism of certain tech products</a> and use that information to decide whether to hire me or not.
+
+Right after that talk I decided to take this blog offline entirely and put up some bullshit promotional page or something. Obviously I decided against that, since I'm writing this post. I really do have nothing to hide. If anything, I have more to share. If there's stuff that gets misunderstood, then I need to provide more context. Of course there's stuff that I'll never write about because it affects other people and/or companies, but over the years this blog has become my home on the internet. I won't get rid of that easily.
+
+That being said, the blog does need to grow with me. If this is to be my home on the web then at the very least I must portray myself honestly and transparently, and allow as little room as possible for misinterpretation. This means I need to evolve my writing style, do more proofreading, and perhaps (just perhaps) not click the publish button immediately after writing a post. As general rule though, I'm very happy with this statement: misinterpretations are solved by adding information, not by removing it.
+
+And let history be the judge.

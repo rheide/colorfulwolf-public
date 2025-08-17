@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	{% with is_header=True %}
+		{% include "_nav.html" %}
+	{% endwith %}
+
+	{% for article in content_items %}
+		{% include "_article.html" %}
+	{% endfor %}
+
+	{% if page_count > 1 %}
+		{% include "_nav.html" %}
+	{% endif %}
+
+{% endblock %}

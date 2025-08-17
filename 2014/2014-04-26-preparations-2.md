@@ -1,0 +1,22 @@
+---
+published: true
+title: "Preparations"
+id: "5988"
+slug: "preparations-2"
+author: rv
+date: 2014-04-26 21:11
+categories: Spirit of Japan 2,Thoughts
+---
+Four days from now I will be embarking upon what will be at least the second-biggest, probably <em>the</em> biggest cycling trip I've ever done, and I don't feel strongly about it at all. My mind keeps wandering, but not to the trip. Instead I think about what I'll do after I get back. How I'll have a go at making my life in order: getting a proper apartment or house, getting a car, moving out and so on. How I'm going to get from the Tokyo area to Nagano without crossing too many mountains has hardly crossed my mind, and that's only the first of the many challenges that await me.
+
+Yesterday was my last day at work, and I can't help but contrast it to my last day at AK in Japan. I remember working until the last minute to ensure that my systems were documented and would continue running for the many years to come, as I was the last one with in-depth knowledge of the system that I built. There was always that little bit more to do, but then I finally had to go and join the rest of the guys as we headed off to my farewell party. Yesterday could not possibly have been more different. The project I am working on is well-maintained and there's three people at least as knowledgeable as me ready to take my place. No farewell party either, which is my choice really, as I'm sure I could've gotten the guys to grab some drinks with me. But I just didn't feel the 'farewell' vibe. And rightly so, since I'll be back there in a few month's time. I'm sure that by then the project will have left me behind and I'll have to start all the way from scratch again.
+
+Another point of contrast is my personal life. Last time I cycled Japan, I had no apartment, no job and no girlfriend. This time I have all three. It's very clear what I'll come back to, so no need for my mind to do much soul-searching during the trip. I guess I'll have to occupy my brain in some other way. I suspect this will cut into my motivation, since I know that it's so easy to give up and head back to the stable life I've built up here in the UK. The mere fact that cycling is 'an enjoyable activity' for me is of course a great factor in my choosing to do this trip, but not enough by itself. It's not even the fact that I want to go back to Japan so badly, because that feeling has kind of disappeared after last winter's trip. If anything, my main motivation is exercise. I'm getting fatter and fatter, and I know that I need to lose some weight. Cycling is the most enjoyable way to do that for me.
+
+There's no scrambling. Everything urgent at work was transferred or documented long before I left. I've taken care of all administrative stuff for the next two months already, arranged transport to the airport and am comfortable with how I'm leaving my room while I'm away. I've already made a list of everything I need for the trip and bought the things I was missing. I've got a spare bike bag if for some reason the first one breaks. I've got spare brake blocks, spare tires, spare everythings. I've bought a warmer sleeping bag after last weekend's Dartmoor adventure and even the mobile internet connection has been taken care of. British Airways is granting me two check-in items this time so I don't even need to worry about having overweight luggage. Too smooth.
+
+This is the point where I say "nothing can go wrong" and am then suddenly caught off guard by something I completely forgot out. So let's not say that.
+
+I'm still not feeling it! Because everything's going so smoothly I'm hardly feeling the urgency of the situation. I'll bag up my bike on Monday, leaving me all of  Tuesday to buy anything missing or to fix anything broken. If the taxi ride goes according to plan then I won't be feeling the true travel vibe until after I arrive to Japan. It's hard to predict what will happen the first two days. My plan is to cycle south to Chiba and figure out accommodations along the way. Then I'll take a ferry to Kanagawa and cycle to Atsugi for a brief stop before heading North to Nagano. What happens after, no one knows. I'll worry about that when I get to Nagano.
+
+Soon!

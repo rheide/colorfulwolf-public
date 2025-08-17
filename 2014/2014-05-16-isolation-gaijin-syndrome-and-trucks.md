@@ -1,0 +1,26 @@
+---
+published: true
+title: "Isolation, Gaijin Syndrome and Trucks"
+id: "6091"
+slug: "isolation-gaijin-syndrome-and-trucks"
+author: rv
+date: 2014-05-16 05:59
+categories: Spirit of Japan 2
+---
+I read an <a href="http://www.bbc.com/future/story/20140514-how-extreme-isolation-warps-minds" target="_blank">interesting article about isolation</a> today, and it made me wonder how I would cope with it. I would not dare to presume that I am isolated or lonely in my current state. I've interacted with friends online pretty much every single day of the trip, and I chat with my girlfriend every chance I get. In this way, this trip is the least isolated trip I've ever done.
+
+But on the human level, the personal interaction level, Japan sometimes makes you feel as if all you do is give commands to machines. 99% of all social interactions in Japan as a foreigner (who speaks Japanese) is like that. It's always the same protocol: establish that you can speak Japanese by saying something a little longer than 'konnichiwa', wait for the other party to acknowledge, and place your request according to Japanese specifications. The response tends to be your desired response with an occasional 'ping' packet of "your Japanese is so good!" or "you can use chopsticks so well!" that you can discard right away. This is the pattern. If you stray from this pattern, the machines will get confused and can no longer serve you.
+
+Sometimes you find a machine that suffers from the 'gaijin syndrome'. Today at the hotel, the receptionist pattern-matched my face to 'gaijin' and discarded any subsequent input, such as my perfectly phrased Japanese sentence: "Hello. Is it too soon to check in yet"? Instead, she ran away and fetched the protocol droid: some guy who was just like C3PO, but in human form. He went out of his way to show that he could speak English and made every effort to prove that he was extremely helpful and a man of his skill was up to the job of interacting with 'the foreigner'. Yeah, I know how cynical that sounds, but this is really the way the Japanese make first contact with a foreigner.
+
+The guy mellowed out a lot after we spoke a bit more, and he helped me out with my luggage and laundry. I told him I was going to Hokkaido, and his response was "Uaaa, nanimo nai" - "Uaaa, there's nothing there". I asked him about Wakkanai: "nanimo nai"! Shibetsu: "nanimo nai"! Tomakomai: "nanimo nai"! ... So, Hokkaido is pretty empty. Yup, I think I knew that. Thanks, human C3PO.
+
+All these interactions made me realize why I enjoyed talking to the bicycle master so much yesterday. There was no handshake necessary, no protocol negation. He just treated me like a human. Older people, they're good to talk to. They're all very wise in their own way. The younger generation is way too robot-like sometimes.
+
+Back to today's events: according to the weather report it would rain all day, but the weather looked fine in the morning so I went out and cycled the 40-ish km to Akita, which is the second-last big city before I reach Hokkaido. I've got choice of hotels here and found a cheaper and nicer one than the one I stayed at yesterday. I managed to do laundry around noon and then wandered around the city. Too late though, because the bad weather hit and it got all windy and rainy. So I wandered up to the top floor of a department store, which was nearly empty except for 3 shops, one of which was a brilliant ramen restaurant. I really stuffed myself today.
+
+I do feel isolated, but I have never disliked that feeling. I find it extremely comforting that when I'm in a restaurant I don't have to interact with a waiter every 2 fucking minutes to tell him that yes, the food really is good and that he should really stop bothering me now. I prefer having the 'standard ordering protocol' of Japan over the 'random banter and then some needless back and forth' of UK pubs. If I wanted human interaction I would talk to my friends, since those are actually people I like to interact with. Unlike you. Whoops, my cynicism came out again. Right, isolation. Isolation can be nice. It allows you to focus on other things. Keeps your head clean. Peace and shit.
+
+Speaking of peace, I've somehow found myself in a peculiar routine with (dump) trucks. Every time they pass me I give them a rating by head and hand gestures. A normal pass will get you nothing. If you pass me too close or too slowly, you get the disapproving head shake. Really people, why do you have to pass me so incredibly slowly? That's just hugely unsafe since it takes you onto the wrong lane for a much longer time. It also makes me assume that you're a shit driver and puts me on guard. Big no-shake for you. If you pass me wide and fast, you get an approving head nod. But if you cut me off like an asshole then you get the finger and possibly a shout. I've only had to use the finger 3-4 times this trip.
+
+It's about 230km to Aomori, the last mainland city. There shouldn't be too many hills on my path. Perhaps I can make it in two days, if the weather is perfect and I find the perfect stopping place halfway. In the worst case I'll have to take another break day tomorrow and do the distance in three days. Also not a problem. Hokkaido, I'm coming!

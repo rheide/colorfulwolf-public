@@ -1,0 +1,19 @@
+---
+published: true
+date: 2021-03-13 10:33
+title: I minted an NFT and put it up for sale
+categories: Tech
+tags: bitcoin,crypto,nft
+type: article
+slug: i-minted-an-nft-and-put-it-up-for-sale
+author: randy
+---
+The internet's going crazy about NFTs (non-fungible tokens) right now, so I wanted to see what all the fuss was about. In a nutshell, NFTs are bits of information that are stored on a public blockchain, which are provably 'owned' by a particular blockchain address. Anyone can see it, but only the owner of the address can prove ownership of the NFT, and transfer it to others, since the owner is the only one who is in possession of the private key required to do those things. From a technical point of view it's not very novel at all, it just seems like a logical evoluation of the presence of public blockchains, yet the internet has become infatuated with it recently, with <a href="https://www.theverge.com/2021/3/11/22325054/beeple-christies-nft-sale-cost-everydays-69-million" target="_blank" rel="noopener noreferer">some artwork</a> selling for utterly insane amounts.
+
+The world of cryptocoins has progressed a lot since I first wrote about it. It's incredibly easy these days to just download a mobile crypto wallet, transfer in some money (either crypto or fiat) and then use that wallet to trade. The intended user experience is fantastic, but in practice.. we're not quite there yet. In order to link your wallet to an auction site like rarible.com you have to connect your wallet via a QR code, and in theory the site will then ask your wallet for confirmation for the actions required to mint an NFT and put it up for sale. In practice there's 4 different wallet connection protocols and dozens of wallets that implement them, and your experience will vary greatly depending on which protocol and wallet you use.
+
+MY first attempt at minting an NFT on rarible was to use WalletConnect to connect to crypto.com's mobile wallet app, and it was nothing but pain. Confirmation requests never arrived, or after confirming nothing happened on the auction site. Even transferring money in and out seems near-impossible sometimes. But then I switched to using the Coinbase wallet app and protocol and things were just smooth. It took only a couple of minutes to mint a new NFT and put it up for sale.
+
+So what piece of 'art' did I put up for sale? Given the internet hype around this whole thing I thought it the most appropriate to mint a screenshot of the very first blogpost I wrote about Bitcoin in 2011: <a href="/blog/2011/05/31/resources-are-being-utterly-and-completely-wasted-on-mining-bitcoins/">Resources are being utterly and completely wasted on mining Bitcoins</a>. You can find the NFT for sale <a href="https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:312083" target="_blank"><b>here on rarible.com</b></a>. This post was written way back in the day when I was GPU mining at home. In those days, even without being part of a mining pool you'd occassionally find the winning hash and get the full 50 BTC. 50 BTC is worth $3,000,000 today..
+
+Looking back on that post, I wish I had been a bit more prescient about the price of Bitcoin rather than the resource usage.. While it's true that Bitcoin's energy usage has ballooned (apparently more energy is spent on mining Bitcoins than is used by <a href="https://www.bbc.co.uk/news/technology-56012952" target="_blank" rel="noopener noreferer">entire countries</a>), which I predicted back then, I did not predict that the price would go from $9 to $59000. If I had predicted the price right I'm sure I would at this point be able to buy a news company to write this article for me. Oh well. You win some, you lose a lot.

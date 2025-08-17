@@ -1,0 +1,10 @@
+---
+published: true
+title: "Een tijdje geen update"
+id: "141"
+slug: "een-tijdje-geen-update"
+author: rv
+date: 2006-09-28 16:00
+categories: Uncategorized
+---
+Waarom niet? Drukte enzo. Iedereen is weg nu. Iedereen waarmee ik het laatste jaar heb opgetrokken is teruggegaan naar huis. De enigen die over zijn gebleven zijn Ning Ning, Pedro, Domi en Alvaro. Toen ik hier aankwam voor een jaar geleden maakte ik zomaar vrienden met iedereen, en daar was ik geweldig blij om. Nu maak ik weer vrienden met iedereen, maar verbaas ik me er niet meer over, en het is een hele andere verhouding nu. Ik ben nu op zoek naar meer, naar hele goede vrienden, en misschien zelfs een vriendin. Maar dat bouw je niet zomaar op in een week, daar moet je meer tijd in steken. Maar ik wil niet weer dezelfde fout maken die ik in mijn eerste jaar heb gemaakt, en daarmee bedoel ik dat je pas close met mensen wordt een maand voordat ze weggaan. Nu ik dat gezegd heb, bedenk ik me wel ik weinig interesse heb in de nieuwe mensen eigenlijk, maar dat is meer mijn fout en niet hun fout. Dat verandert vast nog wel de komende maanden, gezien de ontwikkelingen die in de planning staan voor iedereen.<br /><br />Tjsa, het is een beetje saai, niks geen reis-updates of andere dingen op mijn blog voor meer dan een week. Veel concreets heb ik ook niet in de planning voorlopig.  Misschien van het weekend nog een keer naar het meer waar ik een paar weken geleden ben geweest, maar dan met meer mensen. Dat ligt ook aan het weer. Verder vind ik mezelf niet zo belangrijk op het moment en wil ik meer dingen doen voor een ander persoon. En dat is meteen alles wat ik vertel daarover op deze blog :) Ik moet maar eindigen met zeggen dat de laatste paar weken de ergste en de beste in mijn leven waren, en het lijkt erop dat het voorlopig nog wel een maandje doorgaat op die manier. Het lijkt erop dat ik over een maandje gigantisch depressief of gigantisch gelukkig kan zijn, maar iets er tussenin lijkt onwaarschijnlijk. Lekker vaag, maar zo ben ik nou eenmaal :)

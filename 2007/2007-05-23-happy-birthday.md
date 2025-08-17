@@ -1,0 +1,10 @@
+---
+published: true
+title: "Happy Birthday!"
+id: "249"
+slug: "happy-birthday"
+author: rv
+date: 2007-05-23 10:40
+categories: Uncategorized
+---
+Happy Birthday to my sister Shanna, who turned 19 today :)<br /><br />Here's a picture for you:<br /><br /><a href="http://bp2.blogger.com/_RIq3e2nKDHo/RlQcdaBTOCI/AAAAAAAAAYA/9rUJ3lG3Aaw/s1600-h/IMG_6461.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="http://bp2.blogger.com/_RIq3e2nKDHo/RlQcdaBTOCI/AAAAAAAAAYA/9rUJ3lG3Aaw/s400/IMG_6461.jpg" alt="" border="0" /></a>Last year my sister and I went to Okinawa, and I saw so many of these creatures, but was never able to take a good photo of them. This one I met during the golden week trip, and it stayed still :)<br /><br />Here's some more pics from our trip to Yoron.<br /><br /><a href="http://bp0.blogger.com/_RIq3e2nKDHo/RlQcc6BTOAI/AAAAAAAAAXw/CWPo0u5FfZw/s1600-h/IMG_6316.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="http://bp0.blogger.com/_RIq3e2nKDHo/RlQcc6BTOAI/AAAAAAAAAXw/CWPo0u5FfZw/s400/IMG_6316.jpg" alt="" border="0" /></a>This is the 'beach'. Quite hard to walk on.<br /><br /><br /><a href="http://bp1.blogger.com/_RIq3e2nKDHo/RlQcdKBTOBI/AAAAAAAAAX4/kTt2tLJi754/s1600-h/IMG_6456.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="http://bp1.blogger.com/_RIq3e2nKDHo/RlQcdKBTOBI/AAAAAAAAAX4/kTt2tLJi754/s400/IMG_6456.jpg" alt="" border="0" /></a>In our attempt to find a road that went around a mountain instead of over one we ended up at an abandoned road that kept going down and down, until it stopped. There was a barrier, and a message saying that nobody should go further for danger of falling rocks. A bit ahead we found this weird place, flooded. It must be a secret base.<br /><br /><a href="http://bp0.blogger.com/_RIq3e2nKDHo/RlQcd6BTODI/AAAAAAAAAYI/ju3e2y0ZQGo/s1600-h/IMG_6505.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="http://bp0.blogger.com/_RIq3e2nKDHo/RlQcd6BTODI/AAAAAAAAAYI/ju3e2y0ZQGo/s400/IMG_6505.jpg" alt="" border="0" /></a>And this is just beach.

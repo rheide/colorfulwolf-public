@@ -1,0 +1,10 @@
+---
+published: true
+title: "Never enough"
+id: "181"
+slug: "never-enough"
+author: rv
+date: 2007-02-06 12:17
+categories: Uncategorized
+---
+What is it that drives people? Why are people never satisfied with what they have? Why do they always try to get more? Why can't they just be happy with what they have?<br /><br />This is my way of saying that I'm no longer happy with what I have ;) For some people it takes more time, for others it takes less, but my limit for really really liking something is about a couple of years. PC's for example. I used to love constructing them, installing software on them, installing new expansion cards and new fans, to make them even faster. But as I got older it got boring quite fast.<br /><br />The same goes for my other interests. Programming. Football. Formula one. Racing games. Japan. Some of these I dropped, others I integrated into my life. I still love playing racing simulations on the PC. It helps me relax. It's like therapy :D But I haven't had much time for that lately, and I'm actually a little bit glad that I'm falling back into my old lifestyle. A very tiny little bit.<br /><br />Even Japan fades. It's just not as interesting anymore. I went hiking with my friends on Saturday, and we had a brilliant view of mount Fuji. To be honest, I didn't care much. I can see it every day from my room. It's always beautiful, but after a while you just get used to it. I'm too used to Japan to enjoy all the special things here. As I said, people always want more, but sometimes they need to lose something to realize that they already have enough.<br /><br />That being said, it means that it's time for change. Time for a new something in my life. Time for a new challenge. I'm ready for something that I will not get bored with after a couple of years. I thought I had it, but I never got the chance to find out. No use thinking about it now, instead I"ll try to find a new challenge for my life :)<br /><br />Credits go to Kamil for this one: "Time will reveal all truths"<br /><br />(Dude, fix your bike, seriously! :P )

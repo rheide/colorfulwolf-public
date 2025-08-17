@@ -1,0 +1,28 @@
+---
+published: true
+title: "Super charger"
+id: "2313"
+slug: "super-charger"
+author: rv
+date: 2010-04-11 11:22
+categories: Spirit of Japan,Tech
+tags: aokigahara
+---
+<div class="caption">
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2010/04/sc.jpg"><img class="size-medium wp-image-2314" title="sc" src="https://s3.amazonaws.com/cfwblog/uploads/2010/04/sc.jpg?w=201" alt="" width="201" height="300" /></a>
+<div class="caption-text">Super charger</div>
+</div>
+
+This little baby will simultaneously charge all chargeables that I will bring on the trip: DSLR battery, compact camera battery, iPod, mobile phone (via USB, not pictured) and laptop. It doesn't charge the GPS cause it works only on non-rechargable AA batteries. I'm hoping to plug this thingie in whenever I stop for lunch, dinner, onsen(bath) or laundry. I'm bringing two batteries for each camera. The laptop only has one battery but it should last me about 8 hours. on a single charge. I'm also bringing the solar charger that I bought a while back, but it only works on USB devices, which means it's actually pretty useless for me, as I can only charge my mobile phone or iPod with it.
+
+My room is empty! Today I carried all my remaining furniture downstairs and vacuumed my room. I also tried to clean around the window areas but it's impossible to get it clean.(enough). I guess the landlady will deduct some money from my deposit to clean the room further. Well, I tried my best. I would take a photo of my room right now, but since I have no furniture left to sit on chose to go to a cafe instead.
+
+I do apologize if I am boring you with stories about the weather, but weather is the thing that's been foremost on my mind for weeks now. If the weather is good then I am happy. If the weather is bad then I am depressed. You could pretty much train a hidden markov model to predict whether I am happy or sad by inputting the local Atsugi weather. Fact is though, the weather could not possibly have been better for the past two days. Perfect temperatures by day, cool but not too cool at night. I wish it would last though. Tonight the wind is blowing strongly and it's expected to rain again tomorrow. I've made up my mind though, and I'm ready to leave. Tuesday is the day. I would have left tomorrow, but I didn't contact the person who will check my room in time, so I have to wait until Tuesday morning.
+
+Here's my plan for the first couple of days: I will cycle north-west into the mountains, taking it easy on my first day, cycling until I reach <a href="/blog/2009/04/11/the-lake/" target="_blank">this mountain lake</a> about 10-20km's from here. I don't know at what time the room check person will arrive, so I might not have a lot of time to cycle on the first day. I would cycle further, but after the lake begins the real suffering: a 50km mountain road that bounces up and down, eventually reaching an altitude of about 1100 meters. I am pretty sure the second day will make me suffer a lot, and I'm not looking forward to it at all. It's a necessary evil though, as this road will take me to the Fuji five lakes area, which is beautiful and has an awesome view of Mount Fuji. I'm planning to follow the path of the five lakes, taking me around the north side of mount Fuji.  After that it'll be a long and dangerous road downhill until I reach the coastline just west of Fuji city. From there I'll follow the coastline and head for Nagoya. Note that Japan is actually quite tiny so all this will only take a couple of days. I'll also be passing through <a href="/blog/travel/the-sea-of-trees/" target="_blank">Aokigahara</a>, the suicide forest, along the way. I'm thinking of camping there for a night. It is said that there's a lot of magnetic rock formations in that area that make compasses go haywire. I'm interested to see if this is true.
+
+On a tech-related note, I've been preparing my netbook for the trip. New graphics card drivers mean that I can almost play games at an acceptable framerate. Almost, so I won't be playing any new games on the way. It's too bad that the graphics performance sucks so much, because using the netbook for daily life works almost perfect. I've been running Chrome with 10 tabs open while Photoshopping a photo and uploading photos with an FTP client, while downloading anime with uTorrent. Not a hitch. I don't expect to be doing that a lot during the trip though, as the battery drain would be extreme. I'm troubled by the size of photos: a single photo from my DSLR is about 8 megabytes. Trying to open an 8MB photo on a netbook is like trying to feed a Japanese person 10 whoppers. Even if it succeeds, it will take an extraordinary amount of time. Since my mobile internet is quite slow it will be near impossible to back up all my original photos during the trip. I'm going to have to resize them and risk losing the originals.
+
+Communication might be a problem as my mobile internet provides has blocked almost every form of communication. Skype is blocked, MSN Messenger is blocked. The last time I tried VOIPBuster it didn't connect, but it worked before, so I'm hoping it was just a one-time fluke. At least Google Talk seems to work. Whenever I put my netbook into power-save mode it becomes incredibly slow though. Even GMail becomes noticeably slower, which is something I've never encountered until using this netbook. Oh, and there is a fairly large possibility that I won't have any signal in the mountains, so I won't be able to blog. I'll find out in a couple of days. Still, I'm looking forward to making my first blogpost from my tent :D
+
+Almost!

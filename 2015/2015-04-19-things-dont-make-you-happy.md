@@ -1,0 +1,20 @@
+---
+published: true
+title: "\"Things\" don't make you happy"
+id: "6356"
+slug: "things-dont-make-you-happy"
+author: rv
+date: 2015-04-19 12:16
+categories: Thoughts
+---
+"Things don't make you happy, experiences do". It's a fairly well-known saying. Let's dispute it.
+
+What is an 'experience'? Few would dispute that a holiday in an exotic place would count as an experience. But if you go to the same place year after year until you've been there a gazillion times, does that still count as an experience? If you do something that you already know (more or less) exactly how it will play out, I don't think that counts as a new experience, and surely it's <em>new</em> experiences that we're looking for. Say you're good at programming, using a framework you already know to build something you can already see in your mind will still make you better at it; you'll still improve your internal representation of the concepts that are already there. But it's not a <em>new</em> experience, it's a refinement of what's already in your head. Whereas if you try a new language or a new concept that's slightly beyond your current skills, that would definitely counts as a new experience. And that's what makes you happy, says well-known saying.
+
+If we're scoping ourselves to the concept of 'new experiences', what else would count as a new experience? Reading a book you've never read before? I would think so. Watching a movie you've never seen before? Yup. Or going out for a cycle and taking a path you've never taken before. Or perhaps taking a path you've taken before but stopping off somewhere and having a chat with someone you've never met before. All of these are 'new', all of these are 'happy'. It's still something that needs to be evaluated on a case-by-case basis though. For example, if I am a person who has read 1000 mediocre sci-fi novels, then I am unlikely to gain a lot of new experience by reading yet another mediocre sci-fi novel. Technically speaking the words of the new novel will be new, but the patterns behind them are not. Similarly, there are only so many new bland, similar, suburban streets you can cycle through before your brain says 'enough'. There tends to be a pattern behind experiences that, once comprehended, will limit the amount of new-ness you will gain from each subsequent experience in that category.
+
+So why don't 'things' make you happy? One theory is that because the brain focuses on the joy of obtaining the thing and then once you have it, it's never as good as the sensation of wanting it. This can be easily refuted by thinking of things not as a goal in and of themselves, but as tools to achieve more or better new experiences. A new microwave oven might not make me happy intrinsically, but it may take less time for me to prepare food, allowing me to spend more time on experiencing a new book or a new movie. A better bike might be shiny and new at first and boring and meh after a few months, unless you use it to cycle further and see new things. Things are tools meant to help you experience more.
+
+Given this, I believe that the subjective emotional value that people place on things is too high. When measuring things in terms of experiences, a $1000 bicycle will not deliver you twice as much new experiences as a $500 bicycle. But it might take you to that one place you've never been able to get to in the past simply because you could not go fast enough on your old bike, or even because you needed that feeling of 'I'm driving a really nice bicycle' to motivate you into getting out more. Either way, measuring things by their thing-ness makes way less sense than measuring them by experiences gained. A TV that's twice as big as your old one won't make you appreciate a new movie twice as much. But it will facilitate you in appreciating it. And when judged by that metric it can absolutely be a thing that makes you happy.
+
+Acquiring things is not true happiness. Using things to gain new experiences, is.

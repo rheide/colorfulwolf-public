@@ -1,0 +1,21 @@
+---
+published: true
+title: "The end of the Long Haul Trucker"
+id: "6456"
+slug: "the-end-of-the-long-haul-trucker"
+author: rv
+date: 2016-01-27 21:09
+categories: Cycling
+tags: giant,surly
+---
+Last year in October I ventured out to Japan for a 2-week cycling trip with my good old Surly. It was a tough trip, not because of the trip itself, but because I was just not very fit, and only started improving near the end of the it all. Still, it left me wanting more. Sadly, that won't be happening on my Surly.
+
+It started on the trip before that, actually. After a long flight I took the bike out of the bag and noticed I couldn't fit the rear wheel into the frame. But with a little applied force it went in anyway and I had a great trip out of it. When I arrived at my first destination of the October trip the issue had gotten worse, and I can only blame Turkish Airlines for not taking good care of the bike. It had plenty of 'fragile' stickers and even signs saying 'this side up', and instructions to not put the bike on its side but to transport it standing up. No such luck. It was extremely bent on arrival. I had to bend it back with all my strength to even have a cycling trip. Yet somehow, on the return trip, they managed to make it even worse.
+
+In all honesty, I didn't expect any airline crew to take good care of a bicycle transported in a soft-case. But also, I never expected a frame made of high-quality steel to bend <em>that</em> much just from transport. I'm not blaming Surly here. Everything I've read and heard from people indicates that their frames is one of the better, seriously tough ones. Then again, speaking from personal experience, I've taken the Surly out for maybe 6-8 flights and it is now irreparably bent according to an expert touring bike shop guy, whereas my first aluminium bike has been on at least twice that many flights and never suffered any frame damage at all.
+
+I seem to be going against the prevailing opinion here. Everyone online and everything I've read seems to agree that steel bikes are the way to go, because of the way the frame flexes under stress and how it's more comfortable to ride because of that. Aluminium frames seem to be ranked under the lowest of steel frames in the mind of many tourers, yet I can't help but wish for my old aluminium bike back. I distinctly remember when I first got the Surly and went on my first long ride. The first thing I noticed was how incredibly tough the ride was compared to my old Giant Great Journey. Part of that was me being out of shape, not being used to the bike yet, etc. etc., but I've never been able to shake that impression. So in the end, <em>at</em> the end of the Surly's brief but eventful life, all I can say is that I have not been very impressed by the Long Haul Trucker. It always seemed to be a bike that was meant for road racers who were willing to compromise in the direction of touring, not for touring people looking for maximum utility.
+
+So, now I'm left with the option of getting a new frame in the UK and getting my old parts fitted on it, which will apparently set me back at least 800 pounds, getting a second-hand beater bike online and doing it myself (not my style, I am lazy af), or buying a bike at the start of my next cycling trip, which will save at least one flight of transport, which, in the case of Turkish Airlines, also cost me extra (a bit less than 100 pounds per flight if I recall correctly). At the moment I'm very much thinking of getting a new <a href="http://www.giant.co.jp/giant15/bike_datail.php?p_id=00000079#overview" target="_blank">Great Journey</a>, since at the current exchange rate the entire bike will cost less than the price of buying a new frame in the UK and getting the parts transferred, <em>and</em> I don't have to pay extra for the first flight. As a special bonus, my compass bell will finally work again. I honestly never realized that that wouldn't work on a steel frame until it was too late..
+
+Anyway, the bike shop's judgment was pretty conclusive. I don't have to worry about trying to get the frame fixed because it's just not worth it. It means I can move on and get a new bike now. It amazes me how I'm actually kind of happy about this, whereas when my first touring bike got stolen I was utterly gutted. Let's hope that the third time's the charm.

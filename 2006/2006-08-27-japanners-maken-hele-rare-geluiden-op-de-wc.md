@@ -1,0 +1,10 @@
+---
+published: true
+title: "Japanners maken hele rare geluiden op de WC"
+id: "136"
+slug: "japanners-maken-hele-rare-geluiden-op-de-wc"
+author: rv
+date: 2006-08-27 11:07
+categories: Uncategorized
+---
+Bijna elke keer als ik op het werk naar de WC ga dan is er wel een Japanner die een verschrikkelijk ranzig rochelgeluid maakt. En met ranzig bedoel ik ook enorm ranzig: alsof ze hun ingewanden aan het uitkotsen zijn terwijl ze zo hard mogelijk proberen te brullen. En je schrikt je elke keer de pleuris als je rustig voor je uit staat te kijken voor de pisbak en er opeens een leeuw-achtige oerschreeuw van de Japanner achter je uit een WC-hokje komt. Tering.<br /><br />Maar goed: een vrij normaal (maar wel erg vermakelijk) weekend gehad: vrijdag Outback Steakhouse en Pirates of the Caribbean 2, zaterdag Tokyo Tower en lekker eten in Shinjuku. Omdat ik te lui ben om te typen zijn hier wat nachtfoto's van Tokyo:<br /><br /><a href="https://photos1.blogger.com/blogger/5743/1473/1600/IMG_6515.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger/5743/1473/200/IMG_6515.jpg" alt="" border="0" /></a><a href="https://photos1.blogger.com/blogger/5743/1473/1600/IMG_6516.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger/5743/1473/200/IMG_6516.jpg" alt="" border="0" /></a><a href="https://photos1.blogger.com/blogger/5743/1473/1600/IMG_6517.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger/5743/1473/200/IMG_6517.jpg" alt="" border="0" /></a><a href="https://photos1.blogger.com/blogger/5743/1473/1600/IMG_6555.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="https://photos1.blogger.com/blogger/5743/1473/200/IMG_6555.jpg" alt="" border="0" /></a>

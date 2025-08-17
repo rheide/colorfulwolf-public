@@ -1,0 +1,21 @@
+---
+published: true
+title: "Why I've lost faith in Bitcoin"
+id: "5957"
+slug: "why-ive-lost-faith-in-bitcoin"
+author: rv
+date: 2014-03-24 14:55
+categories: Tech
+tags: bitcoin
+---
+MtGox has made a complete ass of themselves, yet the Bitcoin community lives on. It's perhaps the final proof that was needed to convince everyone that Bitcoin could survive even if the biggest exchange would go down (again). But while the MtGox fiasco has been going on, there's been several reports of other exchange sites getting hacked and losing their Bitcoins. Despite all this bad news, the community is alive, more and more sites are starting to acknowledge Bitcoin and governments are starting to make laws for it, legitimizing Bitcoin's existence. And if that's not enough, Bitcoin's brothers and sisters, the Namecoin, the Dogecoin and the Litecoin, are heading in the same direction too.
+
+All of the points I've mentioned in the previous paragraph are exactly why I lost faith in Bitcoin. Exchange sites that are run by amateurs that don't set their security up properly are but a minor concern compared to the big two: government regulation and alternative cryptocurrencies.
+
+Governments have proper themselves more and more capable at monitoring and controlling what's going on on the internet, and it's only going to get more extreme in the coming decades. It's not unthinkable at all that governments will be able to block any bitcoin transfer they like. Worse than that, governments already control and regulate the endpoints, making the whole anonimity angle of the thing a bit of a stretch. Again, this is only going to get worse in the future. Just like the internet as a whole, there was a time where everything was completely unregulated and free, only to have governments catch up with technology eventually to lock things down again. It's inevitable, and inevitably not the end of either the internet or cryptocurrency. People will just move to the next free-er alternative.
+
+.. which is the second major problem with Bitcoin: the alternatives. It's always been viable to set up an alternate cryptocurrency; the entire project is open-source so you can fork it, make some changes and release it as you please. Many people have spawned their own cryptocurrency, but not many of those have enjoyed the popularity that Bitcoin has. The network effect is powerful to the extreme, and for a long time it was the main reason that I held faith in Bitcoin; alternatives just didn't take off. But I feel that's beginning to change. As governments regulate the internet more, Namecoin becomes the obvious next cryptocurrency (well, blockchain-based network to be more generic) to take off. The biggest surprise for me has been Dogecoin. I really, really wanted Dogecoin to fail. I saw it as a threat to Bitcoin because of its silliness and because the creators were not security experts like the creators of Bitcoin are. It was a silly coin robbing disaster waiting to happen, and the more people heard about Dogecoin, the less they would take Bitcoin or any other cryptocurrency seriously.
+
+At least, that's what I thought at the time. It's been many months now and surprisingly (to me at least) Dogecoin is still around. They've proven something very important: Bitcoin is not the only cryptocurrency to get enough of a network effect to take off. And that little fact is going to make Bitcoin worthless, as it has been proven as just another fad. I wonder if the next step will be the state-sponsored cryptocurrency. It's easy for governments to control all the endpoints/exchanges for the cryptocurrency they're in charge of, and governments will also be able to generate enough of a network effect to get their currency to take hold. Perhaps eventually that's what every nation's currency will end up looking like.
+
+Bitcoin and 'Satoshi Nakamoto' absolutely started the revolution. But now that it's started, it will continue even if Bitcoin is no longer there. That might still be a couple of years away, though. We'll see.

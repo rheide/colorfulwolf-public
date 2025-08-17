@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<title>{% if page_title %}{{ page_title }} | {% endif %}{{ site_title }}</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" type="text/css" media="all" href="{{ STATIC_URL }}style.css{% if debug %}?debug=1{% endif %}" />
+	<link rel="shortcut icon" href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAnklEQVRIx91UQQ7DMAiLJ8E/ERIv44nc2aGaqnbd0mSlh3FBKEpsHAPazaGqqpoZERFxA6C7u3vmUq2ZiIjoVRcEMzPzO/A2t4Ya+LOdAY8yCU7G/xAAAGDcVBd5YNbNEx44dvc48KQCV83tSqCrQPnCGOu8n0VERPaEf/2yAQL7m2ZmZp/PcQw0H8s4tpaZmYnu+/gOjKJVPaxAHZEnrfFg7Hy1SG4AAAAASUVORK5CYII="/>
+	<script>
+	var baseUrl = '{{ BASE_URL }}';
+	{% if article %}
+        window.ARTICLE_SLUG = '{{ article.slug }}';
+        window.ARTICLE_DATE = '{{ article.date.date().isoformat() }}';
+    {% endif %}
+    {% if not article %}
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for colorfulwolf.com" href="/blog/feed/" />
+    {% endif %}
+	</script>
+	<script type="text/javascript" src="{{ STATIC_URL }}cfw.js{% if debug %}?debug=1{% endif %}"></script>
+
+	{% if page_number and page_number > 1 %}
+		{% if page_number == 2 %}
+	<link rel='prev' title='Page {{ page_number - 1 }}' href='../../' />
+		{% else %}
+	<link rel='prev' title='Page {{ page_number - 1 }}' href='../{{ page_number - 1 }}/' />
+		{% endif %}
+	{% endif %}
+
+	{% if page_number and page_number < page_count %}
+		{% if page_number == 1 %}
+	<link rel='next' title='Page {{ page_number + 1 }}' href="page/{{ page_number + 1 }}/" />
+		{% else %}
+	<link rel='next' title='Page {{ page_number + 1 }}' href="../{{ page_number + 1 }}/" />
+		{% endif %}
+	{% endif %}
+
+	{% if article and article.url %}
+	<link rel="canonical" href="{{ article.url }}" />
+	{% endif %}
+
+	{% if article %}
+	<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+	{% endif %}
+</head>
+
+<body class="single">
+	<div id="container">
+		<div id="header">
+			<div class="logo"></div>
+			<h1 id="site-title">
+				<a href="{{ BASE_URL }}" title="{{ site_title }}" rel="home">{{ site_title }}</a>
+			</h1>
+			<ul id="navigation" role="navigation">
+				<li class="first"><a href="{{ BASE_URL }}/about/">About</a></li>
+				<li class=""><a href="{{ BASE_URL }}/category/photography/">Photography</a></li>
+				<li class=""><a href="{{ BASE_URL }}/category/travel/">Travel</a></li>
+				<li class=""><a href="{{ BASE_URL }}/category/tech/">Tech</a></li>
+				<li class="last"><a href="{{ BASE_URL }}/category/thoughts/">Thoughts</a></li>
+			</ul>
+		</div>
+		<div class="secondary-bar">
+			<ul class="header-links nav">
+            <li>
+                <a class="feed-icon" href="{{ BASE_URL }}/feed/"></a>
+            </li>
+				<li>
+					<label for="category-dropdown">Categories</label>
+					<select id="category-dropdown" name="category-dropdown" onchange="navigate(event);">
+						<option value="">Select Category</option>
+					{% for category in categories %}
+						<option value="{{ category.slug }}">{{ category.name }}</option>
+					{% endfor %}
+					</select>
+				</li>
+				<li>
+					<label for="archive-dropdown">Archives</label>
+					<select id="archive-dropdown" name="archive-dropdown" onchange="navigate(event);">
+						<option value="">Select Month</option>
+					{% for month in archive_months %}
+						<option value="{{ month.slug }}">{{ month.name }}</option>
+					{% endfor %}
+					</select>
+				</li>
+				<li id="search-2" class="widget-container widget_search">
+					<form id="searchForm" class="searchForm" name="searchForm" action="https://google.com/search" method="get">
+						<input id="gsq" name="q" type="text" value="" maxlength="200" />
+						<input name="submit" type="submit" value="Search" id="doSearch"/>
+					</form>
+				</li>
+			</ul>
+			<ul class="header-links links">
+				<li><a href="{{ BASE_URL }}/sitemap/">Site map</a></li>
+				<li><a href="https://github.com/rheide/" target="_blank" rel="noopener">GitHub</a></li>
+			</ul>
+		</div>
+		<div class="content-main">
+			{% block content %}
+			{% endblock %}
+		</div>
+	</div>
+	<div id="footer" role="contentinfo">
+		<div class="copyright">WolfPrime 1.5 &#xa9; rv - 2011-2022</div>
+		<br/>
+	</div>
+</body>
+</html>

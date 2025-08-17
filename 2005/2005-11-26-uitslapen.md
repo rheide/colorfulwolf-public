@@ -1,0 +1,10 @@
+---
+published: true
+title: "Uitslapen"
+id: "33"
+slug: "uitslapen"
+author: rv
+date: 2005-11-26 07:56
+categories: Uncategorized
+---
+Vandaag wilde ik mijn kamer opruimen, dus ik werd wakker om 12 uur 's middags waarna ik een eindje ben gaan fietsen. Daarna bedacht ik me dat het wel leuk was als ik mijn foto's op de weblog zet met wat placemarks in de vorm van een guided tour. Tussendoor heb ik nog wat met Jose gepraat, die op zijn balkon bezig was met het spuiten van zijn Gundam robot onderdelen die hij in een speelgoedzaak gekocht had. Daarna heb ik nog wat Anime gekeken. Ik lig goed op schema dus :D<br /><br />Ik heb vanmiddag een eindje gefietst in de zuidoostelijke richting, waar ik eigenlijk nog nooit geweest ben. Het centrum ligt in het noordwesten en de AXT Tower ligt ten westen van het youth heim, dus ik ben niet erg bekend in de andere richtingen. Het is wel makkelijk dat je de weg die hier voor de deur langsloopt zo kan volgens richting het zuiden naar de zee. Dat is ongeveer 15 kilometer weg. En mocht je dan alsnog de weg kwijtraken dan is er altijd de rivier die makkelijk terug te vinden is.<br /><br />Ik heb wat <a href="http:///foto/Fiets26112005">foto's online gezet</a> en de bijbehorende placemarks <a href="http:///placemarks/fiets26112005.kmz">hier</a>.<br />..<br />..<br />..<br />.. ik had eigenlijk geen zin in opruimen, dus ik heb gelijk ook maar <a href="http:///foto/Fiets12112005/">de foto's van een paar weken terug</a> gedaan. En de <a href="http:///placemarks/fiets12112005.kmz">bijbehorende placemarks.</a> Lui beest! En niemand die er wat van zegt ^_^<br /><br />Nog een random Japans feitje: als Japanners ziek zijn dan doen ze een SARS-maskertje voor (een mondkapje zoals artsen etc. dat ook hebben) zodat ze andere mensen niet besmetten. Die kan je hier in de winkel kopen in verschillende geurtjes: aardbei, banaan, denneboom enzovoorts.. Wazig.

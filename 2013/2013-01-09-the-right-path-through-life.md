@@ -1,0 +1,22 @@
+---
+published: true
+title: "The right path through life"
+id: "5330"
+slug: "the-right-path-through-life"
+author: rv
+date: 2013-01-09 23:39
+categories: Thoughts
+---
+I'm not much for future planning. Or at least, I never was. I've always enjoyed the relative safety of my Japanese job, knowing that the Japanese company I was working at would never fire me, and that the worst that they'd do to me was not renew my contract or offer me less money. A job for life it was not, but it would put it with me longer than I would put up with it. I left when I was still very much enjoying every day at my job, and I did not feel any fear or worry about leaving it.
+
+Why? Well, part of it was sheer ignorance and naivety, as I realized only recently. I had no idea what the job market was like in Europe, and I had no idea the crisis was as bad as it was. But my gross underestimation of the situation is what gave me confidence. The confidence I needed to present myself casually and confidently, and as such I had no trouble finding a new job after coming back to Europe. I sincerely, honestly believe that, had I not been to Japan, I would have been caught up in the 'crisis mindset' of everyone in Europe, and I would have been a lot less confident (and a lot less interesting as a person, but that's another story).
+
+But that's just one way to gain confidence. The key is not really about one specific method of gaining confidence, or really any method at all. Any method will do, as long as the end result is that you feel better about yourself. That will set you apart from all the other people. I know this sounds all touchy-feely and not very scientific, but it's goddamn true. If you believe in yourself then others will believe in you. It's not something you can say or easily convey in some other way: it's something you radiate that others subconsciously pick up on. You'll know it when you see it. The best part about confidence is: everyone can have it. It doesn't require a level of intelligence, experience or whatever. The only thing it requires is self-awareness, and the more you have of that, the more you confront yourself, the better.
+
+In my case it all started in my first year of university. For the first six months I grew a little as a person. I learned that I could make new friends, and that they were of like mind as me. Then I learned that I could coast through my shitty university education without expending too much effort or even showing up at classes too much cause they were way too easy. This did change slightly in later years. But I did not change a lot as a person. I was still the same mindless drone that I was in high school: I did not have a personality, I did not have an opinion on anything, nor did I care about many things at all. But then something changed, and I know this will sounds cheesy and terrible, but it's the truth: <em>watching anime changed my life</em>.
+
+During my first year in university I was for the first time exposed to a radically different culture with radically different ways of expressing your emotions. It showed me silly ideas and crazy motivational characters screaming in my head YOU CAN DO IT IF YOU TRY. And at some point that just got to me. I realized that I did not have to be an empty sack of programming knowledge. I was allowed to have my own opinion. I was allowed to do things my way, and I was allowed to modify what my idea of 'the way' was along the way. For the first time in my life I learned how to really want something. I learned how to get the thing I really want, and I learned how to deal with the disappointment of not getting it. It didn't take long for my until-then-empty personality to start forming its own philosophy and way of life around these ideas.
+
+There's so many possible destinations in life. If you're always focused on one destination you'll end up seeing every little event as either a stepping stone or a detriment to that goal. I think focusing on one destination is flat-out wrong. Why focus one possible future when there are in fact uncountable futures wherein you will also be happy? Take life in stride. Focus on your goal and move towards it, but don't be afraid to take a side street every once in a while just to see where it leads. You might see this as being a detriment to reaching your current goal, but it may in fact be a stepping stone towards a larger, even better one.
+
+<strong>Don't worry.</strong>

@@ -1,0 +1,33 @@
+---
+published: true
+title: "A proper crazy weekend"
+id: "416"
+slug: "a-proper-crazy-weekend"
+author: rv
+date: 2008-01-13 16:41
+categories: Photography,Travel
+tags: camera,japan,train,trip,urbex
+---
+This weekend was exactly what I needed to feel right back home here in Japan. A common-room party the likes of which we have not seen for quite some time. Even though the nice room was taken by Japanese people, the relocation of our fruit party to the first floor did not turn out bad at all, because we could use the common kitchen to make our fruit dishes presentable.  I made a crazy amount of pictures, but since the weekend was quite busy I will have to post some later, so have some patience.
+
+The party lasted until quite late, so I spent most of the Saturday sleeping, after which I watched an interesting movie about China during WW2 with a couple of friends. The movie is called <a href="http://www.imdb.com/title/tt0808357/" target="_blank">Lust, Passion</a>, and is a recommended watch for anyone remotely interested in China. Apparently some of the sex scenes in the movie were too shocking for mainland China, so they had to censor parts of it..
+
+Sunday we departed on our trip in search of an abandoned theme park. After doing some extensive research online we found a brilliant website about <a href="https://en.wikipedia.org/wiki/Urban_exploration" target="_blank">urban exploration</a>, which contained links to abandoned places in countries all over the world, including Japan. <a href="http://www.uer.ca/locations/show.asp?locid=24666" target="_blank">This site</a> is a must-see for every photographer reading this blog, and I guarantee that it's very interesting for anyone who is curious about the topic.  I'm actually wondering about whether or not to post this here, since technically I guess it's illegal to enter someone else's property. Therefore I present you the following disclaimer: everything in this post below this line is completely made up and fictional, and it never happened in real life :D
+
+The theme park turned out to be more abandoned than I thought, and indeed I was too late to find anything of interest. All the rides and attractions had been demolished and removed already, and all that remained were a restaurant, the remains of a swimming pool and some toilet buildings. It was fun to explore the area and figure out what each part of the park was used for, and even though most of the park was a bit of a disappointment, the restaurant turned out to be a golden find. There was so much interesting stuff there, I found it hard to leave when the sun started to set. In the end I tried to leave the place in exactly the same state as it was in when I found it. It was quite an interesting experience, and I am definitely looking for new opportunities to find cool abandoned places a bit closer to home, maybe on a random bike trip some weekends later.
+
+That evening I met up with some friends and we ended up in a very nice onsen (hot spring) hotel in <a href="http://wikitravel.org/en/Kinugawa" target="_blank">Kinugawa</a>, near Nikko. The next day we took a nice relaxing train ride all the way to Ibaraki-ken, to visit some countryside town to look at pottery. Apparently the town was famous for it's hand-made pottery, and it even offered people to make it themselves. Even though I didn't make anything myself I still had fun taking pictures of my friends making the pots. The scenery during the train ride was wonderful too, so all in all I really enjoyed myself this weekend ^_^.
+
+----
+
+I took a quick look at all the pictures I made this weekend, and I'm really amazed at the results of compared to my Europe trip (only ) a week ago. The photo's made in Japan seem to come out a lot better than the ones I made in Europe. I'm guessing this happens for two reasons. One: the weather in Japan is just better than in Europe, so the lighting is better, and I get more chances to make a good picture. Two: I'm just more interested in Japan than Europe, so I'm more motivated to look for a better picture.
+
+The flash is amazing! I carried it with me for the trip, and in the abandoned restaurant it proved very useful indeed, lighting places that would otherwise be time-consuming or impossible to photograph, requiring either a tripod or a lot of patience and luck. The flash just makes clean, good pictures. I'm usually bouncing it against the ceiling because the effect of a direct flash is usually way too strong to produce a nice picture. The only complaint I have about it is that it makes the pictures look a bit too nice. The colors look very warm and the place looks way less creepy in the picture than it looked in real life. That will have to be toned down a bit by Photoshop before I publish some of them, I guess.
+
+My opinion about my lenses keeps on changing too. I'm rediscovering the 17-85mm lens, which, even though it's degrading more and more (it's getting floppier and the focus still has some problems) produces very good results during day and night. At night the stabilization works way better than I previously thought, and it has the perfect range to use with the flash.
+
+The 28mm 1.8 disappoints me a bit. I was expecting a lot from this lens during night scenes, like streets or statues, just doing random photographing in low-light conditions. But it seems that the pictures at f/1.8 are equally as blurry as my 17-85mm at 28mm - f/4.5 with IS enabled. And in that case there's really no point to use the 28mm in dark conditions, so I only use it to make close-up shots of things where the background is nicely blurred, and that doesn't happen too often during my trips.
+
+I didn't use the 10-22mm! This must have been the first time ever that I didn't use it during a trip. I always used it for every trip I took since I bought it. This trip there was only one time I wanted to use the ultra-ultra-wide angle lens, and that was for a huge statue of <a href="https://en.wikipedia.org/wiki/Guan_Yin" target="_blank">Kannon</a>, during sunset. In the end I decided to use the 17-85mm since it had IS and I didn't really need a much wider angle.. :S
+
+Finally, the 70-300mm is by far the best lens I've got. So many pictures are superbly sharp, and the colors are excellent. For some reason it's easy to distinguish the superior quality of the photo's made by the 70-300mm compared to all my other lenses. The sharpness is just so much better. It makes me want to consider getting a better mid-range zoom lens as well, since it's quite noticeable which photo's came from the 17-85mm and which came from the 70-300mm. And that's not a good thing for the 17-85mm...

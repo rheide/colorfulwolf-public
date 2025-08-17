@@ -1,0 +1,10 @@
+---
+published: true
+title: "Veel dingen willen doen..."
+id: "124"
+slug: "veel-dingen-willen-doen"
+author: rv
+date: 2006-06-17 08:53
+categories: Uncategorized
+---
+.. maar nergens zin in hebben. Gisteravond wederom een feestje voor Jose, die dinsdag jarig was. Dinsdag zijn we met wat Europeanen naar Roppongi geweest om in een bar Jose's verjaardag te vieren en wat voetbal te kijken. Het leuke daarvan is dat de laatste trein om 1 uur 's nachts gaat, en we de volgende dag gewoon weer naar het werk moesten. Dan ben je lekker wakker als je om 6 uur 's morgens pas weer terug bent uit Tokyo :/ Naja, het was wel leuk iig :)<br /><br />Dus vrijdag een feestje in het youth heim. Een beetje binnenshuis voetballen, want de feestkamer wordt ook gebruikt als een soort van opslagkamer voor de honkbalclub en voetbalclub. Wonder boven wonder is alles heel gebleven :) En daarna met zijn allen het voetballen kijken. Nederland tegen Ivoorkust. Samen met 2 Duitsers, 1 Spanjaard, 1 Fransman, 1 Portugees en nog wat Japanners enz. enz. Van de 2 Duitsers was Domi voor Nederland, maar Christian zag toch liever Ivoorkust winnen :X Naja, we komen ze nog wel tegen in de kwartfinale's :D<br /><br />Vandaag had ik helemaal geen zin om de hele dag in mijn kamer te blijven zitten, maar ik had eigenlijk ook geen zin om ergens heen te gaan. Ik wilde eerst maar naar Tokyo gaan. Daarna heb ik me bedacht en was ik van plan om naar een tempel in de buurt van Atsugi te gaan. Uiteindelijk had ik daar ook geen zin in en ben ik maar een eindje gaan fietsen. Ik heb maar weer eens een fotoverslagje gemaakt, dan kunnen jullie boerennederlanders ook weer eens kijken hoe het er hier in Japan uitziet. <a href="http:///foto/Fiets17062006/">Hier</a> zijn de foto's en <a href="http:///foto/Fiets17062006/2006-06-17%20Fietsen.kmz">hier</a> zijn de Google Earth Placemarks :)

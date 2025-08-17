@@ -1,0 +1,26 @@
+---
+published: true
+title: "The rational sacrifice"
+id: "6439"
+slug: "the-rational-sacrifice"
+author: rv
+date: 2015-11-12 17:17
+categories: Tech,Thoughts
+---
+Check out <a href="http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html#2" target="_blank">this post on Elon Musk on Wait But Why</a>. The post goes into great detail about how Musk reasons from <a href="https://en.wikipedia.org/wiki/First_principle" target="_blank">first principle</a>. By starting at the beginning and thinking about what's best for humanity as a whole, Musk ends up being motivated to make reality renewable energy and travel to Mars. He didn't just start there from scratch of course, and the article shows how he worked his way up from internet startups towards more lofty goals. It's a good read, highly recommended.
+
+Somehow, when I think about my own life in this way, and trying to be as rational as possible, I do not find myself reaching the same conclusions as Musk has. I think what Musk has done is, is you consider the human factor, not the most rational solution to the problem 'what should I do with my life'. And that makes what he does all the more admirable. I'll try to explain my reasoning with some personal life examples.
+
+In my day job as software developer it pays off to be completely and coldly rational about your product. For example, even if you intend to be on a project for 6 months, it still pays off to focus on the extreme-long-term of the project if it was made to last long, even if you don't intend to be on the project for that long. Rationally, what is best for the project is also best for you as a developer, because you are accountable for the state of the project. If the project goes well and continues to go well in the future, that means people think highly of you and will consider you again for future projects. Personal motivation and that of the whole are aligned.
+
+Now compare that to Musk. He made his personal motivation to be the motivation of the whole. There is just <em>no way</em> that this can be an intrinsic, gut-feeling type of motivation, and he says so himself. He reasoned from first principles and arrived rationally at a conclusion about what he should do with his life. I know how this type of reasoning works; I use it all the time at work. In my case it means that I choose to increase test coverage, review code that someone else has already reviewed but I really want to be sure of, or spend a day debugging some hard-to-catch bug on production -- all tedious tasks that don't improve my knowledge as a developer. As a developer I can improve myself faster by learning new frameworks, trying new languages and venturing out into different areas of software. But I am employed for one particular project, and that project benefits the most from me doing what needs to be done, because no one else will do it.
+
+I have no Musk-comparison for the opposite case: the case where you do something out of your gut feeling because you know it feels right, uncaring about the consequences, aiming towards nothing rational in particular but just wanting <a href="https://en.wikipedia.org/wiki/Inner_peace" target="_blank">inner peace</a>. But I do have an example of my own: that of cycling. Being on the road all day, seeing many things as I cycle along, with only room for one goal in my mind, sometimes pondering the <a href="https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance" target="_blank">book</a> I've read the previous night. Cycling trips to me are a form of meditation, a way of clearing out my mind of unwanted thoughts and focusing on the here and now. It is a mental reset that, as far as I'm aware, I can only experience in that particular way, and it is a very powerful experience, especially when put into contrast against my daily life.
+
+As someone who considers himself to be highly rational, I find it <em>unreal</em> that I am at my [best, happiest, most peaceful] when I am doing something irrational.
+
+But then, rationally speaking, if I know that my mind and body can provide me with this peace of mind if I seek the irrational path, isn't that the path I should rationally be pursuing? And isn't everything else in my life second to that goal? It's a deeply personal (even spiritual?) goal, one that is of no use to the people around me, society or humanity as a whole. I am no Elon Musk, and I can not rationally justify me sacrificing myself to save humanity. Or perhaps I just rate my chances of success pretty low. Either way, I know I will never be spiritually motivated that way, and I think neither can he be, which is why I think of what he's doing as a sacrifice. I respect him for that, but I do not want it for myself.
+
+----
+
+Reading back what I just wrote I realized there's a contradiction between how I describe my goals versus the whole in the third and fourth paragraph. Although I wrote that I don't want to sacrifice myself in the way Musk does, it appears that I'm doing exactly that in the smaller-scale context of my project. That's probably not good. I think I can attain higher goals before resorting to a self-sacrificing position.

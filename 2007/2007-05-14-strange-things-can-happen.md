@@ -1,0 +1,10 @@
+---
+published: true
+title: "Strange things can happen"
+id: "241"
+slug: "strange-things-can-happen"
+author: rv
+date: 2007-05-14 11:59
+categories: Uncategorized
+---
+Like meeting some old friends I haven't seen in 6 months, for example :) Indeed, Jason and Takako are back and dropped by at work, and at the same day Emanuel decided to stop by too! Feels like last year again. Come on guys, let's have an AK reunion here sometime! Preferably while I'm still in Japan ;)<br /><br />I am learning things. I have decided to be happy. To be relaxed, and carefree. No expectations. Living my life without controlling it too much. In all honesty, it feels like a step down from my usual focused lifestyle and pace, and I am still a bit ashamed of myself for being able to relax like this. But it's not bad. I am allowing myself to get my freedom of mind back again. My 'everything is in mymind, and I control my own mind' attitude is taking over, and I feel that my control of my mind is quite easy once I've decided which direction I want to go to. This sounds quite vague and crappy, but I'm happy with it :)<br /><br /><a href="http:///placemarks/Moron_no_Tabi_2007.kmz">Placemarks for the trip are finished</a>! Kamil put all of his pictures and mine up on Picasa: <a href="http://picasaweb.google.com/kamilshah">http://picasaweb.google.com/kamilshah</a>. Thanks Kamil! It's a bit annoying to get to the filename of each picture on Picasa, but you can see the route we traveled quite nicely. You can get the placemarks for my pictures <a href="http:///placemarks/Moron_no_Tabi_2007.kmz">here</a>. You need Google Earth of course.<br /><br /><a href="http://bp3.blogger.com/_RIq3e2nKDHo/RkhXNbXYoOI/AAAAAAAAAVw/C9imxv3_0yo/s1600-h/Untitled-2.jpg"><img style="display:block;text-align:center;cursor:pointer;margin:0 auto 10px;" src="http://bp3.blogger.com/_RIq3e2nKDHo/RkhXNbXYoOI/AAAAAAAAAVw/C9imxv3_0yo/s400/Untitled-2.jpg" alt="" border="0" /></a>Look at this picture. This is Yoron. This is peace.

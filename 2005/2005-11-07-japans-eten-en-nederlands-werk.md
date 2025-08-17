@@ -1,0 +1,10 @@
+---
+published: true
+title: "Japans eten en Nederlands werk"
+id: "3740"
+slug: "japans-eten-en-nederlands-werk"
+author: rv
+date: 2005-11-07 04:57
+categories: Uncategorized
+---
+Natuurlijk heb ik ook weer wat nieuw Japans eten uitgeprobeerd. Ik zag bij de 7-11 iets dat precies exact hetzelfde leek als een broodje bapao, dus die heb ik (warm) gekocht en meegenomen. Het brood is ook exact hetzelfde, maar wat er in zit is echt onbeschrijflijk ranzig. Het lijkt en smaakt een beetje op een kruising tussen hete chocopasta en teer, maar dan viezer. Gelukkig had ik ook nog wat instant-maaltijden gekocht, waarvan ik vanavond de instant-curry heb uitgeprobeerd. Dat is een combinatie van rijst, (varkens?)vlees, champignons en een lekker pittig sausje erbij. Curry wordt zo langzamerhand mijn favoriete voedsel hier.<br /><br />Ik zei trouwens in het begin dat het werk moeilijk was, maar dat valt eigenlijk tot nu toe wel mee. Er zijn een heleboel programma's die je moet leren kennen, maar qua moeilijkheidsgraad is het niet zo hoog. Er worden wel hele ingewikkelde dingen gedaan, maar dat gebeurt allemaal in het engine team, waar alleen Japannertjes in zitten. Ik zit in het modeling team en ben eigenlijk tot nu toe alleen maar verantwoordelijk voor de nederlandse taal. Tot nu toe bestaat mijn werk vooral uit het bij elkaar zoeken van vertalingen voor engelse woorden en de correcte uitspraak erbij zoeken. Dat wordt dan door het systeem getest, en als een woord niet goed herkend wordt dan wordt de uitspraak of de instellingen van het programma aangepast net zolang totdat het woord wel herkend wordt of totdat de deadline voorbij is. Ik moet echt een paar foto's maken vanuit de AXT Tower want het uitzicht is echt fantastisch als het helder is. Het is jammer dat het nu winter wordt, dus steeds vroeger donker en slechter weer :'( Het is hier nu om 17:00 pikkedonker..

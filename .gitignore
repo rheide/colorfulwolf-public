@@ -1,0 +1,8 @@
+*.pyc
+.settings
+__pycache__
+cfw_config.py
+cfw_config_linux.py
+prod_post_comment.py
+.project
+.pydevproject

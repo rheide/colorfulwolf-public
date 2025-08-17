@@ -1,0 +1,20 @@
+---
+published: true
+title: "Rijk, gezond en slim"
+id: "688"
+slug: "rijk-gezond-en-slim"
+author: rv
+date: 2008-09-30 11:36
+categories: Dutch
+---
+Het wordt opeens kouder. Tijd om de winterkleren weer uit de kast te halen. Het is nu twee jaar en elf maanden geleden dat ik naar Japan kwam. Mijn wereld is compleet op de kop gezet sinds toen. Eén van de veranderingen is dat ik de Nederlandse keyboardlayout niet meer geïnstalleerd heb op mijn PC. Die heb ik voor deze blogpost maar weer eens aangezet. Ik heb veel geschreven in het Engels, en ik merk dat ik deze alinea een stuk makkelijker in woorden had kunnen brengen als ik die in het Engels had getypt. Nederlands went snel, however, en dat merkte ik afgelopen zaterdag toen Liou hier was. Na een dagje Nederlands praten ben ik er ook wel weer aan gewend. 
+
+Ik heb een interresante ontwikkeling doorgemaakt, op het persoonlijke vlak, maar ook in het bedrijf. Ik doe nog steeds spraakherkenning, maar ik ben mijn originele functie behoorlijk ontstegen. In het begin was ik alleen verantwoordelijk voor het Nederlandse gedeelte van de spraakherkenning, maar nu ben ik verantwoordelijk voor de Duitse en Italiaanse stagelopers, en heb ik een andere Duitser en nog een Amerikaanse stageloper die voor mij programmeren. Programmeren is mijn andere hoofdtaak, en ik heb mezelf altijd als programmeur geprofileerd in mijn werk. Als programmeur kan ik dingen maken waar iedereen baat bij heeft, en ik weet zeker dat het bedrijf door mij honderden, zo niet duizenden manuren bespaard heeft dankzij mijn programmas. 
+
+Dat zijn drie taken: het spraakherkenningsmodel voor Nederlands ontwikkelen, software ontwikkeling en de begeleiding en het managen van stagelopers. Ik zit overal in. Ik word belangrijker, en elke keer als er mensen weggaan dan word ik weer een stukje belangrijker. Ik ben ver gekomen. Maar het is raar werk. Elk jaar gaan alle stagelopers weer terug naar huis. Studie afmaken. Maar er zijn altijd de 'blijvertjes': de stagelopers die goed bevielen en nu hier werken. Er is een altijd een harde kern van vier of vijf buitenlanders geweest in mijn afdeling, en dat stond als een huis. Tot nu. De oude mensen gaan weg, en een nieuwe generatie van 'blijvertjes' vormt zich. Was ik vroeger nog tevreden om alleen de ouwe lul te zijn vergeleken met de stagelopers, nu word ik zelfs de ouwe lul in de groep van blijvertjes. 
+
+Dat is best wel kut! Aan de ene kant is het een promotie, en ik weet zeker dat ik me geen zorgen hoef te maken voor mijn volgende contractverlenging, maar aan de andere kant ben ik mijn oude vaste vriendengroep kwijt. En daar ben ik eerlijk gezegd behoorlijk depressief over geweest de afgelopen week. Het lijkt erop dat iedereen die ik ken zijn eigen weg op gaat, en dat gaat zelfs op voor mensen die ik ken buiten het bedrijf. Iedereen heeft zijn eigen plan, en dat kwam vorige week allemaal opeens op mij af. 
+
+Deze week gaat het allemaal wat beter. Zoveel verandert er nu ook weer niet voor mij. Ik probeer het te zien als een dikke trap onder de kont en iemand die keihard tegen mij screeuwt "GA EENS GAUW WAT NUTTIGS DOEN!". Ongetwijfeld mijn kleine zusje. Die is altijd de eerste met commentaar ;) 
+
+Ik kom terug naar Nederland met de kerst. Daarna ga ik terug naar Japan. Ik blijf hier in ieder geval tot dan. Ik ga nu het meeste maken van de tijd die ik hier nog heb met mijn vrienden, en ik wil Wendy hier ook niet zo lang alleen laten. Volgend jaar ga ik besluiten wat ik nou echt wil. Of ik nog een gestoord avontuur wil in een ander land of dat ik een stabiel leven ergens wil beginnen. Zoals gewoonlijk maak ik me niet druk en laat ik me leiden. Geweldige dingen vallen altijd op mijn pad. Als ik de visie heb om die kansen te zien dan valt alles gewoon op zijn plaats. Ik ben niet iemand die gaat stressen van dit soort dingen. Ik ben misschien niet zo rijk en op het moment ben ik zwaar verkouden, maar ik weet zeker dat ik een interessante toekomst tegemoet ga :)

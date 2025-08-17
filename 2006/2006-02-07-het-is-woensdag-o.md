@@ -1,0 +1,10 @@
+---
+published: true
+title: "Het is woensdag :O"
+id: "85"
+slug: "het-is-woensdag-o"
+author: rv
+date: 2006-02-07 23:44
+categories: Uncategorized
+---
+Ok, het is nu 8:30 's morgens, en ik ben net op het werk aangekomen. 8:30 is misschien een normale tijd in Nederland, maar hier in Japan werk ik (en de meeste mensen) van 9:30 tot 18:15 (met een uurtje pauze). Waarom ben ik zo vroeg vandaag? Vandaag is woensdag :O Waku waku! Als ik een uurtje vroeger begin en geen uurtje pauze neem dan kan ik om 16:15 naar huis, zodat ik mijn bed, lamp en magnetron kan ontvangen. Gas en stroom wordt ook vandaag geregeld, maar daar hoef ik gelukkig niet bij te zijn.<br /><br />Het is hier griezelig rustig. Japan is berucht om Zijn werkcultuur en mensen die van 's morgens vroeg tot 's avonds laat aan het werk zijn, zelfs in de weekenden, maar daar is om 8:30 's morgens weinig van terug te zien. Ik ben de enige hier, op de schoonmakers na. Vandaar dat ik in alle rust iets kan schrijven voor mijn blog :)<br /><br />Gisteravond ben ik begonnen met het verslepen van mijn spullen naar mijn nieuwe kamer. Wat een gedoe :x ik ben van 9 tot 11 bezig geweest met het inpakken in de ene kamer en het uitpakken in de andere kamer. De enige kasten die ik heb trouwens zijn de kleerkast en een paar keukenkastjes, dus ik heb helemaal niks om mijn zooi in te doen :( Maar ik heb wel bijna alles versleept, behalve het eten en drinken en laptop en computerzooi.<br /><br />Vandaag dus vroeg naar huis, wachten wachten wachten op de spullen die bezorgd worden, hopen dat ik eindelijk warm water heb en een airco die niet de stroom laat uitvallen na 10 minuten, en dan kan ik een dekbed gaan kopen zodat ik hopelijk kan slapen in mijn nieuwe kamer op mijn nieuwe bed :) Er zit een fijne deadline achter trouwens, want vrijdag gaat iemand controleren of ik mijn oude kamer wel netjes heb achtergelaten. Dus dan heb ik alleen vanavond en morgenavond om die kamer schoon te maken, buiten de overige verhuispret om :(<br /><br />Zo, aan het werk denk ik, of niet, misschien nog even lekker uit het raam kijken en van het uitzicht genieten :D

@@ -1,0 +1,10 @@
+---
+published: true
+title: "I miss you so much!"
+id: "153"
+slug: "i-miss-you-so-much"
+author: rv
+date: 2006-11-28 12:01
+categories: Uncategorized
+---
+I miss you so much :'( How can I remember the great times we had at the company... The fun we had at lunch time, especially on Tuesdays and Fridays. You made my week interesting. I lived only for you. I miss you so much, I don't think I can survive without you. Please come back to me. THAI BENTO PERSON, WHERE ARE YOU!!?!?!?!<br /><br />Hmmm... This might need some explaining for people not familiar with my daily routine :D Every day for lunch there are several things we can eat. The first option is cooking something yourself and taking it with you to the company. Since I'm a lazy pig that option has never been tried before. Second option is a restaurant, like Sukiya for curry or a ramen or sushi place nearby. Third option is bento, boxed lunch. There are several cars that come out at lunch time just for the sake of getting hungry Japanese people to spend money on their overpriced and crappy food. That usually includes the gang at Asahi Kasei too. But on Tuesdays and Fridays there used to be a special surprise: Thai bento! The Thai bento car has various bento's that you don't usually see in Japan for lunch, and the tastes is in most people's opinion much better than the average bento. Unfortunately that means that you have to stand in line for your food, sometimes 10 to 20 minutes. That's why we always leave work 5 minutes early :)<br /><br />Anyway, unfortunately for poor us, the Thai bento guy stopped coming a couple of weeks ago, and my life has been hell since then. Without green curry to eat there is no point in life for me anymore, and I might as well give up my job and my life here. I think I will go to Thailand, so I can eat Thai bento every day. Goodbye and sayonara...<br /><br /><a href="http://dictionary.reference.com/browse/dismal"><span style="font-size:130%;">Chagrijnig</span></a>

@@ -1,0 +1,18 @@
+---
+published: true
+title: "Israeli party animals"
+id: "4615"
+slug: "israeli-party-animals"
+author: rv
+date: 2011-11-19 15:28
+categories: Japan,Spirit of Japan
+---
+I don't know why but I suddenly remember, completely out of the blue, very vividly, an encounter I had while cycling Japan last year. I was cycling in the central part of Japan, somewhere in Mie prefecture. I arrived at my planned destination early-afternoon and had already found my hostel: a very nice old Japanese house on top of a hill (they're always on top of hills..). I had my choice of this wonderfully quaint Japanese youth hostel or an expensive touristy business hotel, so obviously I took the hostel. It was a weekday and out of tourist season so there was only one other guest: an Italian woman. I got talking to her and she was a fair bit older than me. She'd lived in Japan for a couple years longer than me and was very used to the country. If I remember correctly she was planning to return to her home country and was doing one last trip across Japan, a bit like me.
+
+Since the town was in the middle of nowhere and there was absolutely nothing else to do, we visited the only nearby tourist site together: two rocks in the sea tied together by a thick rope. There is deep meaning to this but I can't be bothered to write it down here as it is completely irrelevant to the story. After we finished sightseeing we went to one out of exactly two restaurants that were still open and had a very good seafood dinner. As we were eating our meal two (male) foreigners entered the restaurant. You could instantly tell that they were tourists and had not been in Japan for very long. They took the table next to us and started talking to us. It soon became clear that neither could they read the menu nor could they speak to the waiter, which was a bit problematic as in these rural places a lot of people don't speak English. Including the waiter.
+
+We translated some things for them and helped them order drinks. They turned out to be tourists from Israel, staying at the expensive business hotel. They were dressed for action, ready to get drunk and get laid. I guess they must have been really disappointed that the town they were in was so sleepy. That left them only one course of action though, which was to chat up the Italian lady I was having dinner with. Forgive my national stereotyping, but when you think Italian lady, you think party. Too bad for them that this Italian lady had become rather Japanese-ified and was at that moment not very interested in drinking or partying. They kept inviting her (and me, since I was having dinner with her) to drink, go out to their hotel's bar, party etc. She kept politely refusing, saying that she wasn't interested. When we finally finished our meal the Isreali's got more and more desperate, and as we got up to leave they tried to persuade her one last time. She'd had enough though, snapped at them, and then we left. Without the two guys following, fortunately.
+
+Normally I'd perhaps be mildly amused at such an encounter, but at the time I couldn't help but feel that this really showed the difference between foreigners who are living in Japan and foreigners who are visiting Japan. The former are respectful people who are nice to talk to whereas the latter are just obnoxious. This is of course an overgeneralization, and one that I will be on the wrong side of if I ever return to Japan as a tourist. It's interesting to observe nonetheless.
+
+&lt;/completely random&gt;

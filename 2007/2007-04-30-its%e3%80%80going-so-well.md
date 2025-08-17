@@ -1,0 +1,10 @@
+---
+published: true
+title: "It`s　going so well!"
+id: "225"
+slug: "its%e3%80%80going-so-well"
+author: rv
+date: 2007-04-30 06:48
+categories: Uncategorized
+---
+We`re at an internet cafe in Kagoshima right now (with a crappy Japanese keyboard), waiting for the ferry to Okinawa. Everything is going too well! We are one day ahead of schedule, and we are using that extra day to visit another island, before continuing on to the main island of Okinawa. We`re going to camp there for one night, and then take the next ferry the day after that to the main island ^_^<br /><br />We visited Sakurajima today, the island right in front of the coast of Kagoshima, which has an active volcano that is 1800 meters high. Unfortunately the weather was very cloudy so we couldn`t take very nice pictures :( But today is the first cloudy day in our whole trip, so I guess we can`t complain.<br /><br />I`m sunburned!!! The first day I put on a lot of sunscreen, but my arms still got burned until they were nice and red. So the second and third day I had to wear long sleeves... It`s getting better now, but I have no idea if I`m prepared for tropical islandhopping. I guess we`ll find out...<br /><br />I have no idea if my cell phone will work in some parts of Okinawa, so you might not hear from me again until we get to Naha. I`ll keep you guys posted!<br /><br />Here`s some pictures from our trip so far.<br /><a href="http://bp2.blogger.com/_RIq3e2nKDHo/RjWXj7XYoJI/AAAAAAAAAVI/gDDUCDD91UU/s1600-h/DSC_0002.JPG"></a><br /><br /><a href="http://bp3.blogger.com/_RIq3e2nKDHo/RjWXkLXYoKI/AAAAAAAAAVQ/LyRT8mWC4ls/s1600-h/DSC_0042.JPG">A very nice beach</a><br /><br /><a href="http://bp0.blogger.com/_RIq3e2nKDHo/RjWXkbXYoLI/AAAAAAAAAVY/oLXzHqbLhe4/s1600-h/DSC_0103.JPG">We climbed 375m on our bikes to take this stupid picture...</a><br /><br /><a href="http://bp1.blogger.com/_RIq3e2nKDHo/RjWXkrXYoMI/AAAAAAAAAVg/OQeWUP1l2U4/s1600-h/IMG_6036.JPG">Nice sunset 2 days ago</a><br /><br /><a href="http://bp2.blogger.com/_RIq3e2nKDHo/RjWXk7XYoNI/AAAAAAAAAVo/MjPdhQpqNIM/s1600-h/IMG_6043.JPG">Again a nice sunset</a>

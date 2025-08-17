@@ -1,0 +1,35 @@
+---
+published: true
+title: "The GT86 goes to Assen TT track"
+id: "6275"
+slug: "the-gt86-goes-to-assen-tt-track"
+author: rv
+date: 2014-11-30 20:43
+categories: Cars
+tags: assen,gt86
+---
+So, an odd weekend, and the chance presented itself to try out the new braking system on the GT86 before the cold winter. Or rather, during. After a long but satisfying drive from Calais all the way to the north of the Netherlands, I made it to Assen, the home of the Dutch motor grand prix. Cold, gloomy weather awaits.
+
+That, and chavs. Lots of Dutch chavs, or 'sjonnies' as the Dutch prefer to call them. Lots of 90's and 00's BMWs, Golfs and the like. In the UK you had your fair share of chavs, but also a reasonable number of 'car enthusiasts'. It's hard to write down the difference between the casual chav and the car enthusiast, but when you see it, you'll know without fail.
+
+The organization, done by <a href="http://vrijrijden.nl/" target="_blank">vrijrijden.nl</a>, was casual and free. Signup was easy and there was no hassle with sound checks at all, but you do get a transponder to carry around in your car. Before each session the cars do a pre-line-up at the entrance to the pit lane, and then line up at the pit exit to leave in single file. There is no safety briefing and there are no rules about overtaking, using the kerbstones or drifting. A huge difference compared to the strictly-managed UK tracks.
+
+All this freedom sounds nice in theory, but is definitely not when you're racing around with a bunch of chavs in beat-up cars with a death wish. I've seen many people spin out, run off track, blow up their engines or have some other mechanical failure. There were loads of individual driver errors, way more than I've seen on Snetterton or Bedford. Nearing the end of one session, about three cars spun off or broke down in a single lap and the session was suspended. Lastly, because there were no rules about where not to to overtake, some cars drove needlessly competitive and took risks that really weren't justified given the situation. A particular orange 350Z springs to mind: every time that guy overtook someone it came to a near-crash. A total disregard for other drivers. He was a fast driver, but an idiot who had no regard for the situation.
+
+Ok, that's all the bad stuff out of the way. Now for the good stuff! The track was amazingly fun to drive after the cars had dispersed a little. Loads of fast, technical corners with some good hard braking points as well. I had some great battles with various cars, including a pimped-up Mini Cooper that I just barely could not catch before the session ended. Another highlight for me was holding off a deceptively beat-up 90's Honda CRX with a very skilled driver who kept catching up with me in the corners. I really had to drive all out to keep in front of him.
+
+Things didn't go super-smoothly for me either. In the double right handers before the final straight I nearly lost my car twice. The first time I just overshot the corner like an idiot because I judged my speed wrong, but I somehow managed to hold it onto the runoff area and get back on track. The second time I pushed myself a little too hard and swung the rear out a bit, but again managed to hold it.
+
+The worst incident I had was in the very first corner, on cold-ish tires, right after the second session had begun. I'd done a lap already so assumed the tires were ready, and then tried to push a little to pass a car in front of me, but carried way too much speed into the corner. Because I had so much speed and the angle was so very wrong, I tried to bleed the speed rather than try to drift my way through it, but I overdid it with the steering and caused the rear to break out (which is quite an easy thing to do in that corner). To make matters worse, just when I thought I had caught it with a nice correction, I slid off track over a bump into the runoff area, causing an even worse angle. In the end I did manage to catch that as well, but it certainly wasn't graceful.
+
+The GT86 is ridiculously controllable, but also quick to hit its limits. It seems to have two modes: either you're stable turning into a corner, meaning you'll end up in understeer if you push it. But if you use the brakes right, or if the track induces the right kind of bumps, then the rear gets light and jumpy, which is exactly what you'll want it to do. Then you can choose to straighten out a bit to accelerate smoothly and quick, or dab the throttle or steering just a little more to induce a lovely little slide. It's just so entertaining to drive. I hardly ever found myself frustrated at how it handled, right up until the end of the third session when the tires started to feel a bit worn out, causing a lot more understeer.
+
+The brakes are an interesting story. I've had the stock discs and pads replaced for a set of DBA 4000 slotted discs and Hawk brake pads. I also had the brake fluid changed for something that can handle higher temperatures. I was expecting the brake performance to be at least as good as before, and hopefully without as much fade, jittering or wear as I experienced on the original ones. To be honest, I can't say that I'm flabbergasted by their performance. The braking force was perhaps equal to the original brakes at the start, but it definitely got worse during the second session. It did remain stable after that and did not deteriorate at all any more, so they're definitely longer-lasting than the originals. Braking at full force was only barely able to trigger the ABS to kick in on a straight line, which I think means that the tires can hold their grip at the maximum amount of force the brakes are able to exert on them.
+
+I dunno. They just feel weaker. In the end I felt more confident that I wouldn't have shitty side effects from hard braking, but I also knew that I'd have to pick my braking point early, and that I wouldn't be able to brake just that extra bit harder if I really needed to. Opinion inconclusive. I'll have to try them again at the next track day.
+
+The brake pedal travel did increase during the session, again up until a point where it remained stable. It now catches at a fairly lower point. At first I thought that it was because the fluid had boiled causing the gas in the lines to compress whenever I brake, but now I'm wondering if brake pad wear isn't a more simple explanation. If the pads are just that much thinner I just have to push that much more in order for them to reach the discs. That would mean that I've severely underestimated the lifetime of brake pads, though, and would probably need a new set after another 1 or 2 track days. Not good..
+
+Assen was an awesome track and very memorable. I'd rank it just above Snetterton and easily above Bedford in terms of excitement and technical challenge level. But I would not want to drive it again with vrijrijden.nl, simply because there's too many unskilled drivers in dangerous cars. There really should be a 'non-chav' class at these kind of events..
+
+Right. Time for winter.

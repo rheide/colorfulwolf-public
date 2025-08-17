@@ -1,0 +1,21 @@
+---
+published: true
+title: "Starving, hysterical, naked"
+id: "2309"
+slug: "starving-hysterical-naked"
+author: rv
+date: 2010-04-10 13:21
+categories: Japan,Spirit of Japan,Thoughts
+tags: hysterical,naked,starving
+---
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2010/04/img_8697_8_9ps.jpg"><img class="aligncenter size-full wp-image-2311" title="IMG_8697_8_9PS_sml" src="https://s3.amazonaws.com/cfwblog/uploads/2010/04/img_8697_8_9ps_sml.jpg" alt="" width="399" height="600" /></a>
+
+Today I went out for 'hanami' （花見 - flower watching) with a bunch of friends. Unlike the name suggests it has very little to do with watching flowers, as sitting under the sakura trees is just an excuse to drink from dawn till dusk. And such we did, although we did not sit under sakura trees but went to the (in)famous barbecue place at the riverside instead. The weather was near perfect today, and you can see the 'near' part of that sentence in the photo above. It's a bit cloudy and it gets cold at night, but the temperature is rising. Unfortunately the good weather never lasts for more than a day and tomorrow it's expected to rain again...
+
+I've said my last goodbyes today and I'm almost ready to go. Now all that remains is one day of hard work to get my room empty and clean, and I have some small leftover luggage to take care of before I go. I feel very sad about not seeing my friends again for a long time, but I've been delaying my departure for long enough. Stop dawdling and just leave already!
+
+'Starving, hysterical, naked' is a text I saw on a Japanese guy's T-shirt once. I tried to take a picture of it, but the guy walked away too quickly so I wrote the words down in my cell phone instead. This happened about a year ago, and what started as an idea for a funny picture has turned into a motivational statement for me. Whenever I feel bad I say to myself: "Hey, at least I'm not starving, hysterical and naked". Because that would suck.
+
+Last year around this time I was <a href="https://s3.amazonaws.com/cfwblog/uploads/2009/05/dsc_0775.jpg" target="_blank">standing on the edge of a cliff</a> in Zambia, Africa. My head was facing away from the cliff, and I was slowly backing up towards the edge, unable to see any danger, as everything scary was positioned behind my point of view. After several excruciating seconds of backing up, not falling, backing up more, still not falling, I was finally at the absolute edge. One more step and I would fall. I don't remember this exact moment very well, but I think I may have forgotten to take a deep breath at that point. Instead, I just leaned over backwards and let gravity take me. I unwillingly closed my eyes at the very first instant, and I opened them again a split-second later after my fall commenced. I remember looking up into the sky, seeing the top of the mountain rapidly falling away from me. There was almost no sensation of wind, pain or anything else for that matter. I have never felt more at peace in my whole life than in those few seconds. It's as if time stood still during those few seconds, and I was able to take in every little detail of everything around me. In transit, as I went faster and faster, my peaceful mood rapidly turned into anxiety. I couldn't see the ground because I was looking upward, but I knew that I was coming closer and closer to possible death, and I was wondering when the <a href="http://www.thezambeziswing.com/" target="_blank">swing</a> would kick in and save me. And then finally (and fortunately)  it did, and I was back in the land of the living.
+
+So what does this have to do with my current situation, you may ask? I'm not quite sure myself actually, but I've been remembering those 3 seconds of free fall a lot recently. Maybe I'm looking for the next thrill - the next experience that I will never forget. Or maybe it's my subconscious warning me that I'm about to throw myself off a cliff. Who knows. I've already taken the plunge, all that's left for me now is to enjoy the free fall.

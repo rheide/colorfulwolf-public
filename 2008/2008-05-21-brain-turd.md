@@ -1,0 +1,28 @@
+---
+published: true
+title: "Brain turd"
+id: "522"
+slug: "brain-turd"
+author: rv
+date: 2008-05-21 15:56
+categories: Thoughts
+---
+I need a more zen-like attitude to life. Right now I get annoyed at things, or frustrated, or impatient, and I don't foresee that to change in the future at all. Right now I am getting annoyed at the slowness of my internet connection. That did not happen a couple of years ago. I'm trying to find out what changed in me. I lost my inner peace completely. Is it because I have a 'better' life now? Or because I have gotten used to complaining all the time? I guess people can easily get used to any kind of lifestyle, but I am getting too used to mine. I am not unhappy, so my brain does not feel compelled to change my current situation. I need to force it to change. To learn. To do.
+
+Humans are so much like machines. Or ants. They are not unique at all. This thought occurred to me when we came back by night bus from Shikoku. People get in, sit for 2 hours, the bus stops, people dump their waste (go to the toilet) and get back into the bus. Cycle repeats ad infinitum. One human's life might seem interesting or unique, but looking at it from the whole the differences between persons are insignificant. Nobody stands out. But that's ok. Nobody has to stand out.
+
+I don't like to do things that are unnatural. I like to wake up when I feel like I want to wake up. Not when the alarm rings. I like to get out of the shower when I feel that I'm finished. Not after 1 minute because I have to make it to work on time. There are many tasks that just go so much better when it's the right time to do them. When I am asked at work to do something, I can force myself to do it any time, but when I wait until I feel like doing it, it just goes so much better. The key to all of this is timing. When the time is right, do it. For me, I rely on my subconcious to tell me when I need to do something, and things will go smooth and naturally. Ignoring this part of my brain and forcing this will make me less productive and less happy.
+
+Can you be happy with nothing? If you never had anything more than nothing, can you be happy? If you never had anything more than you have right now, are you happy right now? There are a lot of people who've gone from better to worse, and are bitter about it. That's natural. But there are some people who have gone from better to worse and are happy about it. That's admirable. I am a person who can be happy with anything. In fact, after losing something I am usually happier than before, because I can realize what it meant to me to lose it.
+
+People are only happy until they see someone who is more happy than them. Once they know that they can be more happy somehow, they will try to attain that. You can substitute the word happy for rich, popular, famous, interesting, smart, etc. Once the existence of something better is known the happiness level drops. I think this is because people are either consciously or subconsciously competing with each other, and I think that is why I don't like to compete. Sure, competing with each other is for fun, but activating that competitive spirit in yourself makes you want to compete in more and more things. I'd rather shut off that part and focus on other things. That doesn't always work of course, and there are some things that I like to compete in, especially things that I'm good at. And some competition you can't avoid, like when you are looking for employment or doing (most) sports.
+42. I still don't know what I want to do with my life. Getting enough sleep only makes me think about this more. I see two options for me right now, one of them will be as close to normality and stress as a person like me can get, and the other one is wild open (sic). I already made my choice, and I stand by it. Life will have many interesting moments, and there are many things to see. Now is the time to see them. Right now.
+When we look at the things that are important in life, what do we see? When we think of the things that we will be remembered by, what will they be? Do we want to be remembered? Do we want our legacy to continue? It's in our genes to want it, obviously, but that doesn't mean that it's the 'right' choice. People's focus is shifting from procreation to procrastination. All they want to do is have fun. This is nature's way of protecting itself against overpopulation, perhaps?
+
+Sometimes I lose my perspective. I actually think that solving this bug before the end of my working day will make my life better somehow. Or that attending a social gathering is required. Mandatory fun. I must be entering the rebellious period of my life. I don't want to conform at all. This does not worry me. Somehow people who know me expect it of me. I am good at what I do, so I am allowed certain eccentricities at work, like being a foreigner. Or not learning kanji even after two and half years... Every act requires motivation, and for me I need a good reason to be motivated. Not being certain of my future removes all motivation to do long-term things like studying a language. The future will never be certain, and in fact my actions right now influence my future, so I am looking at things the wrong way. I reversed cause and effect in my mind. I should un-reverse it.
+
+---------
+
+That was a quick look in my brain, as presented by my brain, kind of messed up after watching a weird movie and being awake for too long. And now for something completely different:
+
+[youtube=https://www.youtube.com/watch?v=IIlKiRPSNGA]

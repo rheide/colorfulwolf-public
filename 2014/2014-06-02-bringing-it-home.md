@@ -1,0 +1,22 @@
+---
+published: true
+title: "Bringing it home"
+id: "6160"
+slug: "bringing-it-home"
+author: rv
+date: 2014-06-02 08:38
+categories: Spirit of Japan 2
+---
+Cycling feels odd if you've already decided your destination, your route and the amount of effort you're going to expend. It will without a doubt go different than you think. Today I always wanted to be 10 kilometers ahead of where I actually was. The stretch of tunnels that started yesterday continued until well after the camp site, and every time I thought I was done with it, another tunnel appeared. I'm glad I pushed hard yesterday, today would have been terrible if I had to do the entire stretch of tunnels in one day. I modified my rear light to be more noticeable, but had to get off the bike several times to turn it on and off. I also had to get my coat out for the long stretches of tunnel which were really really cold: all the more so because the temperature outside has been creeping up to 25-30 degrees, and it was actually bloody hot today. FINALLY.
+
+The road went up and down a fair bit. I wasn't really bothered by it until around lunch time, when my stomach started feeling weird. I didn't actually identify the feeling as hunger, but it went away after eating a meal, so I guess it was related. After checking the stats on yesterday and today, it turns out that I did half the distance of yesterday, but the same amount of climbing. Tougher than I thought.
+
+I'm not sure what's up with Hokkaido, but every day more and more people are trying to kill me. I've had two more near-death experiences today, this time not even near a tunnel, just out in the open road. Both were identical to yesterday's one: an oncoming car overtaking some other cars without taking cyclists into account.
+
+The first one still scares the shit out of me because I didn't see it coming at all. It was on a steep uphill, and I was climbing, kind of zig-zagging up the hill, still fairly on the side. When I'm climbing I tend to look down in suffrage, and occasionally look up to see how much I've got left. But the next time I looked up, a car was already wheezing past me with not too much space in between.. I didn't even have a chance to avoid it. All I can say is: mother fucker, if I could identify you, I would scare the fucking shit out of you with my gaijin smash.
+
+The second one happened on a flat road right after a downhill, and I was coming down at 30-35kph on a road where cars are allowed to do 40. Yet again, some bastard car slips out of the convoy to overtake, but this time it's far away, the road is fairly wide and I've spotted him well before he reaches me. So I scared the shit out of him by staying in the middle of my lane for as long as possible while keeping eye contact. A bicycle playing chicken with a car, that's probably not the smartest thing I've ever done. It just really pisses me off when cars don't treat me as a proper road user. So, consider this an awareness campaign.
+
+Finally I reached the outskirts of Sapporo, and I figured it would be short ride into the center. But holy crap, Sapporo is huge. It took another 10-15 kilometers of suburban traffic light crawls in the blistering hot sun before I even came close. Finally I got annoyed and took a break in a park. When I continued cycling I happened across a giant outdoor &amp; sports store, which was exactly what I needed. I bought an extremely uncool hat that will hopefully protect from the sun a bit better than my silly sweaty cap, and some tent pegs, because I somehow bent two of them and I was already one short. Also: bug spray. Bugs have been smashing themselves in my face en-masse today, it was just ridiculous. I couldn't cycle 5 minutes without feeling a bug smash into my cheek, nose or eye. The bug spray won't help with that, but at least I can spray it on my panniers and my clothes, because those damn bugs have been hitchhiking a lot.
+
+The ferry is booked! Wednesday I will return to Honshu on an overnight ferry, and then proceed to cycle my way down to Tokyo. Tomorrow is a 'break' day, although I've got a bunch of shopping, bike maintenance and (goddammit) taxes to do. Probably for the best since my face is red as a lobster and could use a day away from the sun..

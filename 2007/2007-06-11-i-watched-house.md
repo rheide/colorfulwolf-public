@@ -1,0 +1,10 @@
+---
+published: true
+title: "I watched House!"
+id: "267"
+slug: "i-watched-house"
+author: rv
+date: 2007-06-11 12:34
+categories: Uncategorized
+---
+In more ways than one :) I just finished watching House MD, which I enjoyed very much. Love the humor. The other way in which I watched 'house' was yesterday, when me and Kamil did a random bicycle ride in the area, and we found a house for sale which was open to the public, so we took a look inside. It looked exactly like a (quite nice) western home, with one added Japanese room. And no backyard. Still, it was quite nice, and if we understood the guy correctly it was quite affordable too (10000000 yen, about 70000 euros). I'm quite sure we missed part of the conversation where the guy said that in real life it's much more expensive, though.<br /><br />Last weekend was not quite productive. We played some Counterstrike and Worms together at Friday night, and then we got the brilliant idea of playing Transport Tycoon... We stopped at around 5:00 in the night... Then on Saturday we basically did the same thing again, only this time until 3. Sunday we got wiser and stopped at 1. That game is too addictive.<br /><br />So, I booked my ticket, finally! I'm leaving Japan on the 1st of August, and I"ll be back on the 24th of the same month. I have absolutely no clue of what I'm doing in Holland, but I'm sure a change of pace will be good for me. I think it's time for me to start thinking about my future in Europe. Maybe August will be a good chance for that. Although I'm quite sure I'll sit around the house being lazy for most of the time ^_^<br /><br />Finally, so many people replied to my last post :O I was a bit surprised, because when I wrote the post I was just writing out my random thoughts. I read it back, and it seems people take what I write a bit too seriously ('people' being my sister..). Yes, I hate all you stupid Dutch people and I never want to go back to Holland. Bye -_-. Perhaps being too sensitive about some things runs in the family.. Well, the only thing I was deciding was to spend 2 or 3 weeks in Holland, that's all. I hope that's all clear now :)

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The colorful wolf</title>
+	<atom:link href="https://www.colorfulwolf.com/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.colorfulwolf.com/blog/</link>
+	<description></description>
+	<lastBuildDate>{{ last_build_date }}</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://www.colorfulwolf.com/blog/</generator>
+
+    {% for article in content_items %}
+    <item>
+        <title>{{ article.title }}</title>
+        <link>https://www.colorfulwolf.com{{ article.url }}</link>
+        <comments>https://www.colorfulwolf.com{{ article.url }}#comments</comments>
+        <pubDate>{{ article.pub_date }}</pubDate>
+        <dc:creator><![CDATA[{{ article.author }}]]></dc:creator>
+        {% for cat in article.categories %}
+            <category><![CDATA[{{ cat.name }}]]></category>
+        {% endfor %}
+        <guid isPermaLink="false">https://www.colorfulwolf.com{{ article.url }}</guid>
+        <description><![CDATA[{{ article.formatted_content|safe }}]]></description>
+        <content:encoded><![CDATA[{{ article.formatted_content|safe }}]]></content:encoded>
+    </item>
+    {% endfor %}
+	</channel>
+</rss>

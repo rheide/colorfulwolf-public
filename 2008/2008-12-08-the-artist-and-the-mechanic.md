@@ -1,0 +1,20 @@
+---
+published: true
+title: "The Artist and the Mechanic"
+id: "792"
+slug: "the-artist-and-the-mechanic"
+author: rv
+date: 2008-12-08 03:43
+categories: Tech,Thoughts
+---
+I'm writing this post from a perspective that might be difficult to explain. It has to do with how I describe what I do. The simple answer would be: "I am a software engineer". But what does that mean exactly? I 'engineer' 'software'. That doesn't really tell you anything? I can say that I'm a programmer, but then I feel that I'm only emphasizing the low-level part of my job. If I instead say that I am a Software Architect, then people will think that I only design systems and that I'm not actually involved in building them. In fact, I am involved in every stage of software development, starting from brainstorming on a concept all the way until the endless maintenance.
+
+In my job I always find two views that are quite conflicting. In my mind I liken these two sides to an Artist and a Mechanic, but keep in mind that these concepts do not exactly match their real-world counterparts. The mechanic is methodical. He has a to-do list with items that he has to work on. He schedules his time, describes exactly what he wants to do and spends no more time than is absolutely needed on each task. A mechanic is asked to fix things, and he will not care about which method he uses to fix it, as long as the desired result is obtained. A mechanic is efficient and effective, but not creative.He works consistently, and his output is always around the same level. His work is a chore: a list of tasks that need to be done, one by one, in the right order.
+
+Then there is the Artist. An artist is someone who designs. He has a concept in his head that he wants to output somewhere. He can play with a concept in his mind and think of solutions to problems that nobody else can think of. He does not schedule his time, and even if his deadline passes he will still work on his task, because he enjoys it. He is creating something new. An artist can see an opportunity for creation and creativity in anything. Scheduling and time mean nothing to the artist, he only cares about his immediate task. He can be submerged in a single task that he can work on for hours, but if he has a lack of inspiration he will be stuck for hours or days. If an artist works on what he likes, his output will be amazing, but if you give him chores, his work will be below par.
+
+So what makes a perfect software engineer? Is it the artist or the mechanic? Personally, I think I am more of an artist type. I have trouble motivating myself for chores, but if I get a chance to create something beautiful I can spend hours and hours on it. I function this way, and I am at my best when I have the freedom to do this. It's still possible for artists to be efficient at chores, but they won't have as much fun in their work as they could have.
+
+As always too much of one thing is never good, and the best software engineer must be one who balances his artist side and his mechanic side. I might propose that this is in fact the key component of software engineering. This is what defines a software engineer. Anyone can learn the skillset that is required to be a software engineer, but not everyone can balance their creative time and their chore time. I'm not very good at this myself, and I tend to prefer my creative time over my chore time.
+
+It's important to treat a person the right way. If he is an artist type, he will not like it if you give him a strict schedule and a list of tasks to do. Vice versa, if you gave a mechanic the freedom to do anything he likes without giving him a clear schedule or a clear definition of what he should do, then he won't be very happy at all. He won't know where to start. Keep this in mind, managers, because this will allow you to make your employees happy, and for me that's the most important thing in the world.

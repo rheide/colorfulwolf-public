@@ -1,0 +1,33 @@
+---
+published: true
+title: "I should write something about Cuba"
+id: "4698"
+slug: "i-should-write-something-about-cuba"
+author: rv
+date: 2012-02-04 17:56
+categories: Thoughts,Travel
+tags: cuba,havana
+---
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2012/02/IMG_6038.jpg"><img class="aligncenter size-full wp-image-4700" title="IMG_6038sml" src="https://s3.amazonaws.com/cfwblog/uploads/2012/02/IMG_6038sml.jpg" alt="" width="600" height="271" /></a>
+
+It's been two weeks now since I've been back from Cuba and I have not really written anything about it, which is a real shame because it's been occupying my mind long after I've returned. Cuba is without a doubt the most unique country I've ever been to. Travel guides and other sources say the same thing, but it really can't be said often enough. Cuba is different from all other countries, moreso than other countries are from each other. That said, I did not like Cuba, but I would recommend it to other people.
+
+Many things happened in Cuba that I will not recount here in full. I'm not a person who remembers every single detail on-demand, but I do remember the general feeling of the place. And despite all the good things (the weather, the landscape, the architecture, the old cars) my general feeling of Cuba is that it's shit. The reason for that is very simple: its people.
+
+Cuba's been isolated from the world for 50 years, ever since it became a communist country after the revolution. And then everything stopped. Cuba did not evolve, there was no technological or social progress. It's all still as shit as it was 50 years ago. Except for health care, apparently, which seems to be great. But that's the only thing they have. There is no modern technology, there is no internet, there are hardly any foreign products. The quality of life is very poor (but not as poor as that of some other countries). Mostly, the country is just stagnating. The general vibe I got from all Cubans is that they really don't give a fuck about what happens to them or their country. Cubans don't care. They let their country wither for 50 years, hoping that it would eventually become a better place. But that generation is gone now and the new generation certainly doesn't share that hope any more. But the new generation doesn't care enough to have a new revolution either. They just can't be bothered to do anything and let things run their course.
+
+It's not surprising though. Cubans are completely shut out from the rest of the world. They don't have access to internet, limited access to mobile phones (their mobile phone network doesn't really seem to work very well) and the vast majority of Cubans is not allowed to leave the country. They're not allowed to have a passport, and even the ones that do have one will have to have a written letter of recommendation for entering most if not all first-world countries. But Cubans do talk to tourists and tourists tell them stories of what happens in the world. That's how they keep up-to-date: word of mouth.
+
+I think the biggest problem is that the government takes care of them. Two of the people we talked to in Havana mentioned how large the Cuban police force is. The first one said "25% of all people in Cuba are employed as policemen". The second one raised it to half the entire population. The exaggeration is not as much as you might think. And since the government provides rations and jobs and will not allow you to undertake anything entrepreneurial, there is not a lot left for Cubans to do except sit on their butt and enjoy the sunshine. While scamming some random tourists.
+
+The one thing that was consistent all across Cuba (except <a href="https://en.wikipedia.org/wiki/Baracoa" target="_blank">Baracoa</a>, which I don't count as Cuba because it's completely different) is that people tried to scam us. In Havana people wanted to be our friends so they could introduce us to their taxis, their friend's restaurants, their <a href="https://en.wikipedia.org/wiki/Casa_particular" target="_blank">casa particulares</a>. Out in the countryside there's people alongside the road trying to sell you random things at crazy prices. We ran across a restaurant in Santiago that very obviously catered to tourists where the price of food was about 6 times more than the usual, obviously aiming to make a quick profit from tourists that just got off the plane. Using taxis is just the same, if you give Cubans even the slightest chance to scam you, they will. For a people that doesn't really care about anything they sure seem to care about ripping off the tourists. I guess it's their national pasttime.
+
+And that brings me to this dilemma. Cuban society is not good. It's very different from other countries, which makes it a very interesting place to see. But by seeing it you are giving money to that country to help it continue doing bad to its people. I've drawn a (very first-world-y) conclusion for myself after visiting Cuba: Cuba as a country and Cubans as a people do not deserve the money that the tourist industry provides them. They bite the hand that feeds it, so to speak. I really have no respect for the people of Cuba and the way they treat tourists, although I do understand why they do the things they do. I blame Fidel Castro for letting Cuba stagnate for so long, but I blame the Cuban people for not trying to fix the problems sooner.
+
+Whenever I'd be at a nice place I'd suddenly be confronted by the dark side of Cuba. I saw a nice house in Havana and stopped to take photos, then the owner suddenly came rushing out to us and tried to get us to stay at his casa, for a modest fee of course. Just walking down the street means you are spoken to by 'friendly' people who are at first casually interested and then lure you away to places that you don't want to go. If you order drinks or food then don't be surprised to get something completely different, because Cubans just don't care. While renting a car we had a tire that, according to a mechanic at the gas station we refueled at, was losing air. He fixed it for us at a modest fee but I still have no clue if he was being nice or if he was scamming us. Cuban people are like that. As a tourist, you cannot trust anyone, ever.
+
+This turned into quite a rant. Everything I just wrote is the reason I could not enjoy the good things of Cuba to their fullest. The contrast between good and bad is extremely strong in Cuba. I did not like Cuba, but I am glad that I experienced it. It made the path I will take in the future a little bit clearer.
+
+Oh, and Cuban food is <strong>shit</strong>.
+
+&nbsp;

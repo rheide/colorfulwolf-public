@@ -1,0 +1,12 @@
+---
+published: true
+title: "The importance of sleep"
+id: "679"
+slug: "the-importance-of-sleep"
+author: rv
+date: 2008-09-27 14:40
+categories: Thoughts
+---
+We all know it, or should know it. Sometimes, especially at times of great stress, we choose to neglect our sleep-time in favor of work-time. Or even relax-time. I've done it myself over the last year, either because of personal reasons or work-related reasons. Still, I seldom lose sleep over anything, because sleep is one of my favourite activities. Getting a good night's rest helps me focus and think clearly the following day. That's quite important in my job. When doing 'blind programming', that is, solving bugs and dealing with issues one by one, it's really quite okay even if I don't get any sleep and come back from a night out in Tokyo. But when dealing with people that need managing or when unexpected situations pop up I really need brain power, which I derive from sleep. When I lose sleep I lose the ability to look at the big picture and to put things into perspective, and as a consequence I lose the ability to reflect upon my own life and my decisions. I guess you can compare this to driving a car versus a train while being sleep-deprived. The train will still go cause all you have to do is push a button to keep it going, but you have to actively steer the car to actually get to where you want to go. 
+
+A healthy mental condition derives from three things: enough food, enough sleep, and enough exercise. I do find that I actually need to exercise my body regularly to keep my mind fit. If I don't go cycling and work up a good sweat then my body never wakes up anymore, and neither does my mind. I need some physical exertion to remind my brain that it can be very active. It's hard for me to balance the three though, since trying to get one of these three things usually involves depriving myself of another. I don't want to gain weight, so if I want to eat a lot I need to exercise more too. If I want to exercise more then I need to go cycling on weekdays, and I would have very little time to do other things, so I would lose sleep. And if I exercise and lose sleep I am like a zombie at work, which I have to compensate for by eating more and drinking high-calorie drinks. It's a vicious cycle. There's a balance point somewhere, but to keep the balance I'll have to spend less time on my hobbies and more time on sleeping and exercising. That is difficult and requires some willpower and mental strength, which I get from a healthy mental balance. The cycle never ends..

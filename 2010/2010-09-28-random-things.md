@@ -1,0 +1,26 @@
+---
+published: true
+title: "Random things"
+id: "3365"
+slug: "random-things"
+author: rv
+date: 2010-09-28 01:47
+categories: Daily Life,Tech,Thoughts
+---
+So what have I done lately? Well, I went for a drive today through the countryside and remembered the 'good old days' before I went to Japan, which made me feel a little bit more at home, and at the same time made me feel as if I hadn't grown as a person at all because I was still at the same (desolate) place where I was 10 years ago. I realize that personal growth has no relation to location, but still.
+
+I visited a computer store to check out some laptops. I'm looking for a new PC, but since I'm planning to move to London after finding a job it'll be a bit troublesome to buy a full-size PC. I'm thinking of getting a notebook as desktop replacement instead. After looking at laptops in the stores I realized that 18.4" screens are in fact huge, and a 17" screen would do fine as well, even for full HD resolution, which is one of my criteria. It's too bad, but even after looking for laptops online for many an hour, I still can't find anything that suits me (and is affordable). Maybe I'll wait until after I've moved before buying one..
+
+Tech tip: I figured out how to enable hardware acceleration for videos! If you follow <a href="http://blogo.biz/?p=20" target="_blank">this guide</a> your Media Player Classic will decode HD video using your graphics card instead of your CPU. My poor old Athlon X2 4000+ couldn't do it on CPU alone, but running off my graphics card I get only 10% cpu usage. It's awesome.
+
+Related to the web project I'm working on: I'm really lacking the creative environment to support me. The only person around here I can talk to about internet-related stuff is my sister, who is getting started with web design herself. Unfortunately she's not around much. I'm not getting any technical feedback from her, and nor was I expecting to. She's just getting started, so I was hoping maybe I'd get her more excited by talking to her about web design and such. But basically, what I need is an Alvaro to toss my ideas against and see what gets absorbed and what gets rejected.
+
+I tried talking with my dad about some of the basic concepts of this site I'm designing, but he's hopeless. He does use a PC but he is really completely clueless about anything on the internet. The only thing he does understand is money, so he always changes the topic away from the technical problem that I'm trying to solve towards being skeptical about me being able to make money from this idea. (Even though I told him already many times that the main goal of this project is not to make money, that piece of information just gets ignored by his compiler). His general attitude is one of "Computers? Pah! When I was your age we used to spend our time at the farm! Wrestling with pigs in the mud like healthy country boys! We didna have no fancy kom pew turrs! " (slightly paraphrased). Oh, how I envy those friends of mine that have tech-savvy fathers...
+
+I'm making great progress though. Tonight I started to think about the most impossible/complex/convoluted use cases imaginable, and tried to design a solution that deals with all of these. I'm not trying to solve all of these cases, as that would take forever. Instead, I'm focusing on creating a solid design that would be able to support all these cases in the future. I'd write down here what kind of things I'm thinking about, but it would become a long story really quickly. Let me just say that I'm finally getting excited about the project, and I can see the branches of the possibility tree in my mind starting to glow. From this points on there's a lot of cool ideas I can try.
+
+Last but not least, I'm strongly considering the possibility of quitting this blog. After experiencing and writing about so many things on this blog I think that my life has gotten boring, and will continue to be boring in the near future, so I really don't know what to write about any more. Another major factor that made me consider this is that I no longer write what I want to write on here. I often consider writing controversial stuff and then give up on it, thinking it'll decrease my chances of getting a job. Or I think about writing something personal/emotional and then wonder if this is really the right place as everything I write here is directly linked to my real identity. Besides, this blog has historically always focused on my adventures in Japan, photography, travel and a little bit of tech. It'd be weird for me to continue writing the same blog but with different topics. Maybe it's better to start a new, slightly more anonymous, blog.
+
+That said, I just blogged a whole paragraph about how I want to stop blogging. Can't get rid of me just yet.
+
+Oh right, please give me a hand with finding a good domain name for my site. It's a website that lets you rate stuff. Keywords are: media, rate, list. I've tried every possible combination I could think of but still can't find a free domain that I'm perfectly happy with. :(

@@ -1,0 +1,28 @@
+{% if page_title or page_count > 1 %}
+<div class="content_container postnav {% if is_header %}page-header{% else %}page-footer{% endif %}">
+
+	<div class="nav-next">
+	{% if page_number > 1 %}
+		{% if page_number == 2 %}
+			<a href="../../">
+		{% else %}
+			<a href="../{{ page_number - 1 }}/">
+		{% endif %}
+			<span class="meta-nav">←</span> Newer posts</a>
+	{% endif %}
+	</div>
+
+	<h2>{% if page_title %}{{ page_title }}{% endif %}</h2>
+
+	<div class="nav-previous">
+	{% if page_number < page_count %}
+		{% if page_number == 1 %}
+			<a href="page/{{ page_number + 1 }}/">
+		{% else %}
+			<a href="../{{ page_number + 1 }}/">
+		{% endif %}
+		Older posts <span class="meta-nav">→</span></a>
+	{% endif %}
+	</div>
+</div>
+{% endif %}

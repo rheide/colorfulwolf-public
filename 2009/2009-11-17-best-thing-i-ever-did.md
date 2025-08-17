@@ -1,0 +1,33 @@
+---
+published: true
+title: "Best thing I ever did"
+id: "1707"
+slug: "best-thing-i-ever-did"
+author: rv
+date: 2009-11-17 13:08
+categories: Tech
+tags: donkey shit,iphone,macbook,xcode
+---
+I've been developing for the iPhone for about a month now, and the differences between Mac and PC are starting to sink in more and more. I've had some wonderful 'eureka' moments where something just clicked and I realized the Apple way of doing things (tm). The most memorable epiphamy came to me during a rather dull meeting, while I was playing with the touchpad of the Macbook Pro that I'm using. For some reason I swiped some dust off the pad with two fingers, and suddenly I noticed the window beginning to scroll. Something clicked in my mind, which resulted in an audible 'AH!', after which everyone in the meeting looked in my general direction with looks of surprise on their face. Score one for multitouch. It's awesome.
+
+This anecdote, however, is by no means related to the title of this post. In fact, it's rather the opposite of the main feeling I wish to convey. While the Apple way is getting to me, there are still things that don't make sense to me even if I lived to be a hundred years (which I will). The Interface Builder is one of those things. At first glance it seems completely counter-intuitive, then I spent some time learning it and I thought it was brilliant. Then I actually used it and I realized that it's pretty much useless. There's never been a GUI builder that can replace good old-fashioned code, and this one is no exception. Perhaps I was expecting too much though, so I've been trying to use it as a supplement to the actual code, trying to design generic UI components that I can re-use later on. Well, no, not really. It doesn't really let you. If you want to use the interface builder, you'd better damn well define all your UI components inside it, otherwise you're screwed. Any form of nesting and you're back to coding it yourself. Oh, and don't get me started on the mystifying ways of figuring out in which initialization method you're supposed to link your buttons to your actions...
+
+Pardon me for ranting. I am coming from a windows background, and it's a background that, remarkably,  I've grown to appreciate over time. I'll move on to the good stuff in a minute, but I'd like to end my rant first with a little code snippet, not of objective-C, but of Java, that demonstrates the incredible versatility and immensely powerful syntax of the language. Here it is:
+<blockquote>button.setBackground(Color.red);</blockquote>
+Rather anticlimactic, wasn't it? Does anyone want to guess how to set the background color of a button on the iPhone platform? I'll let you in on a little secret: you can set a background color, but it doesn't actually change the color of the button. It just changes the color in the four tiny rounded corners that the button covers. Without going into details about how to actually accomplish this in Objective-C (which involves images and stretchabilities), I'd just like to say that the solution is just plain stupid. It's another example that shows that Apple is clearly catering to their users, but not to their programmers.
+
+Ok, enough ranting, let's talk about the good parts. I've been developing on the macbook for quite some time now, and it's a pretty awesome machine. With a few drawbacks though. In particular, I'm not too happy about the keyboard. And the display. And the development software. And the touchpad. And the external mouse. Ok, basically it sucks. I'll list the stuff here that annoyed me and how I fixed it.
+<ul>
+	<li>Japanese keyboard layout --&gt; switched to external US English keyboard: productivity +500%</li>
+	<li>Mac function keys that I'm not used to --&gt; switched external keyboard's control key and windows key function in system config: productivity +400%</li>
+	<li>Changed XCode key mappings to correspond to Windows/Eclipse equivalent. Just fixing the Home and End key increased productivity by 6000% (more or less)</li>
+	<li>Mouse fix one: added external mouse for extra speed: productivity +10% - no matter how you configure the mac's mouse settings, the mouse is either too sluggish or apeshit crazy.</li>
+	<li>Mouse fix two: using <a href="http://synergy2.sourceforge.net/" target="_blank">Synergy </a>to use my Windows mouse instead --&gt; productivity increase: 5000%</li>
+	<li>Damn glossy screen that reflects the ceiling lights above my desk no matter in which position I put the laptop --&gt; connected to external monitor (with higher resolution): productivity +1000%</li>
+	<li>Completely unrelated to all of the above but GOD WHY aren't there namespaces in Objective-C?!?!</li>
+</ul>
+Summarizing what I've done, I've basically thrown away as much Mac as possible and replaced it with the PC equivalent. You can hate me if you want, but in my professional opinion as a programmer it was just slowing me down. After enduring it for a month I think I have a right to say that. If possible I'd rather ditch the xcode playmobil programming environment too, but the integration with the iPhone is still too convenient to consider such a thing. I wish that <a href="http://www.eclipse.org/" target="_blank">Eclipse </a>can somehow support the iPhone, because I think Eclipse is better than xcode in every other way. Well, except memory usage of course. Eclipse has a bit of a fat butt, but it'll satisfy you in many ways!
+
+Well now, this turned out to be a huge troll. I do feel slightly sorry about that. I'm still learning new stuff about the platform every day, and I'm sure that I'll become happier and more efficient the more I use it. But just to annoy you guys I will troll a bit more by saying that I get the impression that developing on the mac will be enjoyed the most by people who enjoy getting a fresh cup of coffee after every line of code. There.
+
+Despite this post I am quite happy actually. After setting up the macbook to behave like a PC as much as possible I feel that I've got my productivity back. I got a lot of work done today not in the least thanks to the English keyboard and the quicker mouse. There are those days where you just have to keep your down and churn out code as much as you can. It might not be the most exciting aspect of programming, but sometimes it's necessary. And thanks to the new keyboard, mouse, screen and key mappings I've managed to do my job in less time, and in a better mood. Don't neglect your quality of job-life, guys!

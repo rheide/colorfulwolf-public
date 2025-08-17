@@ -1,0 +1,27 @@
+---
+published: true
+title: "Mini-review: Dell XPS 15z"
+id: "4251"
+slug: "mini-review-dell-xps-15z"
+author: rv
+date: 2011-07-09 00:09
+categories: Tech
+tags: 15z,dell,dell xps 15z,xps
+---
+Having decided on a suitcase-lifestyle I decided that I needed something faster than my again Sony Vaio laptop. It's also a good opportunity to get rid of the last piece of Sony hardware that I own, finally formalizing my boycot against Sony. Did you know they're going to charge you for selling second-hand games now? Evil bastards. Anyway, this rant is not about Sony, but about my new laptop: the <a href="http://www.dell.com/us/p/xps-15z/pd.aspx" target="_blank">Dell XPS 15z</a>.
+
+My reasons for choosing the 15Z were simple: it had to be portable enough for me to travel around with it, limiting the size to a maximum of 15 inch. It had to be fast enough to function as my main PC, meaning Sandy Bridge. And finally, I want to program on it, so I must have screen real estate. The 15z is one of the few 15 inch laptops that has a 1920x1080 screen. Especially that last criteria thinned out the potential choices a lot. I could have gone for a regular XPS but I decided on the 15z because this will be my main computer from now on, and I must have a decent computer to work with. It's one of the rare occasions where I don't mind spending money on something better.
+
+That being said, let me talk about all the things I hate about my new laptop. First of all, and most obviously: <strong>WHY OH WHY DOES IT NOT HAVE AN SSD!!?!?!?!?! </strong>That's just so stupid. I realize that disk space is required for a desktop-replacement laptop like this one, but really, come on. Starting Windows from a hard disk is just excruciating and unbefitting of a 2011 PC. I would gladly trade the slot-in dvd drive for a 64gb SSD.
+
+It's not that bad though, as the slowness occurs mostly when starting things. Once all your apps are loaded into memory everything zooms along just fine. That is, if you've uninstalled the massive load of crap software that the laptop comes with by default. I immediately uninstalled all Dell software except for the hotkey program, which is excellent. Dell fucked up even more by setting Windows to use a Dutch keyboard layout, whereas the keyboard is very clearly US international. I fixed it in my own user profile at first, not realizing that the login screen was still using the wrong layout, resulting in me being unable to type my password correctly in some cases. Extremely confusing. I also hate that my version of Windows 7 is Dutch and I can't change it to English, but that's Microsoft's fault, not Dell's.
+
+Hardware-wise there's really not much wrong with the thing. The keyboard feels and looks a bit strange at first, but is really quite nice once you get used to it. The headphone jack is placed a bit awkwardly to the front-right side of the laptop, constantly interfering with my external mouse-age. Oh, and the screen is glary shiny shitty, just like almost every other laptop screen these days. If only they could bring back matte screens...
+
+Last but not least, a special mention here for the exceptionally crappy Cypress Trackpad software. Words cannot accurately describe what kind of epic fuckbums the programmers of that piece of software were. The software must have been machine-translated into Dutch or translated by someone with a massive hatred of Dutch people, because the translation makes no sense whatsoever. A good example of this is the word 'defaults', meaning to restore the default settings of the trackpad. It was rather machinely translated into the Dutch word 'wanprestatie', which in English has the legal meaning of 'defaulting' on something. Great job, guys. Even the word 'Apply' is translated wrongly.
+
+Supposedly the trackpad does multi-touch, but you really don't even want to try. It's just a piece of shit, really. Another function I thought would be really useful to have is to disable the trackpad automatically whenever an external mouse is plugged in. Sounds great, if it actually worked. Instead, what happens is that the trackpad seldom (but sometimes!) turns off when the mouse is already plugged in when Windows starts up. When you plug it in after it's started, it does turn off correctly. NOT. In both cases, 'turn off' is a rather subjective term. The trackpad will in fact work for about half a second whenever you touch it, and then stop working. So when you accidentally touch the trackpad, you will succeed in moving the cursor away from the textfield you were typing in and/or accidentally click a button and THEN it will turn off. As you may realize, that does not quite adhere to the exact meaning of 'turned off'. In other words: YOU FUCKED IT UP CYPRESS! Shame on you.
+
+Well, that all sounds rather negative, but in fact I am quite happy with my new laptop. The screen is just awesome, and the battery lasts surprisingly long for a Sandy Bridge beast. I've been using it as my main PC ever since I got it about a week ago, and I am doing everything that I would otherwise do on my regular PC. That may sound obvious, but it isn't. I rarely treat my laptops as full-fledged PCs because the screen resolution is always too low. Finally, with the 15z, laptops have caught up in terms of screen resolution.
+
+So, to summarize: it's portable, has an excellent screen and is worthy of being a replacement to your desktop PC. Once you uninstall all the crappy software and configure it to your needs I'm sure you'll like the 15z a lot. Oh, and it's cheaper than a Macbook.

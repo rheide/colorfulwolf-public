@@ -1,0 +1,22 @@
+---
+published: true
+title: "The internet is dying"
+id: "3676"
+slug: "the-internet-is-dying"
+author: rv
+date: 2011-01-27 19:30
+categories: Tech,Thoughts
+---
+Or rather, the internet as we used to know it. It used to be a place of freedom and creativity, but the net is closing on all sides.
+
+A number of incidents have occurred recently, but the news item that finally prompted me to write about this was Google blocking <a href="http://mashable.com/2010/12/02/google-piracy-autocomplete/" target="_blank">piracy-related words</a> from its auto-complete service. Honestly, this is not a big deal. The autocomplete service only offers added value on top of regular searches, and you can still search for piracy-related keywords just fine. But think about what would happen if Google <strong>did</strong> block all piracy-related searches? That would be a big deal, exactly because of the amount of trust we've given Google already. Because we all massively flock to Google we are giving them power. It's all fine as long as we get what we want, but if you make them too big we'll be powerless to resist when they do start making changes we don't agree with.
+
+Another fine example of this is internet providers, specifically mobile phone providers, but also landline providers. Coming back from Japan I was shocked to learn about Europe's backwardness about mobile internet. In Japan you get unlimited internet for $30-$40 a month, anywhere in the country. In Europe you pay ridiculous amounts for each gigabyte and you can't even leave the country with your phone. Medieval. <a href="http://arstechnica.com/tech-policy/news/2011/01/netflix-charging-by-the-gigabyte-is-ridiculous.ars" target="_blank">ISPs charging by the gigabyte</a> is just unrealistic. But internet providers are among the biggest of our foes: the ones that have the most power. If they decide to censor the internet, or if they decide to increase prices, there's nothing we can do about it. Switching to another provider won't help, because they'll do exactly the same thing. Too much power given to a small group of companies/people leads to abuse.
+
+But that's only part of the problem. The real problem is the culture that's been established around the phenomenon that is the internet. We all use internet to learn about internet. We all share the same sources, we all read the same articles, and we all have similar ideas of how to 'do' internet. If Google would suddenly disappear there'll be a hundred startups to take their place. And they will all do search in their own unique way, but they'll all be incredibly similar. Because the internet culture states that we do things in a specific way, and if we don't, we won't get any visitors, we won't be able to serve them ads and we won't be able to be profitable. The establishment of an internet culture severely limits creativity. The same goes for internet providers. Because there are already internet providers that are charging per gigabyte there's nearly no incentive to not do the same thing. The market's been established.
+
+I just thought I'd mention software startups in particular here, because they're the most monotonous of all. They all say "But we're different! We have our own unique approach to things!". Yes, you do. But the amount of difference between you and another startup is a lot less than it was 5 or 10 years ago. Part of this is unavoidable, over time the best techniques and the best pieces of software remain and grow bigger while the less good stuff disappears. No one thinks about writing their own version management system if they can use git or svn. What we don't always think about is how our choices empower a select few organizations and limit the amount of choice and freedom on the internet.
+
+It's no longer enough to come up with something fresh, try it out and make it work, now you have to follow the rules and do things like the established order does them. The amount of variance between internet-related companies and their products is decreasing more and more. This, to me, means that the internet is losing one of the things that I loved about it the most. The adventure is gone.
+
+Update: another perfect example of this can be found <a href="http://www.readwriteweb.com/hack/2011/01/quora-blocks-startup-search-en.php" target="_blank">here</a>.

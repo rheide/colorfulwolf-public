@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.colorfulwolf.com/blog/sitemap.xml

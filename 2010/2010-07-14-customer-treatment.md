@@ -1,0 +1,25 @@
+---
+published: true
+title: "Customer (mis)treatment"
+id: "3138"
+slug: "customer-treatment"
+author: rv
+date: 2010-07-14 15:45
+categories: Daily Life,Dutch
+---
+At the risk of sounding like the guy who's been to a foreign country once and can't stop talking about it, there is something that's been annoying the hell out of me today, and I really wanted to write it down. I had three unfortunate run-ins today where store attendants simply proved to be assholes.
+
+My LCD screen broke. It's an Acer 24 inch LCD display. There's nothing special about it, and it was pretty much the cheapest of the cheapest when I bought it. Now, almost 4 weeks later it's suddenly showing a lot of near-dead pixels (red flickering pixels). I packed it in and took it to the store, the <a href="http://www.saturn.nl/vestigingen/Groningen.php3" target="_blank">Saturn</a> in Groningen. I'm kind of regretting buying this thing, as the screen is really low quality, but that's my own fault. In any case, I asked for it to be repaired, and the guy who helped me told me that it would take several weeks to be repaired, and that they didn't have a replacement screen for me. Apparently they offer a replacement product only after the repairs have taken four weeks. So I have to wait four weeks for Acer to fuck up the repair of my screen, and then I will get a replacement screen from Saturn that I have to bring back eventually once I get my real screen back. What I really wanted was to just pay some extra money and buy a better screen, but even 10 days outside of the get-your-money-back period is too late, and the salesman wouldn't even consider it. I'm pissed off at this because 1. the only replacement monitor I have is an old CRT screen that is super heavy and I have to carry it a long way, 2. I really wanted to exhange it for a better LCD screen and I'm amazed that Saturn is so inflexible about it, and 3. I found out after I got home that it was actually my graphics card that was broken, and the LCD was actually fine. ARGH
+
+Ok, so I'm an idiot for not properly checking to see that it was really the screen that was broken, but I'm still appalled at the service. Here's a stupid cliché from me that you will probably see more often: everything in Japan was much better! If I had went to Yodobashi it would probably take the same amount of time to repair the screen, and I might not get a replacement screen either, but at least I would be treated like a customer instead of a piece of dirt.
+
+Two more occasions, this time inconviencing my sister, who I was shopping with today. She had bought an external DVD player yesterday (at the Dixons chain store in case you're wondering) but found out that she didn't need one after all (yeah, I know...). Today she went back to the store, only to hear from the saleswoman that she couldn't get her money back, but they would give her gift certificates instead. If that happens to be the store policy, then that's understandable, but my sister worked in that store about a year ago, and she happens to know for a fact that it's never been a problem to give customer their money back when they return a product. I'm not too sure about Dutch law, but I believe there is also an article that states that you can get your money back within a week if you return the product in its original state. All rules conveniently ignored and the consumer mistreated all because a shitty store wanted to get some extra profit. Where's the service?
+
+Lastly, a very Dutch anecdote, we were at a supermarket buying cheese at a discount price. At the counter the lady ticket the cheese not for the discount price but for the original price. My sister said "Huh?", and was about to tell the counterlady that the cheese was discounted, but before she could do that the lady looked at us with a nasty look on her face, said nothing and proceeded to change the price to the discounted one. All without any extra prodding on our side, meaning she already knew it was discounted and just tried to rip us off. It's the little things, but days like these really do make me feel that all [Dutch people,salesmen,Groningers,Europeans,humans] are assholes.
+
+I'm typing this on a 19 inch CRT that barely fits on my desk. I feel stupid for not checking the LCD on a different PC before sending it off to be repaired. I've been trying to call the Saturn but they're not answering their phone. I'm not expecting them to. The standard here seems to be that the consumer can expect the worst, and anything above that is considered a lucky break. What kind of a society is that?
+
+<div class="caption">
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2010/07/img_6249.jpg"><img class="size-medium wp-image-3139" title="IMG_6249" src="https://s3.amazonaws.com/cfwblog/uploads/2010/07/img_6249.jpg?w=300" alt="" width="300" height="225" /></a>
+<div class="caption-text">Yes, it&#039;s really 2010</div>
+</div>

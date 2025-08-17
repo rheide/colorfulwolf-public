@@ -1,0 +1,35 @@
+---
+published: true
+title: "Suffering is living"
+id: "6431"
+slug: "suffering-is-living"
+author: rv
+date: 2015-11-06 10:51
+categories: Cycling,Thoughts
+tags: woohoo
+---
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2015/11/IMG_2472PS.jpg"><img class="aligncenter wp-image-6432 size-large" src="https://s3.amazonaws.com/cfwblog/uploads/2015/11/IMG_2472PS-600x347.jpg" alt="IMG_2472PS" width="600" height="347" /></a>
+
+Based on my experiences during a cycling trip versus my experiences of working / living the daily life, I infinitely prefer the life of the cycling trip. Cycling triggers strong emotions in me, both positive and negative, and a week of cycling inevitably ends up being more memorable than a week of grinding the day job. It's not just that: cycling holidays give me a feeling of serenity that I just cannot get anywhere else. It's the combination of physical exhaustion, seeing new sights, the possibility of unexpected things happening, being in full and sole control of everything I do all day, and not having to worry about possessions, obligations or anything else.
+
+The best way I can describe this feeling is with an anecdote. When I'm at home I always need to be doing something: I <em>need</em> to play Minecraft, I <em>need</em> to do house chores, I <em>need</em> to learn some new programming technique, I <em>need</em> to pay some bills, I <em>need</em> to do some work thing. Even if I force myself to 'do nothing' for an hour and just sit on the couch trying to clear my mind, it has little effect. It's real life in progress. There's many things to be thought about. My mind cannot rest.
+
+Here's the contrast: yesterday I went cycling to a mountain lake I know very well, and a mountain pass that leads up to the ocean at the end that I've cycled once or twice and have really good memories about. The sun was high in the sky, not a cloud to be seen, and I had the mountain path all to myself with hardly a car passing me by all day. Just me, nature, a tough-but-not-too-tough uphill and a superfast downhill with a gorgeous view. That's <em>all</em> I needed to think about all day. Not a single 'real life' thought entered my mind that day. At the end of the pass I was pleasantly exhausted and had a rest at my favorite beach spot. And then I just sat there, for an hour, thinking of nothing much in particular. My mind was at rest. I did not feel the need to think about something, to <em>solve</em> something. I was just content with being there in that particular moment. Real life provides me with so much things to think about but the beach is just.. the beach.
+
+<a href="https://s3.amazonaws.com/cfwblog/uploads/2015/11/IMG_2304.jpg"><img class="aligncenter size-large wp-image-6435" src="https://s3.amazonaws.com/cfwblog/uploads/2015/11/IMG_2304-600x450.jpg" alt="IMG_2304" width="600" height="450" /></a>
+
+During the past few years of my life I have made some important life choices; choices that at first glance might seem to take me away from that serene moment at the beach. I cannot pretend to know what I'm doing with my life, nor that I am doing the right thing at this very moment, but every once in a while, thanks to cycling trips like these I get to insert a little moment of serenity in my life that allows me to evaluate my life choices in a more detached manner. Having done that, I can say that I am not disappointed at all at the choices I made so far. I think for me the key lesson of this trip was:
+
+<strong>You will never truly appreciate something unless you have suffered for it.</strong>
+
+This is a mental thing, and nothing anyone can tell me can convince me that it's wrong. It's just hardwired into my brain. I have experienced both sides of it: sometimes I get something without making an effort, or the slight effort I make has a huge payoff and I pat myself on the back for being clever. But emotionally speaking, it's a billion times more satisfying to work really hard for something and then finally get it in the end.
+
+And that's the irrational part. Human beings are irrational. Logically speaking there should be absolutely no need for us to prefer the working-hard version over the get-things-for-free version if the end result is the same. But human beings are not wired that way. Our emotional payoff is triggered by irrational things, so we must adjust our logic to sometimes prefer the irrational instead. I could optimize my whole life so that I never have to work hard for anything ever again, but I would hardly feel a thing about it. Why would I want to lead a lifetime of meh versus a grand drama of emotional ups and downs? Sensations, that's what life is all about. Experiences. You need to feel in order to be alive. That is the one truth that needs to take precedence over rational thought. Otherwise you're just a machine.
+
+To moderate and contrast that last statement a little: my little cycling trip of beautiful physical and mental ups and downs was paid for entirely by mind-numbing machine-like labour, done in a rationally optimized way to be perfectly efficient with the time I had available to me. I'd like to think that I do my job well: I don't waste time, I use all of my brain to keep track of everything that's going on and I always try to deliver quality work. It's kept me employed so far in a deadliney environment so I must be doing something right. It's not bad at all; I'm quite passionate about how to do my job right. But somehow all of that pales in comparison to the intensity of a cycling trip. If people would pay me to cycle without telling me what to do I would absolutely choose that over my current job.
+
+But nobody does, of course. Also, nobody would pay me to be an astronaut or a formula one driver. Which is exactly why my current life style is as rational as it gets. I get paid for something I am really good at and also quite enjoy, and I use that money to finance the things that I couldn't possibly do without. And then some things on the side too, because why the hell not.
+
+I blogged previously about the mental fog that I was in before and when I started this trip. This kind of statement, this kind of clarity about my life and what I will go back to, is easy to see when you're on a bike on a clear-blue day, cycling some lovely country lane towards a mountain, but it will be tough to keep a hold of when the daily drudge comes back and I'm commuting to work on a cloudy, rainy day. That is also why I write: to be able to read this back again later so I can draw inspiration from it. They're a way of realigning my future self to the path that I know is right, my way of saying "Trust me, dude. We know what we're doing".
+
+And on that note, I'm flying back home tomorrow. I won't be using the word 'drudge' or 'grind' to describe my life any time soon; we've got a lot of fun things planned in the months ahead. And thanks to this trip I'm completely mentally ready for anything. Bring it on!
